@@ -4,7 +4,6 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-Add awards
 
 * **Outstanding Graduate Research Assistant Computer Science  (Fall 2017)** at Old Dominion University, 2018.
 * **2nd prize in Tapia Student Poster Competition**. ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
