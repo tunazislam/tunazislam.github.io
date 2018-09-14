@@ -4,5 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-E-mail: tunazbuet@gmail.com <br>
+E-mail:<br>
+tunazbuet@gmail.com<br>
+tisla003@odu.edu<br>
+tislam@cs.odu.edu
 
