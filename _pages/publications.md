@@ -16,7 +16,8 @@ author_profile: true
 <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018, pp. 63-78.</i>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6)
 
-. Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, Tunazzina Islam, “A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs”, 46th International Conference on Parallel Processing (ICPP) 2017, 462-471. [Paper link]
+<b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
+Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>46th International Conference on Parallel Processing (ICPP) 2017, pp. 462-471.</i> [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
 ## Journal:
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
