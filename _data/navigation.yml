@@ -1,18 +1,16 @@
 # main links links
 main:
-- title: "Publications"
-url: /publications/
-- title: "Projects"
-url: /projects/
-
--title: "Awards & Scholarships"
-url: /awards/
-
--title: "Teaching"
-url: /teaching/
-
--title: "Talks & Presentations"
-url: /tals/
-
--title: "Contact"
-url: /contact/
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
