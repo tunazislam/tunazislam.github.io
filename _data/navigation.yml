@@ -1,19 +1,7 @@
 # main links links
 main:
-- title: "Publications"
+-title: "Publications"
 url: /publications/
 
 -title: "Projects"
 url: /projects/
-
--title: "Awards & Scholarships"
-url: /awards/
-
--title: "Teaching"
-url: /teaching/
-
--title: "Talks & Presentations"
-url: /talks/
-
--title: "Contact"
-url: /contact/
