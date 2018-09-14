@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tunazzina Islam"
 title_separator          : "-"
 name                     : &name "Tunazzina Islam"
-description              : &description "Graduate student in CS at Old Dominion University"
+description              : &description "Master's in CS"
 url                      : https://tunazislam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tunazislam/tunazislam.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Tunazzina Islam"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate student in CS at Old Dominion University"
   location         : "Virginia, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en"
+  email            : "tunabuet@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/tunazislam"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tunazzina-islam-abba343b/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Tunaz_Islam"
   vine             :
   weibo            :
   xing             :
