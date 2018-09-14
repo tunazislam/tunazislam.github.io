@@ -19,7 +19,9 @@ author_profile: true
 . Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, Tunazzina Islam, “A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs”, 46th International Conference on Parallel Processing (ICPP) 2017, 462-471. [Paper link]
 
 ## Journal:
-1. Tunazzina Islam, Michael Poteat, Jing He, “Quantification of Twist from the Central Lines of β-strands”, Journal of Computational Biology (JCB), January 2018, 25 (1): 114-120. [Paper link] [PDF]
+<b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Journal of Computational Biology (JCB) 2018, 25 (1): 114-120.</i>
+[[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174)
 
 ## Workshop Paper:
 1. Tunazzina Islam, Michael Poteat, Jing He, “A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein”, Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics ( ACM-BCB 2017), 650-654. [Paper link] [PDF]
