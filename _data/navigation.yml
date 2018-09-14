@@ -4,13 +4,13 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Awards & Scholarships"
+    url: /awards/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Talks & Presentations"
+    url: /talks/
+  - title: "Contact"
+    url: /contact/
   - title: "External Link"
     url: https://google.com
