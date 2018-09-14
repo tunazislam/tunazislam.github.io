@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
-permalink: /awards/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 Add project
