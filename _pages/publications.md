@@ -13,7 +13,7 @@ author_profile: true
 ## Conference Paper: 
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018, pp.63-78.</i>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018, pp. 63-78.</i>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6)
 
 . Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, Tunazzina Islam, “A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs”, 46th International Conference on Parallel Processing (ICPP) 2017, 462-471. [Paper link]
@@ -24,7 +24,9 @@ author_profile: true
 [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174)
 
 ## Workshop Paper:
-1. Tunazzina Islam, Michael Poteat, Jing He, “A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein”, Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics ( ACM-BCB 2017), 650-654. [Paper link] [PDF]
+<b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2017, pp. 650-654.</i>
+[[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507)
 
 ## Poster:
 1. Tunazzina Islam, Desh Ranjan, Mohammad Zubair, Harold Riethman “REXTAL: Regional Extension of Assemblies Using Linked-Reads”, accepted to present in Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. [PDF] [Poster PDF]
