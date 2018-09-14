@@ -3,7 +3,7 @@ title: "Quantification of Twist from the Central Lines of β-strands"
 collection: publications
 permalink: /publications/Twist_central_lines
 venue: "JCB 2018"
-citation: '<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Journal of Computational Biology (JCB) 2018, 25 (1): 114-120.</i>.'
+citation: '<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Journal of Computational Biology (JCB) 2018, 25 (1): 114-120.</i>'
 ---  
 [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174)
 
