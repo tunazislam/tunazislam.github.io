@@ -6,7 +6,7 @@ permalink: /publications/REXTAL_QUAST
 date: 2018
 citation: '<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>In submission to to IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM) 2018.</i>'
 ---
-[[PDF]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0dW5hemlzbGFtfGd4OjY2ZDUzZmI0NzZlNTI0Mg)
+[[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
 
 ## Abstract
