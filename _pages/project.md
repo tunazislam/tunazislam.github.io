@@ -4,4 +4,12 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Add project
+## Genomics and Genome Assembly:
+
+## Protein Secondary Structure:
+
+## High-Performance Computing:
+
+
+
+
