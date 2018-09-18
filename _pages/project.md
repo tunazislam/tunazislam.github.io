@@ -22,6 +22,7 @@ implementation was to use of atomic instructions which were particularly slow. T
 Undergraduate Projects:
 ======
 **Computer Graphics Project:**
+
 1) London Tower Bridge
 
 This project covers a mega structure modeling with walking camera. External structure of the bridge was maintained as similar as the original one. Environments like roads, river, ship etc. were added to make the model more realistic. OpenGL lighting was added and the lighting parameters were adjusted to create day-night views. Textures were added using Loadbitmap to make the model more closer to the original structure. Many additional features like snowfall environment, fireworks etc were attached. 
@@ -35,6 +36,7 @@ This project was intended to model a Human from head to toe using a complex tree
 Tools: OpenGL, C++   
 
 **Software Project:**
+
 1) Chess
 
 In this game 2 players could play chess using both mouse and keyboard as well as a timer was implemented to keep track the time of players spent to chose any move.
@@ -64,6 +66,7 @@ Tools: Java
 An E-puck robot was programmed with Webots Simulation software to move and detect obstacles and sounds.
 
 **Hardware Project:**
+
 1) Blind's Eyes
 
 Hardware implementation of Blind's eyes using Sonar Sensor that calculate distances between blind people and obstacles. After completing the measurement speaker tells the distance and blind people get the idea during walking.
