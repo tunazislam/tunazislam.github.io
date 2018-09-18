@@ -4,11 +4,17 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Genomics and Genome Assembly:
+## Graduate Projects:
 
-## Protein Secondary Structure:
+Genomics and Genome Assembly:
+======
 
-## High-Performance Computing:
+Protein Secondary Structure:
+======
+
+High-Performance Computing:
+======
+
 
 
 
