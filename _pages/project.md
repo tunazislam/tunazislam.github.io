@@ -8,13 +8,13 @@ author_profile: true
 Graduate Projects:
 ======
 
-##Genomics and Genome Assembly:
+#Genomics and Genome Assembly:#
 
 
-##Protein Secondary Structure:
+#Protein Secondary Structure:#
 
 
-##High-Performance Computing:
+#High-Performance Computing:#
 
 
 Undergraduate Projects:
