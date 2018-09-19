@@ -11,7 +11,7 @@ citation: '<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Journal of Comput
 Since the discovery of right-handed twist of a β-strand, many studies have been conducted to
 understand the twist. Given the atomic structure of a protein, twist angles have been defined using atomic positions of the backbone. 
 However, limited study is available to characterize twist when the atomic positions are not available but the central lines of β-strands 
-are. Recent studies in cryoelectron microscopy show that it is possible to predict the central lines of β-strands from a mediumresolution 
+are. Recent studies in cryoelectron microscopy show that it is possible to predict the central lines of β-strands from a medium resolution 
 density map. Accurate measurement of twist angles is important in identification of β-strands from such density maps. We propose an 
 effective method to quantify twist angles from a set of splines. In a dataset of 55 pairs of β-strands from 11 β-sheets of 11 proteins, 
 the spline measurement shows comparable results as measured using the discrete method that uses atomic positions directly, particularly in 
