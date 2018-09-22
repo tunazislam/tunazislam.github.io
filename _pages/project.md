@@ -11,13 +11,19 @@ Graduate Projects:
 **Genomics and Genome Assembly:**
 Developed computational method for improved region-specific assembly of single-copy diploid DNA into adjacent DNA including inaccessible subtelomere segmental duplication regions.
 
+Tools: Python, Shell Scripts
+
 **Protein Secondary Structure:**
 Twist analysis of β-strands from atomic structures and 3D images of a protein.
+
+Tools: Python
 
 **High-Performance Computing:**
 Developed parallel algorithm for particle deposition in grid according to Particle-In-Cell (PIC) scheme using GPU. In this project, both
 sequential code and parallel code (using atomic operation) were implemented for particle deposition. The main bottleneck of the parallel
 implementation was to use of atomic instructions which were particularly slow. To achieve more speed up, the parallel PIC simulation code using shared memory was implemented. 
+
+Tools: GPU, CUDA C/C++   
 
 Undergraduate Projects:
 ======
