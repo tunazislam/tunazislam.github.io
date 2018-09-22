@@ -11,12 +11,12 @@ Graduate Projects:
 **Genomics and Genome Assembly:**
 Developed computational method for improved region-specific assembly of single-copy diploid DNA into adjacent DNA including inaccessible subtelomere segmental duplication regions.
 
-Tools: Python, Shell Scripts
+Tools: Python, Shell Scripts, BLAT, 10X Genomics Supernova (De Novo Assembler), BLAST, QUAST, BWA, SAMtools. 
 
 **Protein Secondary Structure:**
 Twist analysis of β-strands from atomic structures and 3D images of a protein.
 
-Tools: Python
+Tools: Python, UCSF Chimera
 
 **High-Performance Computing:**
 Developed parallel algorithm for particle deposition in grid according to Particle-In-Cell (PIC) scheme using GPU. In this project, both
