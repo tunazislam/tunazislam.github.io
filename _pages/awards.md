@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **Outstanding Graduate Research Assistant Computer Science  (Fall 2017)** at Old Dominion University, 2018.
+* **Outstanding Graduate Researcher Computer Science (Fall 2017)** at Old Dominion University, 2018.
 * **Modeling and Simulation Certificate** in Computing and Informatics from Old Dominion University, 2017.
 * **2nd prize in Tapia Student Poster Competition** in ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
