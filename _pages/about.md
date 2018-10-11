@@ -14,5 +14,5 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
-* October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [(SCEC 2018)] (https://scec18.github.io/).
+* October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018] (https://scec18.github.io/).
 * 26-28 Spetember 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) to present my research Poster.
