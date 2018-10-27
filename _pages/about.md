@@ -14,7 +14,7 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
-* October 26, 2018: Paper got accepted to IEEE BIBM 2018 Data Analytics in Metagenomics (DAM 2018) workshop.
+* October 26, 2018: Paper got accepted to IEEE BIBM 2018 [Data Analytics in Metagenomics (DAM 2018) workshop](http://scm.ulster.ac.uk/~e10267487/DAM2018/index.html).
 * October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
 * October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
 * 26-28 Spetember 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) to present my research Poster.
