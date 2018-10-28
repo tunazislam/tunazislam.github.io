@@ -2,7 +2,7 @@
 title: "Analysis of Subtelomeric REXTAL Assemblies Using QUAST"
 collection: publications
 permalink: /publications/REXTAL_QUAST
-citation: '<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>In submission to to IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM) 2018.</i>'
+citation: '<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>Got accepted at [IEEE BIBM 2018](http://orienta.ugr.es/bibm2018/index) [Data Analytics in Metagenomics (DAM 2018) workshop](http://scm.ulster.ac.uk/~e10267487/DAM2018/index.html).</i>'
 ---
 [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
