@@ -25,7 +25,7 @@ Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, 
 
 ## Poster:
 
-1. <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Harold Riethman “REXTAL: Regional Extension of Assemblies Using Linked-Reads”, accepted to present in Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. [[PDF]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) <br>
+1. <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Harold Riethman “REXTAL: Regional Extension of Assemblies Using Linked-Reads”, Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. [[PDF]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) <br>
 
 2. <b>Tunazzina Islam</b>, Jing He, “Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling”, ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. **Won 2nd Prize in Tapia Student Poster Competition 2017**  [[PDF]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf) <br>
 
