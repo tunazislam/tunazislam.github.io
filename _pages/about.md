@@ -17,7 +17,9 @@ Recent News
 * October 26, 2018: Paper got accepted at [IEEE BIBM 2018](http://orienta.ugr.es/bibm2018/index) [Data Analytics in Metagenomics (DAM 2018) workshop](http://scm.ulster.ac.uk/~e10267487/DAM2018/index.html).
 * October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
 * October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
+* 29 September 2018: Attended [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
 * 26-28 Spetember 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) to present my research Poster.
+* July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
 * July 26, 2018: Extended version the ISBRA 2018 paper was invited to submit in [TCBB journal](https://www.computer.org/web/tcbb).
 * April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
 * March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)
