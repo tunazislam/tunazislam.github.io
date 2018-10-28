@@ -9,7 +9,7 @@ author_profile: true
 [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6)
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
@@ -21,7 +21,7 @@ author_profile: true
 [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507)
 
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
-Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>46th International Conference on Parallel Processing (ICPP) 2017, pp. 462-471.</i><br>
+Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[ICPP 2017](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
 ## Poster:
