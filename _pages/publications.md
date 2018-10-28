@@ -17,7 +17,7 @@ author_profile: true
 [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174)
 
 <b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.</i><br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.</i><br>
 [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507)
 
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
