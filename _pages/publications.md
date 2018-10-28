@@ -5,23 +5,24 @@ author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>Got accepted at [IEEE BIBM 2018](http://orienta.ugr.es/bibm2018/index) [Data Analytics in Metagenomics (DAM 2018) workshop](http://scm.ulster.ac.uk/~e10267487/DAM2018/index.html).</i>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>Got accepted at [IEEE BIBM 2018](http://orienta.ugr.es/bibm2018/index) [Data Analytics in Metagenomics (DAM 2018) workshop](http://scm.ulster.ac.uk/~e10267487/DAM2018/index.html).</i><br>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA) 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6)
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>[Journal of Computational Biology (JCB) 2018](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview), 25 (1): 114-120.</i>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>[Journal of Computational Biology (JCB) 2018](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview), 25 (1): 114-120.</i><br>
 [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174)
 
 <b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.</i>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.</i><br>
 [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507)
 
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
-Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>46th International Conference on Parallel Processing (ICPP) 2017, pp. 462-471.</i> [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
+Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>46th International Conference on Parallel Processing (ICPP) 2017, pp. 462-471.</i><br>
+[[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
 ## Poster:
 
