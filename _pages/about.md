@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a 1st year Ph.D. student in Computer Science at Purdue University in West Lafayette. I work with [Dr. Majid Kazemian](https://www.cs.purdue.edu/people/kazemian) in [Kazemian Lab](http://kazemianlab.com/).
 
 I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective) in August 2018. I was both Research Assistant and Teaching Assistant there. I worked with [Dr. Mohammad Zubair](https://www.cs.odu.edu/~zubair/) and [Dr. Desh Ranjan](https://www.odu.edu/directory/people/d/dranjan#profiletab=0). I involved in a research project in collaboration with [School of Medical Diagnostic & Translational Sciences](https://www.odu.edu/mdts) at ODU directed by [Dr. Harold Riethman](https://scholar.google.com/citations?hl=en&user=kjV7IbsAAAAJ&view_op=list_works&sortby=pubdate).
 
