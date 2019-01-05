@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tunazzina Islam"
 title_separator          : "-"
 name                     : &name "Tunazzina Islam"
-description              : &description "Master's in CS"
+description              : &description "Ph.D. in CS"
 url                      : https://tunazislam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tunazislam/tunazislam.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Tunazzina Islam"
   avatar           : "pic_featured.jpg"
-  bio              : "I will start Ph.D. in Computer Science at Purdue University in West Lafayette from Spring 2019."
-  location         : "Virginia, USA"
+  bio              : "Ph.D. student, Computer Science, Purdue University in West Lafayette"
+  location         : "West Lafayette, Indiana, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en"
-  email            : "tunabuet@gmail.com"
+  email            : "tunazbuet@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
