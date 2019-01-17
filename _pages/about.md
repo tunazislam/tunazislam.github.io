@@ -15,6 +15,7 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
+* January 7, 2019: Started Ph.D. in Computer Science at Purdue University, West Lafayette.
 * December 13-14, 2018: Attended [SCEC 2018](https://scec18.github.io/) in Delhi, India.
 * October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
 * October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
