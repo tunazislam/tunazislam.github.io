@@ -4,6 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
+* **Research Assistantship** Department of Computer Science, Purdue University, 2019-Present.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
 * Travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
 * **Outstanding Graduate Researcher Computer Science (Fall 2017)** at Old Dominion University, 2018. [[Link]](https://twitter.com/oducs/status/988885970081714176)
@@ -12,7 +13,7 @@ author_profile: true
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
 * **CAPWIC Scholarship** for attending ACM Capital Region Celebration of Women in Computing, 2017.
 * **GHC Scholarship [[Link]](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/)** for attending 2016 Grace Hopper Celebration of Women in Computing (GHC), Houston, TX, USA. 
-* **Travel Award to participate 2016 CRA-W Graduate Cohort Workshop**, San Diego, CA, USA.
+* **Travel Award to participate 2016 CRA-W Graduate Cohort Workshop**, San Diego, CA, 2016.
 * Featured on Old Dominion University's Computer Science Department's Official Website as "Featured Student", 2016.
 * **Modeling & Simulation Scholar** Old Dominion University, August 2016 - August 2018.
 * **Graduate Assistantship** Department of Computer Science, Old Dominion University, 2015-2018.
