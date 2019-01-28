@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/REXTAL_QUAST
 citation: '<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. <i></i>'
 ---
-[[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
+(On Submission) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
 
 ## Abstract
