@@ -5,8 +5,8 @@ author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. <i></i><br>
-(On Submission) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
+<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. Accepted to publish in [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb) journal. <i></i><br>
+[[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_BIBM2018.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
