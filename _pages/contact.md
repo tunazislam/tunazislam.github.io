@@ -5,6 +5,11 @@ permalink: /contact/
 author_profile: true
 ---
 
+Office:<br>
+Lawson Computer Science Building B132-1 <br>
+305 N. University Street <br>
+West Lafayette, IN 47907, USA <br>
+
 E-mail:<br>
 islam32@purdue.edu<br>
 tunazbuet@gmail.com<br>
