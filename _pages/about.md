@@ -22,7 +22,7 @@ Recent News
 * October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
 * September 29, 2018: Attended [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
 * Sepetember 26-28, 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) in Houston, TX to present my research Poster.
-* August 2018: Graduated with Master's degree in [Computer Science] (https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
+* August 2018: Graduated with Master's degree in [Computer Science](https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
 * July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
 * July 26, 2018: Extended version the ISBRA 2018 paper was invited to submit in [TCBB journal](https://www.computer.org/web/tcbb).
 * April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
