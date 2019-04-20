@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 * **Research Assistantship** Department of Computer Science, Purdue University, 2019-Present.
+* **Travel Award to participate 2019 CRA-W Graduate Cohort Workshop**, Chicago, IL, 2019.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
 * Travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
 * **Outstanding Graduate Researcher Computer Science (Fall 2017)** at Old Dominion University, 2018. [[Link]](https://twitter.com/oducs/status/988885970081714176)
