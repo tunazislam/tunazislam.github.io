@@ -1,5 +1,6 @@
 ---
-title: "Publications     [Google Scholar Profile](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en&oi=ao  
+title: "Publications
+[Google Scholar Profile](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en) 
 [ResearchGate Profile](https://www.researchgate.net/profile/Tunazzina_Islam) " 
 permalink: /publications/ 
 author_profile: true
