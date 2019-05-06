@@ -4,8 +4,8 @@ collection: publications
 permalink: /publications/REXTAL_QUAST
 citation: '<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).<i></i>'
 ---
-[[Preprint link]](https://ieeexplore.ieee.org/document/8703093)
 [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
+[[Paper link]](https://ieeexplore.ieee.org/document/8703093)
 
 
 ## Abstract
