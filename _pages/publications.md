@@ -6,6 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
+<b> Ex-Twit: Explainable Twitter Mining on Health Data </b> <br>
+<b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
+
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb). <i></i><br>
 [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf) [[Paper link]](https://ieeexplore.ieee.org/document/8703093)
