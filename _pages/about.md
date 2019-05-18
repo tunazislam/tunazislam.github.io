@@ -15,6 +15,8 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
+* May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
+
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
 * April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
 * January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
