@@ -32,6 +32,7 @@ Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, 
 ## Technical Report: 
 <b> [Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
 <b>Tunazzina Islam</b>. Under review.
+[[PDF]](https://tunazislam.github.io/files/Twitter_correlation_mining.pdf)
 
 ## Poster:
 
