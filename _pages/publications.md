@@ -29,6 +29,10 @@ author_profile: true
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[ICPP 2017](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
+## Technical Report: 
+<b> [Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
+<b>Tunazzina Islam</b>. Under review.
+
 ## Poster:
 
 1. <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Harold Riethman “REXTAL: Regional Extension of Assemblies Using Linked-Reads”, Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. [[PDF]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) <br>
