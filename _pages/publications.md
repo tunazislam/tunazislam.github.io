@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
-<b> Ex-Twit: Explainable Twitter Mining on Health Data </b> <br>
+<b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
