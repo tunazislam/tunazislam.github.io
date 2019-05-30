@@ -16,9 +16,9 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 Recent News
 ======
 * May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
-
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
 * April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
+* January 30, 2019: Paper accepted to publish in [TCBB journal](https://www.computer.org/web/tcbb).
 * January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
 * December 13-14, 2018: Attended [SCEC 2018](https://scec18.github.io/) in Delhi, India.
 * October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
@@ -27,7 +27,6 @@ Recent News
 * Sepetember 26-28, 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) in Houston, TX to present my research Poster.
 * August 2018: Graduated with Master's degree in [Computer Science](https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
 * July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
-* July 26, 2018: Extended version the ISBRA 2018 paper was invited to submit in [TCBB journal](https://www.computer.org/web/tcbb).
 * April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
 * March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/) conference Beijing, China.
 * September 22, 2017: Won **2nd prize** in [Tapia Student Poster Competition](https://twitter.com/Tunaz_Islam/status/911624351400767490) in ACM Richard Tapia Celebration of Diversity in Computing Conference, Atlanta, GA.
