@@ -15,7 +15,7 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
-* June 07, 2019 : Paper accepted in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) in conjunction with [KDD'19](https://www.kdd.org/kdd2019/). 
+* June 07, 2019 : Paper accepted at [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) to be held in conjunction with [KDD'19](https://www.kdd.org/kdd2019/). 
 * May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
 * April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
