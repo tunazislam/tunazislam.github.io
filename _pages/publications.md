@@ -6,6 +6,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
+
+<b> Yoga-Veganism: Correlation Mining of Twitter Health Data. </b> <br>
+<b>Tunazzina Islam</b>. Accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) in conjunction with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
+
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.02132)
@@ -30,10 +34,6 @@ author_profile: true
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[ICPP 2017](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
-## Technical Report: 
-<b> [Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
-<b>Tunazzina Islam</b>. Under review.
-[[PDF]](https://tunazislam.github.io/files/Twitter_correlation_mining.pdf)
 
 ## Poster:
 
