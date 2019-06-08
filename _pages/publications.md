@@ -8,7 +8,7 @@ author_profile: true
 ## Conference/Journal/Workshop Papers: 
 
 <b> Yoga-Veganism: Correlation Mining of Twitter Health Data. </b> <br>
-<b>Tunazzina Islam</b>. Accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) in conjunction with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
+<b>Tunazzina Islam</b>. Accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) to be held in conjunction with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
