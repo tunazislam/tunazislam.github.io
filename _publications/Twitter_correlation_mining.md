@@ -2,7 +2,8 @@
 title: "Correlation Mining of Twitter Health Data"
 collection: publications
 permalink: /publications/Twitter_correlation_mining
-citation: '<b>Tunazzina Islam</b> <i></i>'
+venue: "8th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM) @KDD 2019"
+citation: '<b>Tunazzina Islam</b>.<i> Proceedings of 8$^{th}$ KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM@KDD'19)(to appear)</i>'
 ---
 [[PDF]](https://tunazislam.github.io/files/Twitter_correlation_mining.pdf)
 
