@@ -1,5 +1,5 @@
 ---
-title: "Correlation Mining of Twitter Health Data"
+title: "Yoga-Veganism: Correlation Mining of Twitter Health Data"
 collection: publications
 permalink: /publications/Twitter_correlation_mining
 venue: "8th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM) @ KDD 2019"
