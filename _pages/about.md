@@ -19,6 +19,7 @@ Recent News
 * May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). 
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
 * April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
+* March 15, 2019: Selected to participate in the [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
 * January 30, 2019: Paper accepted to publish in [TCBB journal](https://www.computer.org/web/tcbb).
 * January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
 * December 13-14, 2018: Attended [SCEC 2018](https://scec18.github.io/) in Delhi, India.
