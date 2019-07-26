@@ -31,7 +31,7 @@ Recent News
 * August 2018: Graduated with Master's degree in [Computer Science](https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
 * July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
 * April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
-* March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/) conference Beijing, China.
+* March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), Beijing, China.
 * September 22, 2017: Won **2nd prize** in [Tapia Student Poster Competition](https://twitter.com/Tunaz_Islam/status/911624351400767490) in ACM Richard Tapia Celebration of Diversity in Computing Conference, Atlanta, GA.
 * June 16, 2017: A paper titled "Quantification of Twist from the Central Lines of β-strands" was accepted in [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview).
 * October 19-21, 2016: Attended GHC 2016 as a [GHC Scholar](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/) in Houston, TX and presented my research Poster.
