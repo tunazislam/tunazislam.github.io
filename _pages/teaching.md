@@ -10,6 +10,7 @@ Undergraduate Courses:
 
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
+* Introduction to the Analysis of Algorithms, Fall 2019
 * Data Structures and Algorithms, Summer 2019
 
 **Teaching Assistant, Department of Computer Science, Old Dominion University**
