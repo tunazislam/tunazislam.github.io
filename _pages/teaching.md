@@ -16,7 +16,6 @@ Undergraduate Courses:
 **Teaching Assistant, Department of Computer Science, Old Dominion University**
 
 * Introduction to Computer Architecture, Fall 2015 & Fall 2016.
-
 * Introduction to Discrete Structures, Spring 2016.
 
 
