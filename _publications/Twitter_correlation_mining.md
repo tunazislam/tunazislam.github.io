@@ -5,7 +5,7 @@ permalink: /publications/Twitter_correlation_mining
 venue: "8th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM) @ KDD 2019"
 citation: '<b>Tunazzina Islam</b>.<i> In Proceedings of 8th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM) @ KDD 2019 (to appear)</i>'
 ---
-[[arXiv]](https://arxiv.org/abs/1906.07668) [[PDF]](https://tunazislam.github.io/files/Twitter_correlation_mining.pdf)
+[[arXiv]](https://arxiv.org/abs/1906.07668) [[PDF]](https://tunazislam.github.io/files/Twitter_correlation_mining.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
 
 
