@@ -7,13 +7,13 @@ author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
 
-<b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
-<b>Tunazzina Islam</b>. Accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
-[[arXiv]](https://arxiv.org/abs/1906.07668) [[Slide]](https://github.com/tunazislam/tunazislam.github.io/blob/master/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
-
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.02132)
+
+<b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
+<b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
+[[arXiv]](https://arxiv.org/abs/1906.07668) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb). <i></i><br>
