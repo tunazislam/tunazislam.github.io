@@ -9,7 +9,7 @@ author_profile: true
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
-[[arXiv]](https://arxiv.org/abs/1906.02132)
+[[arXiv]](https://arxiv.org/abs/1906.02132) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
 
 <b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
