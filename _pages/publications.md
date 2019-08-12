@@ -8,7 +8,7 @@ author_profile: true
 ## Conference/Journal/Workshop Papers: 
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
-<b>Tunazzina Islam</b>. Accepted to publish in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
+<b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.02132) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
 
 <b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
