@@ -15,19 +15,19 @@ author_profile: true
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.07668) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
-<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> 
-<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE)](https://bibe2019.ics.forth.gr/). <i></i><br>
+<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
+<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019)](https://bibe2019.ics.forth.gr/). <i></i><br>
 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb). <i></i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb), 2019. <i></i><br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA)](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA 2018)](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
 [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) 
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>[Journal of Computational Biology (JCB) 2018](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview), 25 (1): 114-120.</i><br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>[Journal of Computational Biology (JCB)](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview), 2018, 25 (1): 114-120.</i><br>
 [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) 
 
 <b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
@@ -35,7 +35,7 @@ author_profile: true
 [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) 
 
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
-Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[ICPP 2017](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
+Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[46th International Conference on Parallel Processing (ICPP 2017)](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
 
