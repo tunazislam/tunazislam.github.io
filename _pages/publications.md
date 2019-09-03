@@ -15,12 +15,15 @@ author_profile: true
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD'19](https://www.kdd.org/kdd2019/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.07668) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
+<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> 
+<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE)](https://bibe2019.ics.forth.gr/). <i></i><br>
+
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb). <i></i><br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA)](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
 [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) 
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
