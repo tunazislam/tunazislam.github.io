@@ -12,6 +12,4 @@ West Lafayette, IN 47907, USA <br>
 
 E-mail:<br>
 islam32@purdue.edu<br>
-tunazbuet@gmail.com<br>
-tislam@cs.odu.edu
-
+tunazbuet@gmail.com
