@@ -15,9 +15,12 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
+* December 17, 2019 : Passed Ph.D. qualifier.
 * August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
 * August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchoarge, Alaska.
 * July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
+
+<!---
 * June 07, 2019 : Paper accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/), Anchorage, Alaska. 
 * May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/), Macao, China. 
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
@@ -39,5 +42,5 @@ Recent News
 * October 19-21, 2016: Attended GHC 2016 as a [GHC Scholar](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/) in Houston, TX and presented my research Poster.
 * September 14-17, 2016: Attended with the travel grant at ACM Richard Tapia Celebration of Diversity in Computing Conference, Austin, TX.
 * April 15-16, 2016: Attended CRA-W Graduate Cohort Workshop, San Diego, CA.
-
+-->
 
