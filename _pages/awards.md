@@ -6,6 +6,7 @@ author_profile: true
 ---
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
 * **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
+* **GSB Travel grant** Department of Computer Science, Purdue University, Fall 2019.
 * **Teaching Assistantship** Department of Computer Science, Purdue University, 2019-Present.
 * **Travel Award** to participate 2019 CRA-W Graduate Cohort Workshop, Chicago, IL, 2019.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
