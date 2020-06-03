@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Graduate Projects:
+M.Sc. Projects:
 ======
 
 **Genomics and Genome Assembly:**
