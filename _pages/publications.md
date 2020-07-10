@@ -17,6 +17,7 @@ author_profile: true
 
 <b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
 <br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019)](https://bibe2019.ics.forth.gr/). <i></i><br>
+[[Paper link]](https://ieeexplore.ieee.org/document/8941857)
 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb), 2019. <i></i><br>
