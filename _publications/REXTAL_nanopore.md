@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/REXTAL_nanopore
 citation: 'Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019).'
 ---
+[[Paper link]](https://ieeexplore.ieee.org/document/8941857)
 
 ## Abstract
 Human subtelomere regions are highly enriched in large segmental duplications and structural variants, leading to
