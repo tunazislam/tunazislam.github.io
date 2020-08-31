@@ -20,6 +20,8 @@ Recent News
 * August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
 * August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchoarge, Alaska.
 * July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
+* January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
+* October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) beginning in Spring 2019. 
 
 <!---
 * June 07, 2019 : Paper accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/), Anchorage, Alaska. 
