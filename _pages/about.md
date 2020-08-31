@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My research interests broadly lies in Natural Language Processing, Social Media Mining. I am intereted in understanding people's life-style choices using social media data. I am currently working with [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
+I am a 2nd year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My research interests broadly lies in Natural Language Processing, Social Media Mining. I am intereted in understanding people's life-style choices using social media data. My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
 
 I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective) in August 2018. I was both Research Assistant and Teaching Assistant there. I worked with [Dr. Mohammad Zubair](https://www.cs.odu.edu/~zubair/) and [Dr. Desh Ranjan](https://www.odu.edu/directory/people/d/dranjan#profiletab=0). I involved in a research project in collaboration with [School of Medical Diagnostic & Translational Sciences](https://www.odu.edu/mdts) at ODU directed by [Dr. Harold Riethman](https://scholar.google.com/citations?hl=en&user=kjV7IbsAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -15,6 +15,7 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
+* August 31, 2020 : Submitted Ph.D. Plan of Study.
 * December 17, 2019 : Passed Ph.D. qualifier.
 * August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
 * August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchoarge, Alaska.
