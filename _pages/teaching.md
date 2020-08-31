@@ -10,9 +10,9 @@ Undergraduate Courses:
 
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
-* Foundations of Computer Science, Spring 2020 & Summer 2020
-* Introduction to the Analysis of Algorithms, Fall 2019
-* Data Structures and Algorithms, Summer 2019 & Fall 2020
+* Foundations of Computer Science, Spring 2020 & Summer 2020.
+* Introduction to the Analysis of Algorithms, Fall 2019.
+* Data Structures and Algorithms, Summer 2019 & Fall 2020.
 
 **Teaching Assistant, Department of Computer Science, Old Dominion University**
 
