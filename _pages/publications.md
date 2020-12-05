@@ -7,6 +7,9 @@ author_profile: true
 ---
 ## Conference/Journal/Workshop Papers: 
 
+<b> [*Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information](http://tunazislam.github.io/publications/causal-yoga-happiness)</b> <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)) (To appear). <i></i><br>
+
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
 [[arXiv]](https://arxiv.org/abs/1906.02132) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
