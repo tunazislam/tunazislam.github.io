@@ -3,6 +3,8 @@ title: "Ex-Twit: Explainable Twitter Mining on Health Data"
 collection: publications
 permalink: /publications/Ex-Twit
 venue: "The 7th International Workshop on Natural Language Processing for Social Media (SocialNLP 2019) In conjunction with 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)"
+citation: '<b>Tunazzina Islam</b>.<i> 7th International Workshop on Natural Language Processing for Social Media (SocialNLP 2019) @ IJCAI-2019 </i>'
+
 ---  
 [[arXiv]](https://arxiv.org/abs/1906.02132) [[PDF]](https://tunazislam.github.io/files/Ex-Twit2019.pdf) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
 
