@@ -3,6 +3,8 @@ title: "Does Yoga Make You Happy? Analyzing Twitter User Happiness using Textual
 collection: publications
 permalink: /publications/causal-yoga-happiness
 venue: "2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/))"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data (IEEE BigData 2020) (To appear)'
+
 ---  
 
 ## Abstract
