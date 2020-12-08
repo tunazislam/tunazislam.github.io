@@ -9,14 +9,15 @@ author_profile: true
 
 <b> [*Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information](http://tunazislam.github.io/publications/causal-yoga-happiness)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)) (To appear). <i></i><br>
+[[arXiv]](https://arxiv.org/abs/2012.02939)
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
 <b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
-[[arXiv]](https://arxiv.org/abs/1906.02132) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
+[[arXiv]](https://arxiv.org/pdf/1906.02132.pdf) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
 
 <b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <i></i><br>
-[[arXiv]](https://arxiv.org/abs/1906.07668) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
+[[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
 <b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
 <br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019)](https://bibe2019.ics.forth.gr/). <i></i><br>
