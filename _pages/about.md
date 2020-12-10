@@ -15,6 +15,7 @@ Prior to joining ODU, I was working as a Software Developer in the R&D team of [
 
 Recent News
 ======
+* December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
 * August 31, 2020 : Submitted Ph.D. Plan of Study.
 * December 17, 2019 : Passed Ph.D. qualifier.
 * August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
