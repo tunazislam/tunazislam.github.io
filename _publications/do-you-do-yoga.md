@@ -2,8 +2,8 @@
 title: "Do You Do Yoga? Understanding Twitter Users' Types and Motivations using Social and Textual Information"
 collection: publications
 permalink: /publications/do-you-do-yoga
-venue: "2021 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/))"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 15th International Conference on Semantic Computing (ICSC 2021). (To appear)'
+venue: "2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/))"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing (ICSC 2021). (To appear)'
 
 --- 
 
