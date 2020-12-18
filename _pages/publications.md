@@ -1,11 +1,12 @@
 ---
-title: "Publications
-[Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en) 
+title: "[Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en) 
 [ResearchGate](https://www.researchgate.net/profile/Tunazzina_Islam) " 
 permalink: /publications/ 
 author_profile: true
 ---
-## Conference/Journal/Workshop Papers: 
+
+Conference/Journal/Workshop Papers: 
+======
 <b> [*Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information](http://tunazislam.github.io/publications/do-you-do-yoga)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)) (To appear). <i></i><br>
 
