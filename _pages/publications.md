@@ -1,13 +1,8 @@
-<!---
 ---
-title: "[Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en) 
-[ResearchGate](https://www.researchgate.net/profile/Tunazzina_Islam) " 
+title: "" 
 permalink: /publications/ 
 author_profile: true
 ---
-
-## [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en)  [ResearchGate](https://www.researchgate.net/profile/Tunazzina_Islam)
--->
 
 Conference/Journal/Workshop Papers: 
 ======
