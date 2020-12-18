@@ -8,6 +8,7 @@ Conference/Journal/Workshop Papers:
 ======
 <b> [*Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information](http://tunazislam.github.io/publications/do-you-do-yoga)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)) (To appear). <i></i><br>
+[[arXiv]](https://arxiv.org/abs/2012.09332)
 
 <b> [*Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information](http://tunazislam.github.io/publications/causal-yoga-happiness)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)) (To appear). <i></i><br>
