@@ -13,6 +13,10 @@ I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old D
 
 Prior to joining ODU, I was working as a Software Developer in the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) department from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/) in year 2013.
 
+
+See my publications [here](https://tunazislam.github.io/publications/).
+======
+
 Recent News
 ======
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
