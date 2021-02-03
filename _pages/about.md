@@ -19,7 +19,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
-* January 27-29, 2021: Attended [The 15th IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
+* January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
 * August 31, 2020 : Submitted Ph.D. Plan of Study.
 * December 17, 2019 : Passed Ph.D. qualifier.
