@@ -2,13 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
-    url: /projects/
-  - title: "Awards & Scholarships"
-    url: /awards/
   - title: "Teaching"
     url: /teaching/
   - title: "Talks & Presentations"
     url: /talks/
+  - title: "Service"
+    url: /service/
+  - title: "Awards & Scholarships"
+    url: /awards/
+  - title: "Projects"
+    url: /projects/
   - title: "Contact"
     url: /contact/
