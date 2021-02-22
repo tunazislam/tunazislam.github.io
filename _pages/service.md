@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: ""
+title: "Academic Service"
 permalink: /service/
 author_profile: true
 ---
