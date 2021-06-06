@@ -4,6 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
+* **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM).
 * **Summer Research Grant 2021** Graduate School Summer Research Grant for thesis research support, Purdue University.
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
 * **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
