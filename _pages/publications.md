@@ -8,7 +8,7 @@ Conference/Journal/Workshop Papers:
 ======
 <b> [Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model](http://tunazislam.github.io/publications/yoga-keto-analysis)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)) (To appear). <i></i><br>
-[[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) 
+[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf)
 
 <b> [*Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information](http://tunazislam.github.io/publications/do-you-do-yoga)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)). <i></i><br>
