@@ -3,6 +3,7 @@ title: "Twitter User Representation using Weakly Supervised Graph Embedding"
 collection: publications
 permalink: /publications/weakly-graphembd-yoga-keto
 venue: "16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html))"
+citation: 'Islam, T., & Goldwasser, D. (2022). Twitter User Representation using Weakly Supervised Graph Embedding. Proceedings of the International AAAI Conference on Web and Social Media. (To appear)'
 
 --- 
 
