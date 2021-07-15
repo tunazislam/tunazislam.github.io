@@ -20,7 +20,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 Recent News
 ======
 * July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2021/index.html).
-* June 08-10, 2021: Attended [ICWSM-2021](https://www.icwsm.org/2021/index.html) (Virtually).
+* June 08-10, 2021: Attended [ICWSM-2021](https://www.icwsm.org/2021/index.html), Atlanta, Georgia (Virtually).
 * March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
 * January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
