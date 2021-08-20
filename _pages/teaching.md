@@ -5,6 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Graduate Courses:
+======
+**Teaching Assistant, Department of Computer Science, Purdue University**
+
+* Statistical Machine Learning, Fall 2021.
+
+**Teaching Assistant, Department of Computer Science, Old Dominion University**
+
+* High-Performance Computing and Big Data, Spring 2017 & Spring 2018.
+
 Undergraduate Courses:
 ======
 
@@ -18,11 +28,3 @@ Undergraduate Courses:
 
 * Introduction to Computer Architecture, Fall 2015 & Fall 2016.
 * Introduction to Discrete Structures, Spring 2016.
-
-
-Graduate Courses:
-======
-**Teaching Assistant, Department of Computer Science, Old Dominion University**
-
-* High-Performance Computing and Big Data, Spring 2017 & Spring 2018.
-
