@@ -7,5 +7,6 @@ author_profile: true
 **Program Committee Member - Reviewer**  
 * EMNLP 2021
 * ACL 2021
+* Complementary Therapies in Clinical Practice (CTCP) journal
 * HEALTHINFO 2021 
 * COLING 2020
