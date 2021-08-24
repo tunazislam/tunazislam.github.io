@@ -7,52 +7,54 @@ author_profile: true
 Conference/Journal/Workshop Papers: 
 ======
 <b> [Twitter User Representation using Weakly Supervised Graph Embedding](http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html)). (To appear). <i></i>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html)). (To appear). 
 <br>
 [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf)
 
 <b> [Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model](http://tunazislam.github.io/publications/yoga-keto-analysis)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)). <i></i><br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)). 
+<br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf)
 
 <b> [*Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information](http://tunazislam.github.io/publications/do-you-do-yoga)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)). <i></i><br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)).
+<br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9364605) [[arXiv]](https://arxiv.org/pdf/2012.09332.pdf) [[Slide]](https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf)
 
 <b> [*Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information](http://tunazislam.github.io/publications/causal-yoga-happiness)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)). <i></i><br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)). <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9378461) [[arXiv]](https://arxiv.org/pdf/2012.02939.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf)
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
-<b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <i></i><br>
+<b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.02132.pdf) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf)
 
 <b> [Yoga-Veganism: Correlation Mining of Twitter Health Data](http://tunazislam.github.io/publications/Twitter_correlation_mining) </b> <br>
-<b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <i></i><br>
+<b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
 <b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
-<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. [19th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2019)](https://bibe2019.ics.forth.gr/). <i></i><br>
+<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)). <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8941857)
 
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](https://www.computer.org/web/tcbb), 2019. <i></i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics ([TCBB](https://www.computer.org/web/tcbb)), 2019. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. <i>[14th International Symposium on Bioinformatics Research and Applications (ISBRA 2018)](http://alan.cs.gsu.edu/isbra18/), pp. 63-78.</i><br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications ([ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)), pp. 63-78.<br>
 [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) 
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>[Journal of Computational Biology (JCB)](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview), 2018, 25 (1): 114-120.</i><br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. Journal of Computational Biology ([JCB](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)), 2018, 25 (1): 114-120.<br>
 [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) 
 
 <b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
-<b>Tunazzina Islam</b>, Michael Poteat, Jing He. <i>Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.</i><br>
+<b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654.<br>
 [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) 
 
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
-Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. <i>[46th International Conference on Parallel Processing (ICPP 2017)](http://www.icpp-conf.org/2017/), pp. 462-471.</i><br>
+Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing ([ICPP 2017](http://www.icpp-conf.org/2017/)), pp. 462-471.<br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
 
