@@ -7,22 +7,19 @@ author_profile: true
 Conference/Journal/Workshop Papers: 
 ======
 <b> [Twitter User Representation using Weakly Supervised Graph Embedding](http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html)). (To appear). 
-<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html)). (To appear). <br>
 [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf)
 
 <b> [Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model](http://tunazislam.github.io/publications/yoga-keto-analysis)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)). 
-<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. <br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf)
 
 <b> [*Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information](http://tunazislam.github.io/publications/do-you-do-yoga)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)).
-<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)), pp. 362-365, doi: 10.1109/ICSC50631.2021.00067. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9364605) [[arXiv]](https://arxiv.org/pdf/2012.09332.pdf) [[Slide]](https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf)
 
 <b> [*Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information](http://tunazislam.github.io/publications/causal-yoga-happiness)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)). <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)), pp. 4241-4249, doi: 10.1109/BigData50022.2020.9378461. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9378461) [[arXiv]](https://arxiv.org/pdf/2012.02939.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf)
 
 <b> [Ex-Twit: Explainable Twitter Mining on Health Data](http://tunazislam.github.io/publications/Ex-Twit)</b> <br>
@@ -33,16 +30,16 @@ Conference/Journal/Workshop Papers:
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
-<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
-<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)). <br>
-[[Paper link]](https://ieeexplore.ieee.org/document/8941857)
-
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics ([TCBB](https://www.computer.org/web/tcbb)), 2019. <br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics ([TCBB](https://www.computer.org/web/tcbb)), vol. 18, no. 1, pp. 365-372, 1 Jan.-Feb. 2021, doi: 10.1109/TCBB.2019.2913845. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
 
+<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
+<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)), pp. 60-65, doi: 10.1109/BIBE.2019.00020. <br>
+[[Paper link]](https://ieeexplore.ieee.org/document/8941857)
+
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications ([ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)), pp. 63-78.<br>
+<b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications ([ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)), pp. 63-78, doi: 10.1007/978-3-319-94968-0_6. <br>
 [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) 
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
