@@ -11,4 +11,4 @@ author_profile: true
 * COLING 2020
 
 **Journal Reviewer**
-* Complementary Therapies in Clinical Practice (CTCP) 
+* Complementary Therapies in Clinical Practice (CTCP), 2021
