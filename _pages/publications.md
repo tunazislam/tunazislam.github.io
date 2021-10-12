@@ -7,7 +7,7 @@ author_profile: true
 Conference/Journal/Workshop Papers: 
 ======
 <b> [Twitter User Representation using Weakly Supervised Graph Embedding](http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2021/index.html)). (To appear). <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/)). (To appear). <br>
 [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf)
 
 <b> [Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model](http://tunazislam.github.io/publications/yoga-keto-analysis)</b> <br>
