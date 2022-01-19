@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My research interests broadly lie in Natural Language Processing, Social Media Mining. I am interested in understanding people's life-style choices using social media data. My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
+I am a 4th year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My research interests broadly lie in Natural Language Processing, Social Media Mining. My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
 
+<I am interested in understanding people's life-style choices using social media data.> 
 I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective) in August 2018. I was both Research Assistant and Teaching Assistant there. I worked with [Dr. Mohammad Zubair](https://www.cs.odu.edu/~zubair/) and [Dr. Desh Ranjan](https://www.odu.edu/directory/people/d/dranjan#profiletab=0). I involved in a research project in collaboration with [School of Medical Diagnostic & Translational Sciences](https://www.odu.edu/mdts) at ODU directed by [Dr. Harold Riethman](https://scholar.google.com/citations?hl=en&user=kjV7IbsAAAAJ&view_op=list_works&sortby=pubdate).
 
 Prior to joining ODU, I was working as a Software Developer in the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) department from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/) in year 2013.
