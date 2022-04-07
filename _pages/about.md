@@ -21,6 +21,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
+* April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
 * July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
 * June 08-10, 2021: Attended [ICWSM-2021](https://www.icwsm.org/2021/index.html), Atlanta, Georgia (Virtually).
 * March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
