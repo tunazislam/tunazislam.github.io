@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Academic Service"
+title: "Academic & Institutional Service"
 permalink: /service/
 author_profile: true
 ---
@@ -22,6 +22,9 @@ author_profile: true
 **Conference Volunteer**
 * ICWSM student volunteer - 2022
 * KDD student volunteer - 2019
+
+**Institutional Service**
+* Vice President, Computer Science Graduate Student Association, Purdue University (2022-2023)
 
 <!-- **Program Committee Member - Conference Reviewer**
 * ICWSM 2022
