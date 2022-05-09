@@ -4,12 +4,13 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-* **Summer Research Grant 2022** Graduate School Summer Research Grant for thesis research support, Purdue University.
-* **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM).
+* **ACM-W Scholarship** for attendance at ICWSM 2022.
+* **ICWSM Travel Grant** to participate International AAAI Conference on Web and Social Media (ICWSM), 2021 & 2022.
+* **Summer Research Grant 2022** Graduate School Summer Research Grant for thesis research support, Purdue University.<!-- * **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM). -->
 * **Summer Research Grant 2021** Graduate School Summer Research Grant for thesis research support, Purdue University.
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
 * **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
-* **GSB Travel grant** Department of Computer Science, Purdue University, Fall 2019.
+* **GSB Travel Grant** Department of Computer Science, Purdue University, Fall 2019.
 * **Teaching Assistantship** Department of Computer Science, Purdue University, 2019-Present.
 * **Travel Award** to participate 2019 CRA-W Graduate Cohort Workshop, Chicago, IL, 2019.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
