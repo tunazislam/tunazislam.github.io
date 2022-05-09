@@ -21,6 +21,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
+* May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholarships/) for attendance at ICWSM 2022.
+* May 9, 2022: Received ICWSM2022 travel grant.
 * April 11, 2022: Received Graduate School Summer Research Grant Award.
 * April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
 * July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
