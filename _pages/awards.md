@@ -6,8 +6,7 @@ author_profile: true
 ---
 * **ACM-W Scholarship** for attendance at ICWSM 2022.
 * **ICWSM Travel Grant** to participate International AAAI Conference on Web and Social Media (ICWSM), 2021 & 2022.
-* **Summer Research Grant 2022** Graduate School Summer Research Grant for thesis research support, Purdue University.<!-- * **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM). -->
-* **Summer Research Grant 2021** Graduate School Summer Research Grant for thesis research support, Purdue University.
+* **Summer Research Grant** Graduate School Summer Research Grant for thesis research support, Purdue University, 2021 & 2022.
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
 * **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
 * **GSB Travel Grant** Department of Computer Science, Purdue University, Fall 2019.
@@ -32,3 +31,6 @@ author_profile: true
 * Award from Daily Prothom Alo Newspaper for obtaining GPA 5.0/5.0 in S.S.C exam, 2005.
 * **Junior Scholarship** awarded by the Ministry of Education, Bangladesh, 2002-2005.
 * **Primary Scholarship** awarded by the Ministry of Education, Bangladesh, 1999-2002.
+
+<!-- * * **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM).
+* **Summer Research Grant 2021** Graduate School Summer Research Grant for thesis research support, Purdue University. -->
