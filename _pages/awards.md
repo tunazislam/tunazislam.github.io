@@ -11,6 +11,7 @@ author_profile: true
 * **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
 * **GSB Travel Grant** Department of Computer Science, Purdue University, Fall 2019.
 * **Teaching Assistantship** Department of Computer Science, Purdue University, 2019-Present.
+* **Fully paid International Summer School on HPC** Kobe, Japan, 2019.
 * **Travel Award** to participate 2019 CRA-W Graduate Cohort Workshop, Chicago, IL, 2019.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
 * **Travel award** to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
