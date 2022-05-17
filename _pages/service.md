@@ -23,6 +23,9 @@ author_profile: true
 * ICWSM student volunteer - 2022
 * KDD student volunteer - 2019
 
+**Research Mentor**
+* Lumiere Education (May 2021 - August 2021)
+
 **Institutional Service**
 * Vice President, Computer Science Graduate Student Association, Purdue University (2022-2023)
 
