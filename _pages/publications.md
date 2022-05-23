@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Refereed Journals and Conferences (* Indicates co-first authorship): 
+Refereed Journals and Conferences (* Indicates equal contribution): 
 ======
 <b> [A Holistic Framework for Analyzing the COVID-19 Vaccine Debate.](http://tunazislam.github.io/publications/holistic-covid-vaccine)</b> <br>
 Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. 2022 Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2022](https://2022.naacl.org/)) (To appear) <br>
