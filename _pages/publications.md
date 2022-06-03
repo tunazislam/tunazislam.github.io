@@ -10,7 +10,7 @@ Refereed Journals and Conferences (* Indicates equal contribution):
 Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. 2022 Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2022](https://2022.naacl.org/)) (To appear) <br>
 [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf)
 
-<b> [Twitter User Representation using Weakly Supervised Graph Embedding](http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto)</b> <br>
+<b> [Twitter User Representation Using Weakly Supervised Graph Embedding](http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/)). (To appear). <br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19298) [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf)
 
