@@ -31,6 +31,8 @@ Recent News
 * March 30, 2021: Received Graduate School Summer Research Grant Award.
 * March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
 * January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
+
+<!---
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
 * August 31, 2020 : Submitted Ph.D. Plan of Study.
 * December 17, 2019 : Passed Ph.D. qualifier.
@@ -39,8 +41,6 @@ Recent News
 * July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
 * January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
 * October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) beginning in Spring 2019. 
-
-<!---
 * June 07, 2019 : Paper accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/), Anchorage, Alaska. 
 * May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/), Macao, China. 
 * April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
