@@ -2,10 +2,10 @@
 title: "A Holistic Framework for Analyzing the COVID-19 Vaccine Debate"
 collection: publications
 permalink: /publications/holistic-covid-vaccine
-venue: "2022 Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2022](https://2022.naacl.org/))"
+venue: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ([NAACL 2022](https://2022.naacl.org/))"
 
 --- 
-[[arXiv]](https://arxiv.org/pdf/2205.01817.pdf)
+[[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf)
 
 ## Abstract
 The Covid-19 pandemic has led to infodemic of low quality information leading to poor health decisions. Combating the outcomes of this infodemic is not only a question of identifying false claims, it requires understanding the reasoning behind the decisions individuals make.
