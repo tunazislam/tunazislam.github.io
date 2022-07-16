@@ -21,6 +21,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
+* July 16, 2021: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2022/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
 * May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholarships/) for attendance at ICWSM 2022.
 * May 9, 2022: Received ICWSM2022 travel grant.
