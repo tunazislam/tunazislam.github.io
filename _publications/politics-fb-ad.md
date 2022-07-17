@@ -1,7 +1,7 @@
 ---
 title: "Weakly Supervised Learning for Analyzing Political Campaigns on Facebook"
 collection: publications
-permalink:/publications/politics-fb-ad
+permalink: /publications/politics-fb-ad
 venue: "17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2022/index.html/))"
 citation: '<b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media (ICWSM 2023).'
 
