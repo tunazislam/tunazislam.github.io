@@ -3,7 +3,7 @@ title: "Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model
 collection: publications
 permalink: /publications/yoga-keto-analysis
 venue: "15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html))"
-citation: 'Islam, T., & Goldwasser, D. (2021). Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model. Proceedings of the International AAAI Conference on Web and Social Media, 15(1), 242-253.'
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media (ICWSM-2021), 15(1), 242-253.'
 
 --- 
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf)
