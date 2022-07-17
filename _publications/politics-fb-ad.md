@@ -1,9 +1,9 @@
 ---
-title: "Weakly Supervised Learning for Analyzing Political Campaigns on Facebook"
+title: "Twitter User Representation Using Weakly Supervised Graph Embedding"
 collection: publications
-permalink: /publications/politics-fb-ad
-venue: "17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2022/index.html/))"
-citation: '<b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media (ICWSM 2023).'
+permalink: /publications/weakly-graphembd-yoga-keto
+venue: "16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/))"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media (ICWSM-2022), 16(1), 358-369.'
 
 --- 
 
