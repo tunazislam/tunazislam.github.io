@@ -6,7 +6,7 @@ author_profile: true
 
 Refereed Journals and Conferences (* Indicates equal contribution): 
 ======
-<b> [Weakly Supervised Learning for Analyzing Political Campaigns on Facebook](http://tunazislam.github.io/publications/politics-FbAd)</b> <br>
+<b> [Weakly Supervised Learning for Analyzing Political Campaigns on Facebook](http://tunazislam.github.io/publications/politics-fb-ad)</b> <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2022/index.html/)). (To appear) <br>
 
 <b> [A Holistic Framework for Analyzing the COVID-19 Vaccine Debate.](http://tunazislam.github.io/publications/holistic-covid-vaccine)</b> <br>
