@@ -4,7 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-* **ACM-W Scholarship** for attendance at ICWSM 2022.
+* **ACM-W Scholarship [[Link]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)** for attendance at ICWSM 2022.
 * **ICWSM Travel Grant** to participate International AAAI Conference on Web and Social Media (ICWSM), 2021 & 2022.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2021 & 2022.
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
