@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Conference Reviewer**
+* AAAI Conference on Artificial Intelligence - 2023
 * International AAAI Conference on Web and Social Media (**ICWSM**) - 2022, 2023
 * Empirical Methods in Natural Language Processing (**EMNLP**) - 2021, 2022
 * International Conference on Computational Linguistics (**COLING**) - 2020, 2022
