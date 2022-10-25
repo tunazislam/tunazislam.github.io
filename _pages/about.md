@@ -21,7 +21,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
-* October 24, 2022: Regular paper accepted to publish in [IEEE Big Data 2022](https://bigdataieee.org/BigData2022/).
+* October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 * July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
 * May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) for attendance at ICWSM 2022.
@@ -33,7 +33,7 @@ Recent News
 * March 30, 2021: Received Graduate School Summer Research Grant Award.
 * March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
 * January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
-* December 10-13, 2020: Attended [IEEE Big Data 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
+* December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
 
 <!---
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
