@@ -10,6 +10,10 @@ Refereed Journals and Conferences (* Indicates equal contribution):
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). (To appear) <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf)
 
+<b> [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision](http://tunazislam.github.io/publications/covid-fb-ad)</b> <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)). (To appear) <br>
+[[arXiv]](https://arxiv.org/pdf/2210.10031.pdf)
+
 <b> [A Holistic Framework for Analyzing the COVID-19 Vaccine Debate](http://tunazislam.github.io/publications/holistic-covid-vaccine)</b> <br>
 Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ([NAACL 2022](https://2022.naacl.org/)), pages 5821–5839. <br>
 [[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf) [[Slide]](https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf)
