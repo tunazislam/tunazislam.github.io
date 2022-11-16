@@ -11,7 +11,7 @@ Refereed Journals and Conferences (* Indicates equal contribution):
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf)
 
 <b> [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision](http://tunazislam.github.io/publications/covid-fb-ad)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)). (To appear) <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)). Also accepted at the NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022. <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf)
 
 <b> [A Holistic Framework for Analyzing the COVID-19 Vaccine Debate](http://tunazislam.github.io/publications/holistic-covid-vaccine)</b> <br>
