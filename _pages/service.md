@@ -6,22 +6,23 @@ author_profile: true
 ---
 
 **Conference Reviewer**
-* AAAI Conference on Artificial Intelligence - 2023
-* International AAAI Conference on Web and Social Media (**ICWSM**) - 2022, 2023
-* Empirical Methods in Natural Language Processing (**EMNLP**) - 2021, 2022
-* International Conference on Computational Linguistics (**COLING**) - 2020, 2022
-* ACL Rolling Review (**ARR**) - 2021, 2022
-* International Conference on Social Informatics (**SocInfo**) - 2022
-* Association for Computational Linguistics (**ACL**) - 2021
-* International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing (**HEALTHINFO**) - 2021
+* Association for Computational Linguistics (**ACL**): (2021-2023)
+* AAAI Conference on Artificial Intelligence: 2023
+* International AAAI Conference on Web and Social Media (**ICWSM**): 2022, 2023
+* Empirical Methods in Natural Language Processing (**EMNLP**): 2021, 2022
+* ACL Rolling Review (**ARR**): 2021, 2022
+* International Conference on Social Informatics (**SocInfo**): 2022
+* International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing (**HEALTHINFO**): 2021
+* International Conference on Computational Linguistics (**COLING**): 2020, 2022
 
 **Workshop Reviewer**
-* Student Research Workshop, **NAACL** - 2022
+* Student Research Workshop, **NAACL**: 2022
 
 **Journal Reviewer**
-* Complementary Therapies in Clinical Practice (**CTCP**) - 2021
+* Complementary Therapies in Clinical Practice (**CTCP**): 2021
 
 **Conference Volunteer**
+* EMNLP student volunteer (Virtual) - 2022
 * ICWSM student volunteer - 2022
 * KDD student volunteer - 2019
 
