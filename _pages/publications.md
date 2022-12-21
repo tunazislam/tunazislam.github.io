@@ -6,9 +6,12 @@ author_profile: true
 
 Refereed Journals and Conferences: 
 ======
-<b> [Weakly Supervised Learning for Analyzing Political Campaigns on Facebook](http://tunazislam.github.io/publications/politics-fb-ad)</b> <br>
+<b> <a href="[https://www.google.com/](http://tunazislam.github.io/publications/politics-fb-ad)" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Weakly Supervised Learning for Analyzing Political Campaigns on Facebook</a>
+</b> <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). [Acceptance rate: 20%] <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
+
+
 
 <b> [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision](http://tunazislam.github.io/publications/covid-fb-ad)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
@@ -16,7 +19,7 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
 [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
 
 <b> [A Holistic Framework for Analyzing the COVID-19 Vaccine Debate](http://tunazislam.github.io/publications/holistic-covid-vaccine)</b> <br>
-Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [* Indicates **equal contribution**]
+Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [ * Indicates **equal contribution**]
 <br>
 Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ([NAACL 2022](https://2022.naacl.org/)), pages 5821–5839. [Acceptance rate: 21%]<br>
 [[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf) [[Slide]](https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf)
