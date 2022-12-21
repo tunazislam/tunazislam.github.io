@@ -21,6 +21,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en
 
 Recent News
 ======
+* December 17-20, 2022: Atteneded [IEEE BigData 2022](https://bigdataieee.org/BigData2022/), Osaka, Japan (Virtually).
+* December 17-20, 2022: Atteneded [EMNLP 2022](https://2022.emnlp.org/), Abu Dhabi, UAE (Virtually).
 * October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 * July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
