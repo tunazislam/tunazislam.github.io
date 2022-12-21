@@ -109,21 +109,6 @@ Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina I
 
 
 
-<!-- ## Poster:
-
-1. <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Harold Riethman "REXTAL: Regional Extension of Assemblies Using Linked-Reads", Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. [[PDF]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) <br>
-
-2. <b>Tunazzina Islam</b>, Jing He, "Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling", ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. **Won 2nd Prize in Tapia Student Poster Competition 2017**  [[PDF]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf) <br>
-
-3. Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina Islam</b>, Desh Ranjan, Sukesh Sangam, Mohammad Zubair, "Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform", 8th International Particle Accelerator Conference (IPAC'17), May 2017, Copenhagen, Denmark. [[Poster PDF in Proceedings]](http://epaper.kek.jp/ipac2017/papers/thpab085.pdf) <br>
-
-4. <b>Tunazzina Islam</b>, Mohammad Zubair, "Particle deposition in grid according to Particle-In-Cell (PIC) Scheme using Graphical Processing Unit (GPU)", Grace Hopper Celebration of Women in Computing (GHC), October 2016, Houston, TX, USA. [[PDF]](https://tunazislam.github.io/files/PDF_GHC_2016.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2016.pdf)<br>
-
-5. <b>Tunazzina Islam</b>, Mohammad Zubair, "Particle Deposition in grid using Particle-In-Cell (PIC) deposition Scheme", Capital Region Celebration of Women in Computing (CAPWIC), March 2016, VA, USA. -->
-
-
-
-
 <!-- ---
 title: "" 
 permalink: /publications/ 
