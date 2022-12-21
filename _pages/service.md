@@ -12,7 +12,7 @@ author_profile: true
 * Empirical Methods in Natural Language Processing (**EMNLP**): 2021, 2022
 * ACL Rolling Review (**ARR**): 2021, 2022
 * International Conference on Social Informatics (**SocInfo**): 2022
-* International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing (**HEALTHINFO**): 2021
+* HEALTHINFO: 2021
 * International Conference on Computational Linguistics (**COLING**): 2020, 2022
 
 **Workshop Reviewer**
