@@ -11,7 +11,7 @@ Refereed Journals and Conferences:
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
 
 <b> [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision](http://tunazislam.github.io/publications/covid-fb-ad)</b> <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)). [Acceptance rate: 19.2%] <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
 Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
 
