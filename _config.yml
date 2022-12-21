@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tunazzina Islam"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tunazzina Islam"
 description              : &description "Ph.D. in CS"
