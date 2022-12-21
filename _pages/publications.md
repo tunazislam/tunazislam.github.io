@@ -60,20 +60,24 @@ Refereed Workshops:
 # Papers related to Bioinformatics & Computational Biology: 
 <!-- ## Refereed Journals, Conferences and Workshops:
  -->
-<b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
+ <a href="http://tunazislam.github.io/publications/REXTAL_QUAST" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Subtelomeric REXTAL Assemblies Using QUAST </b></a>
+<br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics ([TCBB](https://www.computer.org/web/tcbb)), vol. 18, no. 1, pp. 365-372, 1 Jan.-Feb. 2021, doi: 10.1109/TCBB.2019.2913845. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
 
-<b>[Nanopore Guided Assembly of Segmental Duplications near Telomeres](http://tunazislam.github.io/publications/REXTAL_nanopore)</b> 
+<a href="http://tunazislam.github.io/publications/REXTAL_nanopore" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> Nanopore Guided Assembly of Segmental Duplications near Telomeres </b></a>
+<br>
 <br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)), pp. 60-65, doi: 10.1109/BIBE.2019.00020. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8941857)
 
-<b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
+<a href="http://tunazislam.github.io/publications/REXTAL" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> REXTAL: Regional Extension of Assemblies Using Linked-Reads </b></a>
+<br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications ([ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)), pp. 63-78, doi: 10.1007/978-3-319-94968-0_6. <br>
 Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. <br>
 [[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Poster @GHC 2018]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) [[Poster PDF @GHC 2018]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) 
 
-<b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
+<a href="http://tunazislam.github.io/publications/Twist_central_lines" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> Quantification of Twist from the Central Lines of β-strands </b></a>
+<br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Journal of Computational Biology ([JCB](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)), 2018, 25 (1): 114-120, doi: 10.1089/cmb.2017.0174. <br>
 [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) 
 
@@ -81,7 +85,8 @@ Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC
 <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
 [[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf)
 
-<b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
+<a href="http://tunazislam.github.io/publications/Twist_3D_image" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein </b></a>
+<br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654, doi: 10.1145/3107411.3107507.<br>
 [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) 
 
