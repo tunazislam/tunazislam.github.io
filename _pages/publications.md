@@ -71,19 +71,16 @@ Papers related to Bioinformatics & Computational Biology:
 
 <b>[REXTAL: Regional Extension of Assemblies Using Linked-Reads](http://tunazislam.github.io/publications/REXTAL)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications ([ISBRA 2018](http://alan.cs.gsu.edu/isbra18/)), pp. 63-78, doi: 10.1007/978-3-319-94968-0_6. <br>
-[[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) 
-
-<b>REXTAL: Regional Extension of Assemblies Using Linked-Reads</b> <br>
-<b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Harold Riethman. Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. <br>
-[[PDF]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf)
+Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. <br>
+[[Paper link]](https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6) [[PDF]](https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf) [[Poster @GHC 2018]](https://tunazislam.github.io/files/Poster_GHC_2018.pdf) [[Poster PDF @GHC 2018]](https://tunazislam.github.io/files/PDF_GHC_2018.pdf) 
 
 <b>[Quantification of Twist from the Central Lines of β-strands](http://tunazislam.github.io/publications/Twist_central_lines)</b> <br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Journal of Computational Biology ([JCB](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)), 2018, 25 (1): 114-120, doi: 10.1089/cmb.2017.0174. <br>
 [[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) 
 
-<b>Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling</b> <br>
+<b style='color:#8B4513'>Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling</b> <br>
 <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
-[[PDF]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf)
+[[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf)
 
 <b>[A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein](http://tunazislam.github.io/publications/Twist_3D_image)</b> <br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654, doi: 10.1145/3107411.3107507.<br>
@@ -95,13 +92,13 @@ Papers related to Bioinformatics & Computational Biology:
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing ([ICPP 2017](http://www.icpp-conf.org/2017/)), pp. 462-471, doi: 10.1109/ICPP.2017.55.<br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
-<b>Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform</b> <br>
+<b style='color:#8B4513'>Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform</b> <br>
 Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina Islam</b>, Desh Ranjan, Sukesh Sangam, Mohammad Zubair. 8th International Particle Accelerator Conference (IPAC'17), May 2017, Copenhagen, Denmark.<br>
 [[Poster PDF in Proceedings]](http://epaper.kek.jp/ipac2017/papers/thpab085.pdf)
 
-<b>Particle deposition in grid according to Particle-In-Cell (PIC) Scheme using Graphical Processing Unit (GPU)</b> <br>
+<b style='color:#8B4513'>Particle deposition in grid according to Particle-In-Cell (PIC) Scheme using Graphical Processing Unit (GPU)</b> <br>
 <b>Tunazzina Islam</b>, Mohammad Zubair. Grace Hopper Celebration of Women in Computing (GHC), October 2016, Houston, TX, USA.<br>
-[[PDF]](https://tunazislam.github.io/files/PDF_GHC_2016.pdf) [[Poster PDF]](https://tunazislam.github.io/files/Poster_GHC_2016.pdf)
+[[Poster PDF @GHC 2016]](https://tunazislam.github.io/files/PDF_GHC_2016.pdf) [[Poster @GHC 2016]](https://tunazislam.github.io/files/Poster_GHC_2016.pdf)
 
 
 
