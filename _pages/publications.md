@@ -67,7 +67,7 @@ Refereed Workshops:
 
 <a href="http://tunazislam.github.io/publications/REXTAL_nanopore" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> Nanopore Guided Assembly of Segmental Duplications near Telomeres </b></a>
 <br>
-<br>Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)), pp. 60-65, doi: 10.1109/BIBE.2019.00020. <br>
+Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)), pp. 60-65, doi: 10.1109/BIBE.2019.00020. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8941857)
 
 <a href="http://tunazislam.github.io/publications/REXTAL" style="color: #8B4513;" onmouseover="this.style.color='orange';" onmouseout="this.style.color='#8B4513';"><b> REXTAL: Regional Extension of Assemblies Using Linked-Reads </b></a>
