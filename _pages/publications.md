@@ -11,10 +11,7 @@ Refereed Journals and Conferences:
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). [Acceptance rate: 20%] <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
 
-<a href="test.html" style="{color: blue; background: white} 
-            :visited {color: green}
-            :hover {background: yellow}
-            :visited:hover {color: purple}">Test</a>
+<a href="http://tunazislam.github.io/publications/politics-fb-ad" onmouseover="this.style.color='orange';" onmouseout="this.style.color='';">My Link</a>
             
 <b> [Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision](http://tunazislam.github.io/publications/covid-fb-ad)</b> <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
