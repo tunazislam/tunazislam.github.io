@@ -15,9 +15,9 @@ I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old D
 
 Prior to joining ODU, I was working as a Software Developer in the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) department from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/) in year 2013.
 
-See my publications [here](https://tunazislam.github.io/publications/). 
+See my publications <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b> here </b> </a>. 
 ======
-My [Google Scholar](https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Tunazzina_Islam) profile.
+My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style="color: #8B4513;" > <b> Google Scholar </b> </a> and <a href="https://www.researchgate.net/profile/Tunazzina_Islam" style="color: #8B4513;" > <b> ResearchGate </b> </a> profile.
 
 Recent News
 ======
