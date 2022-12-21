@@ -57,11 +57,10 @@ Refereed Workshops:
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
 
-Bioinformatics & Computational Biology: 
+Papers related to Bioinformatics & Computational Biology: 
 ======
-
-## Refereed Journals, Conferences and Workshops:
-
+<!-- ## Refereed Journals, Conferences and Workshops:
+ -->
 <b>[Analysis of Subtelomeric REXTAL Assemblies Using QUAST](http://tunazislam.github.io/publications/REXTAL_QUAST)</b> <br>
 <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics ([TCBB](https://www.computer.org/web/tcbb)), vol. 18, no. 1, pp. 365-372, 1 Jan.-Feb. 2021, doi: 10.1109/TCBB.2019.2913845. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8703093) [[PDF]](https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf)
@@ -90,11 +89,8 @@ Bioinformatics & Computational Biology:
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654, doi: 10.1145/3107411.3107507.<br>
 [[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) 
 
-High Performance Computing: 
-======
-
-## Refereed Conferences and Workshops:
-
+# Papers related to High Performance Computing: 
+<!-- ## Refereed Conferences and Workshops: -->
 <b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing ([ICPP 2017](http://www.icpp-conf.org/2017/)), pp. 462-471, doi: 10.1109/ICPP.2017.55.<br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
