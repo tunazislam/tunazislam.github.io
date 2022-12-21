@@ -87,7 +87,7 @@ Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC
 
 # Papers related to High Performance Computing: 
 <!-- ## Refereed Conferences and Workshops: -->
-<b>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
+<b style='color:#8B4513'>[A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs](http://tunazislam.github.io/publications/PLsimulation_ML_GPU)</b> <br>
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing ([ICPP 2017](http://www.icpp-conf.org/2017/)), pp. 462-471, doi: 10.1109/ICPP.2017.55.<br>
 [[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
 
