@@ -10,8 +10,8 @@ main:
     url: /service/
   - title: "Awards & Scholarships"
     url: /awards/
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
   - title: "Contact"
     url: /contact/
   - title: "Personal"
