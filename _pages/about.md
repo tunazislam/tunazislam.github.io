@@ -10,10 +10,11 @@ redirect_from:
 I am a 4th year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
 
 My research interest broadly lies in **social media mining and analysis** with **Natural Language Processing**. The information provided in super-connected media is often shaped by people's underlying lifestyle choices, motivations, and interests which may attract specific stakeholders. Besides, multiple commercial parties, publishers, and interest groups use this platform to advance their interests to interact with potential users by adapting their messaging. I am interested in characterizing user types and messaging on social media. Working towards this goal, I study the following topics: <br>
-- Understanding people's well-being & life-style choices and analyzing their motivation behind this from social media data: <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>
+– Understanding people's well-being & life-style choices and analyzing their motivation behind this from social media data: <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>
 <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022] </a>
 <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022] </a>
-- Analyzing micro-targeting patterns corresponding to changes in messaging depending on demographic information: <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #8B4513;" > [IEEE Big Data 2022] </a>
+<br>
+– Analyzing micro-targeting patterns corresponding to changes in messaging depending on demographic information: <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #8B4513;" > [IEEE Big Data 2022] </a>
 <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #8B4513;" > [ICWSM 2023] </a>
 
 <!-- I am interested in characterizing user types and messaging on social media. -->
