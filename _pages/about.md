@@ -14,7 +14,7 @@ My research interest broadly lies in **social media mining and analysis** with *
 <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022] </a>
 <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022] </a>
 <br>
-– Analyzing micro-targeting patterns corresponding to changes in messaging depending on demographic information: <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #8B4513;" > [IEEE Big Data 2022] </a>
+– Analyzing microtargeting patterns corresponding to changes in messaging depending on demographic information: <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #8B4513;" > [IEEE Big Data 2022] </a>
 <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #8B4513;" > [ICWSM 2023] </a>
 
 <!-- I am interested in characterizing user types and messaging on social media. -->
