@@ -16,7 +16,7 @@ Refereed Conferences:
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
 Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
-[[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
+[[Paper link]](https://ieeexplore.ieee.org/document/10021123) [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
 
 <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
 <br>
