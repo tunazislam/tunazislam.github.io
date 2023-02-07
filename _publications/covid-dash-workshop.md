@@ -3,6 +3,7 @@ title: "Interactively Uncovering Latent Arguments in Social Media Platforms: A C
 collection: publications
 permalink: /publications/covid-dash-workshop
 venue: "Fourth Workshop on Data Science with Human in the Loop: Language Advances ([DaSH @EMNLP 2022](https://www.dashworkshops.org/emnlp-2022/program)"
+citation: 'Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Proceedings of the Fourth Workshop on Data Science with Human in the Loop: Language Advances.'
 
 ---
 [[Paper link]](https://aclanthology.org/2022.dash-1.13.pdf)
