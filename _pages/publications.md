@@ -11,7 +11,11 @@ Refereed Conferences:
 <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). [Acceptance rate: 20%] <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
-          
+
+<b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b>
+<br>
+Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023 (to appear)
+      
 <a href="http://tunazislam.github.io/publications/covid-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
