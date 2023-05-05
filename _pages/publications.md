@@ -15,12 +15,6 @@ Refereed Conferences:
 <b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b>
 <br>
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023 (to appear)
-      
-<a href="http://tunazislam.github.io/publications/covid-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
-Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
-[[Paper link]](https://ieeexplore.ieee.org/document/10021123) [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
 
 <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
 <br>
@@ -28,6 +22,12 @@ Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming
 <br>
 Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ([NAACL 2022](https://2022.naacl.org/)), pages 5821–5839. [Acceptance rate: 21%]<br>
 [[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf) [[Slide]](https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf)
+
+<a href="http://tunazislam.github.io/publications/covid-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision </b></a>
+<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)) (Regular paper). [Acceptance rate: 19.2%] <br>
+Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
+[[Paper link]](https://ieeexplore.ieee.org/document/10021123) [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf)
 
 <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
 <br>
