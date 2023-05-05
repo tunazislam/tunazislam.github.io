@@ -33,6 +33,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* May 05, 2023: Long paper accepted to publish in [AIES-2023](https://www.aies-conference.com/2023/).
 * April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
 * December 17-20, 2022: Attended [IEEE BigData 2022](https://bigdataieee.org/BigData2022/), Osaka, Japan (Virtually).
 * December 7-11, 2022: Attended [EMNLP 2022](https://2022.emnlp.org/), Abu Dhabi, UAE (Virtually).
