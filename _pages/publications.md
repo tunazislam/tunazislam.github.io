@@ -7,7 +7,7 @@ author_profile: true
 Refereed Conferences: 
 ======
 <!-- <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" > <b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b> </a> -->
-<b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b>
+<a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
 <br>
 <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES-2023](https://www.aies-conference.com/2023/)). (to appear). [Acceptance rate: 29%]
 
