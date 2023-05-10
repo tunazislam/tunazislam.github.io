@@ -16,7 +16,7 @@ Refereed Conferences:
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). [Acceptance rate: 20%] <br>
 [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
 
-<b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b>
+<a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
 <br>
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023 (to appear)<br>
 [[arXiv]](https://arxiv.org/pdf/2305.05094.pdf)
