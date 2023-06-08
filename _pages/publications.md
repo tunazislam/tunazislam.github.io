@@ -16,7 +16,7 @@ Refereed Conferences:
 <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
 <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)). [Acceptance rate: 20%] <br>
-[[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
+[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) 
 
 <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
 <br>
