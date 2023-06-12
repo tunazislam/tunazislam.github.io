@@ -12,7 +12,7 @@ My research interest broadly lies in **Social media mining and analysis** with *
 
 Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
-(2) Analyzing microtargeting patterns corresponding to changes in messaging depending on demographic information <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://arxiv.org/pdf/2305.06174.pdf" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE Big Data 2022] </a>. (3) Opinion and morality frame analysis on vaccine debate
+(2) Analyzing microtargeting patterns corresponding to changes in messaging depending on demographic information <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://arxiv.org/pdf/2305.06174.pdf" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE Big Data 2022] </a>. (3) Opinion and morality frame analysis on vaccine debate
 <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022]</a>.
 
 <!-- I am interested in characterizing user types and messaging on social media. -->
