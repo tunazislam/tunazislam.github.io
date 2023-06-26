@@ -11,7 +11,7 @@ Refereed Conferences:
 <br>
 <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES-2023](https://www.aies-conference.com/2023/)). [Acceptance rate: 28.9%]
 <br>
-<span style="background-color: #FFFF99">Oral Presentation</span>
+<span style="background-color: #FFD700">Oral Presentation</span>
 <br>
 [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) 
 
