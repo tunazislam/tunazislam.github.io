@@ -13,7 +13,7 @@ Refereed Conferences:
 <br>
 <span style="background-color: #FFD700">Oral Presentation</span>
 <br>
-[[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) 
+[[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf)
 
 <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
 <br>
