@@ -31,6 +31,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
 * June 05-08, 2023: Attended [ICWSM-2023](https://www.icwsm.org/2023/index.html/), Limassol, Cyprus.
 * May 05, 2023: Long paper accepted in [AIES-2023](https://www.aies-conference.com/2023/) as oral presentation.
 * April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
