@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:9999999999999999999&chld=US|BS|BD|BT|IN|ID|JP|VA|CY|DK|FR|IS|IT|NO|PT|ES|SE|CN|NP" width="450" height="300" ><br/>visited 19 countries (8.44%)<br/>
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999999&chld=US|CA|BS|NP|JP|ID|IN|BT|BD|CN|VA|SE|ES|PT|NO|IT|IS|FR|DK|CY" width="450" height="300" ><br/>visited 20 countries (8.88%)<br/>
 
 **States Visited**
 
