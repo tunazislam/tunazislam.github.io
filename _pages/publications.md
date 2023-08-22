@@ -22,8 +22,8 @@ Refereed Conferences:
 
 <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
 <br>
-Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023 (to appear)<br>
-[[arXiv]](https://arxiv.org/pdf/2305.05094.pdf)
+Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023 <br>
+[[Paper link]](https://aclanthology.org/2023.findings-acl.313/) [[arXiv]](https://arxiv.org/pdf/2305.05094.pdf)
 
 <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
 <br>
