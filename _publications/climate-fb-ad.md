@@ -7,7 +7,7 @@ citation: '<b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conf
 
 ---
 
-[[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf)
+[[Paper link]](https://dl.acm.org/doi/10.1145/3600211.3604665) [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf)
 ## Abstract
 Climate change is the defining issue of our time, and we are at a defining moment. Various interest groups, social movement organizations, and individuals engage in collective action on this issue on social media. In addition, issue advocacy campaigns on social media often arise in response to ongoing societal concerns, especially those faced by energy industries. Our goal in this paper is to analyze how those industries, their advocacy group, and climate advocacy group use social media to influence the narrative on climate change. In this work, we propose a minimally supervised model soup [56] approach combined with messaging themes to identify the stances of climate ads on Facebook. Finally, we release our stance dataset, model, and set of themes related to climate campaigns for future work on opinion mining and the automatic detection of climate change stances.
 
