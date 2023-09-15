@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th year Ph.D. student in the department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
+I am a 5th year Ph.D. student in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
 My research interest broadly lies in **Social media mining and analysis** with **Natural Language Processing**. The information provided in super-connected media is often shaped by people's underlying lifestyle, well-being, health related choices and motivations, which may attract specific stakeholders to advance their interests to interact with potential users by adapting their messaging. I am interested in **characterizing user types** and **messagings** on social media. 
 
 Working towards this goal, I study the following topics:
