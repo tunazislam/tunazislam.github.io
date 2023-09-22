@@ -34,6 +34,7 @@ Recent News
 * August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
 * June 05-08, 2023: Attended [ICWSM-2023](https://www.icwsm.org/2023/index.html/), Limassol, Cyprus.
 * May 05, 2023: Long paper accepted in [AIES-2023](https://www.aies-conference.com/2023/) as oral presentation.
+* May 02, 2023: Long paper accepted in Findings of [ACL 2023](https://2023.aclweb.org/).
 * April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
 * December 17-20, 2022: Attended [IEEE BigData 2022](https://bigdataieee.org/BigData2022/), Osaka, Japan (Virtually).
 * December 7-11, 2022: Attended [EMNLP 2022](https://2022.emnlp.org/), Abu Dhabi, UAE (Virtually).
