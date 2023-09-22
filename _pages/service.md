@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 **Conference Reviewer**
+* International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2024)
 * Empirical Methods in Natural Language Processing (**EMNLP**): (2021-2023)
 * Association for Computational Linguistics (**ACL**): (2021-2023)
 * AAAI Conference on Artificial Intelligence: (2023-2024)
-* International AAAI Conference on Web and Social Media (**ICWSM**): 2022, 2023
 * ACL Rolling Review (**ARR**): (2021-2023)
 * International Conference on Social Informatics (**SocInfo**): 2022
 * HEALTHINFO: 2021
