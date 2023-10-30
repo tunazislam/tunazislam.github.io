@@ -7,6 +7,7 @@ author_profile: true
 
 **Conference Reviewer**
 * International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2024)
+* Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**): 2024
 * Empirical Methods in Natural Language Processing (**EMNLP**): (2021-2023)
 * Association for Computational Linguistics (**ACL**): (2021-2023)
 * AAAI Conference on Artificial Intelligence: (2023-2024)
