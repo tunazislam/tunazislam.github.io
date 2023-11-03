@@ -17,7 +17,7 @@ author_profile: true
 * **CRA-W Grad Cohort Travel Award**,  2016, 2019, 2022.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
 * **Travel award** to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
-* **Outstanding Graduate Researcher Computer Science (Fall 2017)** at Old Dominion University, 2018. [[Link]](https://twitter.com/oducs/status/988885970081714176)
+* **Outstanding Graduate Researcher Computer Science (Fall 2017)** at Old Dominion University, 2018. [[Link]](https://www.odu.edu/sites/default/files/documents/nlspring2018-odu-computer-science.pdf) [[Tweet]](https://twitter.com/oducs/status/988885970081714176)
 * **Modeling and Simulation Certificate** in Computing and Informatics from Old Dominion University, 2017.
 * **2nd prize in Tapia Student Poster Competition** in ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
