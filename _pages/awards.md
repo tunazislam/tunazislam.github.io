@@ -23,7 +23,7 @@ author_profile: true
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
 * **CAPWIC Scholarship** for attending ACM Capital Region Celebration of Women in Computing, 2017.
 * **GHC Scholarship [[Link]](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/)** for attending 2016 Grace Hopper Celebration of Women in Computing (GHC), Houston, TX, USA. 
-* Featured on Old Dominion University's Computer Science Department's Official Website as "Featured Student", 2016.
+* **Featured Student [[Link]](https://ww1.odu.edu/content/odu/compsci/news/2016/10/featured_student_tun.html)** Department of Computer Science, Old Dominion University, 2016.
 * **Modeling & Simulation Scholar** Old Dominion University, August 2016 - August 2018.
 * **Graduate Assistantship** Department of Computer Science, Old Dominion University, 2015-2018.
 * **Dean's List Award** for academic excellence during B.Sc. in Bangladesh University of Engineering and Technology, 2012-2013.
