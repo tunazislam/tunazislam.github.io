@@ -16,8 +16,8 @@ author_profile: true
 * **Fully paid International Summer School on HPC**, Kobe, Japan, 2019.
 * **CRA-W Grad Cohort Travel Award**,  2016, 2019, 2022.
 * **NSF travel award** to attend [SCEC 2018](https://scec18.github.io/) in Delhi, India, 2018.
+* **Computer Science Outstanding Graduate Researcher - Fall 2017 [[Link]](https://www.odu.edu/sites/default/files/documents/nlspring2018-odu-computer-science.pdf)** at Old Dominion University, 2018.
 * **Travel award** to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
-* **Outstanding Graduate Researcher Computer Science (Fall 2017) [[Link]](https://www.odu.edu/sites/default/files/documents/nlspring2018-odu-computer-science.pdf)** at Old Dominion University, 2018. [[Tweet]](https://twitter.com/oducs/status/988885970081714176)
 * **Modeling and Simulation Certificate** in Computing and Informatics from Old Dominion University, 2017.
 * **2nd prize in Tapia Student Poster Competition** in ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
@@ -37,3 +37,4 @@ author_profile: true
 <!-- * * **ICWSM-21 Scholarship** to participate International AAAI Conference on Web and Social Media (ICWSM).
 * **Summer Research Grant 2021** Graduate School Summer Research Grant for thesis research support, Purdue University. -->
 <!-- * **Travel Award** to participate 2016 CRA-W Graduate Cohort Workshop, San Diego, CA, 2016. -->
+<!--* **Outstanding Graduate Researcher Computer Science (Fall 2017) [[Link]](https://www.odu.edu/sites/default/files/documents/nlspring2018-odu-computer-science.pdf)** at Old Dominion University, 2018. [[Tweet]](https://twitter.com/oducs/status/988885970081714176) -->
