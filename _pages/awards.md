@@ -4,12 +4,12 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-* **Graduate Teaching Award Spring 2023 [[Link]](https://www.cs.purdue.edu/graduate/gta-award-winners.html)** from Purdue CS department.
+* **Graduate Teaching Award [[Link]](https://www.cs.purdue.edu/graduate/gta-award-winners.html)** CS, Purdue University, Spring 2023.
 * **ACM-W Scholarship [[Link]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)** for attendance at ICWSM 2022.
 * **ICWSM Travel Grant** to participate International AAAI Conference on Web and Social Media (ICWSM), 2021 & 2022.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2021 & 2022.
 * **IJCAI Travel Grant** to participate International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China.
-* **SIGKDD Student Travel Award**  to participate KDD 2019, Anchorage, Alaska.
+* **SIGKDD Student Travel Award** to participate KDD 2019, Anchorage, Alaska.
 * **GSB Travel Grant** Department of Computer Science, Purdue University, 2019 & 2023.
 * **Research Assistantship** Department of Computer Science, Purdue University, 2021-2023.
 * **Teaching Assistantship** Department of Computer Science, Purdue University, 2019-Present.
