@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 I am a 5th year Ph.D. student in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
-My research interest broadly lies in **Social media mining and analysis** with **Natural Language Processing**. The information provided in super-connected media is often shaped by people's underlying lifestyle, well-being, health related choices and motivations, which may attract specific stakeholders to advance their interests to interact with potential users by adapting their messaging. I am interested in **characterizing user types** and **messagings** on social media. 
+My research interest broadly lies in **Social media mining and analysis** with **Natural Language Processing**. The information provided in super-connected media is often shaped by people's underlying lifestyle, well-being, health related choices and motivations, which may attract specific stakeholders to advance their interests to interact with potential users by adapting their messaging. I am interested in **characterizing user types** and **messaging** on social media. 
 
 Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
+(2) Analyzing the messaging consumed by users and their responses to it  <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE Big Data 2022] </a>. (3) Delving into the deeper argumentation to characterize content 
+<a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022]</a> <a href="https://aclanthology.org/2022.dash-1.13.pdf" style="color: #8B4513;" > [DASH @EMNLP 2022]</a> <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #8B4513;" > [Findings @ACL 2023]</a>.
+
+<!-- Working towards this goal, I study the following topics:
+(1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
 (2) Analyzing microtargeting patterns corresponding to changes in messaging depending on demographic information <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE Big Data 2022] </a>. (3) Opinion and morality frame analysis on vaccine debate
-<a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022]</a>.
+<a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022]</a>. -->
 
 <!-- I am interested in characterizing user types and messaging on social media. -->
 [comment]: <> ( I am interested in understanding people's life-style choices using social media data. )
