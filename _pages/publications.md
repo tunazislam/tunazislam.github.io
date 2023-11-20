@@ -62,7 +62,7 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
 
 <a href="http://tunazislam.github.io/publications/causal-yoga-happiness" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> *Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information </b></a>
 <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. KDDBHI @ 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)), pp. 4241-4249, doi: 10.1109/BigData50022.2020.9378461. <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. KDDBHI at 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)), pp. 4241-4249, doi: 10.1109/BigData50022.2020.9378461. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9378461) [[arXiv]](https://arxiv.org/pdf/2012.02939.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf)
 
 <a href="http://tunazislam.github.io/publications/Ex-Twit" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Ex-Twit: Explainable Twitter Mining on Health Data </b></a>
