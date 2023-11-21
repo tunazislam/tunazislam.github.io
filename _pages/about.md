@@ -12,7 +12,8 @@ My research interest broadly lies in **Social media mining and analysis** with *
 
 Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a> <a href="https://ieeexplore.ieee.org/document/9378461" style="color: #8B4513;" > [KDDBHI @IEEE BigData 2020] </a>.
-(2) Analyzing the messaging consumed by users and their responses to it  <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE BigData 2022] </a>. (3) Delving into the deeper argumentation to characterize content 
+(2) Analyzing the messaging consumed by users and their responses to it  <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE BigData 2022] </a>. (3) Delving into the deeper understanding
+of the theme and arguments involved in the content 
 <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL 2022]</a> <a href="https://aclanthology.org/2022.dash-1.13.pdf" style="color: #8B4513;" > [DASH @EMNLP 2022]</a> <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #8B4513;" > [Findings @ACL 2023]</a>.
 
 <!-- Working towards this goal, I study the following topics:
