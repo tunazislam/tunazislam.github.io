@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a 5th year Ph.D. student in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
-My research interest broadly lies in **Social Media Mining and Analysis**, integrating **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I focus on understanding the dynamic nature of social media content and its utilization by various interest groups for microtargeting. This involves overcoming challenges in understanding messaging tailored to specific user groups and identifying user types and motivations. I am interested in **understanding microtargeting patterns** on social media.
+My research interest broadly lies in **Social Media Mining and Analysis**, integrating **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I focus on understanding the dynamic nature of social media content and its utilization by various interest groups for microtargeting. This involves overcoming challenges in understanding messaging tailored to specific user groups and identifying user types and motivations. I am interested in **understanding microtargeting pattern** on social media.
 
 <!-- The information provided in super-connected media is often shaped by people's underlying lifestyle, well-being, health related choices and motivations, which may attract specific stakeholders to advance their interests to interact with potential users by adapting their messaging. I am interested in **characterizing users** and **messaging** on social media. -->
 
