@@ -9,7 +9,7 @@ Graduate Courses:
 ======
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
-* Natural Language Processing, Spring (2022, 2023).
+* Natural Language Processing, Spring (2022 - 2024).
 * Statistical Machine Learning, Fall (2021, 2023).
 
 **Teaching Assistant, Department of Computer Science, Old Dominion University**
