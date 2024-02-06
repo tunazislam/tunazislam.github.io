@@ -48,7 +48,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* February 6, 2024: Guest lecture Natural Language Processing, Purdue University.
+* February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
 * August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
 * June 05-08, 2023: Attended [ICWSM-2023](https://www.icwsm.org/2023/index.html/), Limassol, Cyprus.
