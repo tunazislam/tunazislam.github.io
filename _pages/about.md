@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 My research interest broadly lies in **Social Media Mining and Analysis**, integrating **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. The landscape of social media is highly dynamic, with users generating and consuming a diverse range of content. Interest groups, including politicians and advertisers, employ microtargeting to shape messages and influence their audience. While effective in enhancing content relevance, microtargeting also presents risks such as manipulating user behavior, creating echo chambers, and fostering polarization. Understanding these impacts is crucial for promoting healthy public discourse in the digital age and maintaining a cohesive society. **My work focuses on a better understanding of microtargeting and activity patterns in social media.**
+
 A significant challenge lies in understanding the messaging and how it changes depending on the targeted user groups. Another challenge arises when we do not know who the users are and what their motivations are for engaging with content. I address these challenges by developing computational approaches for (1) characterizing user types and their motivations
 for engaging with content <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a> <a href="https://ieeexplore.ieee.org/document/9378461" style="color: #8B4513;" > [KDDBHI @IEEE BigData 2020] </a>,
 (2) analyzing the messaging consumed by users and their responses to it  <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE BigData 2022] </a>, (3) delving into the deeper understanding
@@ -27,6 +28,8 @@ of the theme and arguments involved in the content
 I am a Ph.D. candidate in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I am fortunate to collaborate with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Dr. Ming Yin](https://mingyin.org/), [Dr. Ruqi Zhang](https://ruqizhang.github.io/).
 
 <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
+<a href="https://github.com/tunazislam/tunazislam.github.io/blob/master/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]
+
 
 <!-- Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
