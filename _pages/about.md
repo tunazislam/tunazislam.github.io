@@ -27,6 +27,8 @@ of the theme and arguments involved in the content
 
 I am a Ph.D. candidate in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I am fortunate to collaborate with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Dr. Ming Yin](https://mingyin.org/), [Dr. Ruqi Zhang](https://ruqizhang.github.io/).
 
+<span style="color: #FFD700">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
+
 <!-- Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
 (2) Analyzing microtargeting patterns corresponding to changes in messaging depending on demographic information <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM 2023]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES 2023]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE Big Data 2022] </a>. (3) Opinion and morality frame analysis on vaccine debate
