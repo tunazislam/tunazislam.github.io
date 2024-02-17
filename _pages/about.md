@@ -28,8 +28,7 @@ of the theme and arguments involved in the content
 I am a Ph.D. candidate in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I am fortunate to collaborate with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Dr. Ming Yin](https://mingyin.org/), [Dr. Ruqi Zhang](https://ruqizhang.github.io/).
 
 <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
-<a href="https://github.com/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a> <a href="https://github.com/files/Research_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Research Statement]</a> <a href="https://github.com/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> <a href="https://github.com/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a>
-
+[[CV]](https://github.com/files/CV_Tunazzina_Islam.pdf) [[Research Statement]](https://github.com/files/Research_Statement_Tunazzina_Islam.pdf) [[Teaching Statement]](https://github.com/files/Teaching_Statement_Tunazzina_Islam.pdf)) [[Diversity Statement]](https://github.com/files/Diversity_Statement_Tunazzina_Islam.pdf)
 
 <!-- Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
