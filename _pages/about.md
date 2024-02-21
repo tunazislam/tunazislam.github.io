@@ -31,7 +31,7 @@ I am a Ph.D. candidate in the Department of [Computer Science (CS)](https://www.
 <a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
 <a href="https://tunazislam.github.io/files/Research_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Research Statement]</a>
 <a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a>
-<a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a>
+<!-- <a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a> -->
 
 <!-- Working towards this goal, I study the following topics:
 (1) Understanding people's well-being & lifestyle choices and analyzing their motivation behind this from social media data <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a>.
