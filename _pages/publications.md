@@ -9,6 +9,7 @@ Pre-prints:
 <a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Pre-print, 2024. <br>
+[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf)
 
 Refereed Conferences: 
 ======
