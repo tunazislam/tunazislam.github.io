@@ -2,6 +2,8 @@
 title: "Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns"
 collection: publications
 permalink: /publications/llms-climate-fb-ad
+venue: "Pre-print 2024"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Pre-print 2024.'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2403.10707.pdf)
