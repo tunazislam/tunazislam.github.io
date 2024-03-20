@@ -27,10 +27,10 @@ of the theme and arguments involved in the content
 
 I am a Ph.D. candidate in the Department of [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/). My advisor is [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I am fortunate to collaborate with [Dr. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), [Dr. Ming Yin](https://mingyin.org/), [Dr. Ruqi Zhang](https://ruqizhang.github.io/).
 
-<!-- <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
+<span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
 <a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
 <a href="https://tunazislam.github.io/files/Research_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Research Statement]</a>
-<a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> -->
+<a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> 
 <!-- <a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a> -->
 
 <!-- Working towards this goal, I study the following topics:
