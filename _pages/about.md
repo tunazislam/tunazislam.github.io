@@ -54,6 +54,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* March 28, 2024: Received Graduate School Summer Research Grant Award.
 * February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
 * August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
