@@ -54,6 +54,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* April 15-16, 2024: Attending [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/).
 * March 28, 2024: Received Graduate School Summer Research Grant Award.
 * February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
