@@ -6,6 +6,10 @@ author_profile: true
 
 Pre-prints: 
 ======
+<a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
+<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
+
 <a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
