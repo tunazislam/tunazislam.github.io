@@ -55,6 +55,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 Recent News
 ======
 * May 20-21, 2024: Attended [Midwest Machine Learning Symposium (MMLS)](https://midwest-ml.org/2024/), 2024.
+* May 09, 2024: Became Ambassador for ICWSM to join onboarding event to introduce ICWSM to interested researchers.
 * April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/), 2024.
 * March 28, 2024: Received Graduate School Summer Research Grant Award.
 * February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
