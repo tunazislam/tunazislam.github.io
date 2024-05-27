@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Conference Reviewer**
-* International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2024)
+* International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * ACL Rolling Review (**ARR**): (2021-2024)
 * North American Chapter of the Association for Computational Linguistics (**NAACL**): 2024
 * Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**): 2024
