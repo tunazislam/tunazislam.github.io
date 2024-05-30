@@ -14,5 +14,5 @@ main:
 #     url: /projects/
   - title: "Contact"
     url: /contact/
-  # - title: "Personal"
-  #   url: /personal/
+  - title: "Personal"
+    url: /personal/
