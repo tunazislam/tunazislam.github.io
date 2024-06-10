@@ -5,6 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 
+**Area Chair**
+* ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW**): 2024
+
 **Conference Reviewer**
 * International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * ACL Rolling Review (**ARR**): (2021-2024)
