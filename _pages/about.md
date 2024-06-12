@@ -54,7 +54,8 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* June 9, 2024: Area Chair for [CSCW 2024](https://cscw.acm.org/2024/).
+* June 12, 2024: Associate Chair (AC) of [CSCW 2025](https://cscw.acm.org/2025/).
+* June 9, 2024: Associate Chair (AC) of [CSCW 2024](https://cscw.acm.org/2024/).
 * May 20-21, 2024: Attended [Midwest Machine Learning Symposium (MMLS)](https://midwest-ml.org/2024/), 2024.
 * May 09, 2024: Became Ambassador for ICWSM.
 * April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/), 2024.
