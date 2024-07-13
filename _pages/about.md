@@ -54,6 +54,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
 * June 12, 2024: Associate Chair (AC) of [CSCW 2025](https://cscw.acm.org/2025/).
 * June 9, 2024: Associate Chair (AC) of [CSCW 2024](https://cscw.acm.org/2024/).
