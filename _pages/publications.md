@@ -11,14 +11,18 @@ Pre-prints:
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
 [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf)
 
-<a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns </b></a>
+<!-- <a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
-[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf)
+[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 
 Refereed Conferences: 
 ======
-<!-- <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" > <b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b> </a> -->
+<a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
+<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM-2025](https://www.icwsm.org/2025/index.html/)). (To Appear) <br>
+[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf)
+
 <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
 <br>
 <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES-2023](https://www.aies-conference.com/2023/)), 15–25. https://doi.org/10.1145/3600211.3604665. [Acceptance rate: 28.9%]
