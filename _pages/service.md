@@ -27,6 +27,9 @@ author_profile: true
 **Journal Reviewer**
 * Complementary Therapies in Clinical Practice (**CTCP**): 2021
 
+**Conference Service**
+* ICWSM Ambassador - 2024
+  
 **Conference Volunteer**
 * EMNLP student volunteer (Virtual) - 2022
 * ICWSM student volunteer - 2022
