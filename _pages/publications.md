@@ -4,8 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Pre-prints: 
+Preprints, Papers Under Review: 
 ======
+<a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
+<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
+<!-- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
+
 <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
