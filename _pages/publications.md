@@ -7,7 +7,7 @@ author_profile: true
 Preprints, Papers Under Review: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/microtarget.png" alt="Thumbnail" style="width: 100px; height: auto; margin-right: 15px;">
+  <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
     <br>
