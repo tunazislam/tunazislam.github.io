@@ -78,11 +78,20 @@ Refereed Conferences:
 <span style="background-color: #FFD700">Oral Presentation, top 11%</span>
 <br>
 [[Paper link]](https://dl.acm.org/doi/10.1145/3600211.3604665) [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf) -->
-
-<a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/election_2020.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2023/index.html/" >(ICWSM-2023)</a>, 17(1), 411-422. [Acceptance rate: 20%]
+    <br>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
 <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)), 17(1), 411-422. [Acceptance rate: 20%] <br>
-[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf)
+[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
 <br>
