@@ -185,10 +185,21 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
 
 Refereed Workshops: 
 ======
-<a href="http://tunazislam.github.io/publications/covid-dash-workshop" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactively Uncovering Latent Arguments in Social Media Platforms: A Case Study on the Covid-19 Vaccine Debate </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/interactive_HIL.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/covid-dash-workshop" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactively Uncovering Latent Arguments in Social Media Platforms: A Case Study on the Covid-19 Vaccine Debate </b></a>
+    <br>
+    Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Fourth Workshop on Data Science with Human in the Loop: Language Advances <a href="https://www.dashworkshops.org/emnlp-2022/program" >(DASH @EMNLP 2022)</a>
+    <br>
+    <a href="https://aclanthology.org/2022.dash-1.13.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> 
+  </div>
+</div>
+
+<!-- <a href="http://tunazislam.github.io/publications/covid-dash-workshop" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactively Uncovering Latent Arguments in Social Media Platforms: A Case Study on the Covid-19 Vaccine Debate </b></a>
 <br>
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Fourth Workshop on Data Science with Human in the Loop: Language Advances ([DASH @EMNLP 2022](https://www.dashworkshops.org/emnlp-2022/program)). <br>
-[[Paper link]](https://aclanthology.org/2022.dash-1.13.pdf)
+[[Paper link]](https://aclanthology.org/2022.dash-1.13.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/causal-yoga-happiness" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> *Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information </b></a>
 <br>
