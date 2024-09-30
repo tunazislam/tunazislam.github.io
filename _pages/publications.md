@@ -61,14 +61,23 @@ Refereed Conferences:
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM-2025](https://www.icwsm.org/2025/)). (To Appear) <br>
 [[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
-
-<a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/climate_fb.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 <a href="https://www.aies-conference.com/2023/">(AIES-2023)</a>, 15–25. [Acceptance rate: 28.9%] <span style="background-color: #FFD700">Oral Presentation, top 11% </span>
+    <br>
+    <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2305.06174.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/climateFbAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
 <br>
 <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES-2023](https://www.aies-conference.com/2023/)), 15–25. https://doi.org/10.1145/3600211.3604665. [Acceptance rate: 28.9%]
 <br>
 <span style="background-color: #FFD700">Oral Presentation, top 11%</span>
 <br>
-[[Paper link]](https://dl.acm.org/doi/10.1145/3600211.3604665) [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf)
+[[Paper link]](https://dl.acm.org/doi/10.1145/3600211.3604665) [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
 <br>
