@@ -111,7 +111,7 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
   <div>
     <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
     <br>
-    Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [ * <b>indicates equal contribution</b>]
+    Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [ <b>*</b> indicates <b>equal contribution</b>]
     <br>
     Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies <a href="https://2022.naacl.org/" >(NAACL 2022)</a>, pages 5821–5839. [Acceptance rate: 21%]<br>
     <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2205.01817.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> 
