@@ -92,11 +92,20 @@ Refereed Conferences:
 <br>
 <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)), 17(1), 411-422. [Acceptance rate: 20%] <br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf) -->
-
-<a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/interactive_concept.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
+    <br>
+    Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023, 5059–5080. [Acceptance rate: 18.4%]
+    <br>
+    <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2305.05094.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
 <br>
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023, 5059–5080. [Acceptance rate: 18.4%] <br>
-[[Paper link]](https://aclanthology.org/2023.findings-acl.313/) [[arXiv]](https://arxiv.org/pdf/2305.05094.pdf)
+[[Paper link]](https://aclanthology.org/2023.findings-acl.313/) [[arXiv]](https://arxiv.org/pdf/2305.05094.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
 <br>
