@@ -47,10 +47,20 @@ Preprints, Papers Under Review:
 
 Refereed Conferences: 
 ======
-<a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/llm_in_loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM-2025)</a>. (To Appear).
+    <br>
+    <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM-2025](https://www.icwsm.org/2025/)). (To Appear) <br>
-[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf)
+[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
 <br>
