@@ -154,10 +154,20 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
 <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/)), 16(1), 358-369. [Acceptance rate: 20%]<br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19298) [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf) [[Featured as ACM-W Scholar]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)
  -->
-<a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/joint_embed.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2021/index.html/" >(ICWSM-2021)</a>, 15(1), 242-253. [Acceptance rate: 20%]
+    <br>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2104.03189.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Research Highlight]</a>
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. [Acceptance rate: 20%]<br>
-[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf)
+[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/do-you-do-yoga" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> *Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information </b></a>
 <br>
