@@ -106,13 +106,23 @@ Refereed Conferences:
 <br>
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023, 5059–5080. [Acceptance rate: 18.4%] <br>
 [[Paper link]](https://aclanthology.org/2023.findings-acl.313/) [[arXiv]](https://arxiv.org/pdf/2305.05094.pdf) -->
-
-<a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/holistic.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
+    <br>
+    Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [ * <b>indicates equal contribution</b>]
+    <br>
+    Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies <a href="https://2022.naacl.org/" >(NAACL 2022)</a>, pages 5821–5839. [Acceptance rate: 21%]<br>
+    <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2205.01817.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> 
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/holistic-covid-vaccine" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Holistic Framework for Analyzing the COVID-19 Vaccine Debate </b></a>
 <br>
 Maria Leonor Pacheco*, <b>Tunazzina Islam*</b>, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser. [ * Indicates **equal contribution**]
 <br>
 Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies ([NAACL 2022](https://2022.naacl.org/)), pages 5821–5839. [Acceptance rate: 21%]<br>
-[[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf) [[Slide]](https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf)
+[[Paper link]](https://aclanthology.org/2022.naacl-main.427.pdf) [[arXiv]](https://arxiv.org/pdf/2205.01817.pdf) [[Slide]](https://tunazislam.github.io/files/naacl2022_covid_paper_presentation.pdf) -->
 
 <a href="http://tunazislam.github.io/publications/covid-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision </b></a>
 <br>
