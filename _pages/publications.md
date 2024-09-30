@@ -139,12 +139,21 @@ Proceedings of the 2022 Conference of the North American Chapter of the Associat
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)), pp. 585-595, doi: 10.1109/BigData55660.2022.10021123. [Acceptance rate: 19.2%] <br>
 Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/10021123) [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf) -->
-
-<a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/graph_embed.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2022/index.html/" >(ICWSM-2022)</a>, 16(1), 358-369. [Acceptance rate: 20%]
+    <br>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2108.08988.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured as ACM-W Scholar]</a>
+  </div>
+</div>
+<!-- <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/)), 16(1), 358-369. [Acceptance rate: 20%]<br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19298) [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf) [[Featured as ACM-W Scholar]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)
-
+ -->
 <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. [Acceptance rate: 20%]<br>
