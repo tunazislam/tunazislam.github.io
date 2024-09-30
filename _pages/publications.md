@@ -209,10 +209,21 @@ Refereed Workshops:
 Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Fourth Workshop on Data Science with Human in the Loop: Language Advances ([DASH @EMNLP 2022](https://www.dashworkshops.org/emnlp-2022/program)). <br>
 [[Paper link]](https://aclanthology.org/2022.dash-1.13.pdf) -->
 
-<a href="http://tunazislam.github.io/publications/causal-yoga-happiness" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> *Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/yoga_happy.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/causal-yoga-happiness" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> <em>Does Yoga Make You Happy?</em> Analyzing Twitter User Happiness using Textual and Temporal Information  </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. KDDBHI at 2020 IEEE International Conference on Big Data <a href="https://bigdataieee.org/BigData2020/" >(IEEE BigData 2020)</a>, pp. 4241-4249. 
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/9378461" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2012.02939.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> 
+  </div>
+</div>
+
+<!-- <a href="http://tunazislam.github.io/publications/causal-yoga-happiness" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> *Does Yoga Make You Happy?* Analyzing Twitter User Happiness using Textual and Temporal Information </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. KDDBHI at 2020 IEEE International Conference on Big Data ([IEEE BigData 2020](https://bigdataieee.org/BigData2020/)), pp. 4241-4249, doi: 10.1109/BigData50022.2020.9378461. <br>
-[[Paper link]](https://ieeexplore.ieee.org/document/9378461) [[arXiv]](https://arxiv.org/pdf/2012.02939.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf)
+[[Paper link]](https://ieeexplore.ieee.org/document/9378461) [[arXiv]](https://arxiv.org/pdf/2012.02939.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2020_causal_yoga_happiness.pdf)  -->
 
 <a href="http://tunazislam.github.io/publications/Ex-Twit" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Ex-Twit: Explainable Twitter Mining on Health Data </b></a>
 <br>
