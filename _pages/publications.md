@@ -241,10 +241,21 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
 <b>Tunazzina Islam</b>. 7th International Workshop on Natural Language Processing for Social Media [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.02132.pdf) [[Slide]](https://tunazislam.github.io/files/SocialNLP_IJCAI_2019_Tunaz.pdf) -->
 
-<a href="http://tunazislam.github.io/publications/Twitter_correlation_mining" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Yoga-Veganism: Correlation Mining of Twitter Health Data </b></a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/yoga_vegan.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/Twitter_correlation_mining" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Yoga-Veganism: Correlation Mining of Twitter Health Data </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining <a href="https://sites.google.com/site/socialnlp2019/" >(WISDOM @ KDD 2019)</a>. 
+    <br>
+    <a href="https://arxiv.org/pdf/1906.07668.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/LDA_Visualization_t4.html" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Visualization]</a> 
+  </div>
+</div>
+
+<!--  <a href="http://tunazislam.github.io/publications/Twitter_correlation_mining" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Yoga-Veganism: Correlation Mining of Twitter Health Data </b></a>
 <br>
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <br>
-[[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)
+[[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)  -->
 
 # Papers related to Bioinformatics & Computational Biology: 
 <!-- ## Refereed Journals, Conferences and Workshops:
