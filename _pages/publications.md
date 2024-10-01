@@ -356,7 +356,7 @@ Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE Inte
 <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
 [[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf) -->
 
-# Papers related to High Performance Computing: 
+# Papers related to High-Performance Computing: 
 <!-- ## Refereed Conferences and Workshops: -->
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
