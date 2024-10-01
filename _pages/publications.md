@@ -309,19 +309,52 @@ Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC
 Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering ([BIBE 2019](https://bibe2019.ics.forth.gr/)), pp. 60-65, doi: 10.1109/BIBE.2019.00020. <br>
 [[Paper link]](https://ieeexplore.ieee.org/document/8941857) -->
 
-<a href="http://tunazislam.github.io/publications/Twist_central_lines" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Quantification of Twist from the Central Lines of β-strands </b></a>
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/twist_central_line.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/Twist_central_lines" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Quantification of Twist from the Central Lines of β-strands </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Journal of Computational Biology <a href="https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview" >(JCB)</a>, 2018, 25 (1): 114-120.  
+    <br>
+    <a href="https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[PDF]</a> 
+  </div>
+</div>
+
+<!-- <a href="http://tunazislam.github.io/publications/Twist_central_lines" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Quantification of Twist from the Central Lines of β-strands </b></a>
 <br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Journal of Computational Biology ([JCB](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview)), 2018, 25 (1): 114-120, doi: 10.1089/cmb.2017.0174. <br>
-[[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) 
+[[Paper link]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0174) [[PDF]](https://tunazislam.github.io/files/Twist_central_lines_JCB2018.pdf) -->
 
-<b style='color:#8B4513'>Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling</b> <br>
-<b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
-[[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf)
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/twist_image.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/Twist_3D_image" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop 2017 at ACM-BCB <a href="http://acm-bcb.org/2017/index.php" >(CSBW @ ACM-BCB 2017])</a>, pp. 650-654.  
+    <br>
+    <a href="https://dl.acm.org/citation.cfm?id=3107507" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[PDF]</a> 
+  </div>
+</div>
 
-<a href="http://tunazislam.github.io/publications/Twist_3D_image" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein </b></a>
+<!-- <a href="http://tunazislam.github.io/publications/Twist_3D_image" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Method for Characterization of β-strand Twist from a 3-Dimensional Image of a Protein </b></a>
 <br>
 <b>Tunazzina Islam</b>, Michael Poteat, Jing He. Computational Structural Bioinformatics Workshop (CSBW) 2017 in conjunction with [ACM-BCB 2017](http://acm-bcb.org/2017/index.php), pp. 650-654, doi: 10.1145/3107411.3107507.<br>
-[[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) 
+[[Paper link]](https://dl.acm.org/citation.cfm?id=3107507) [[PDF]](https://tunazislam.github.io/files/Twist_3D_image_ACM_BCB2017.pdf) -->
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/tapia.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a style="color: #8B4513;"><b> Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>
+    <br>
+    <a href="https://tunazislam.github.io/files/PDF_Tapia_2017.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster PDF @TAPIA 2017]</a> <a href="https://tunazislam.github.io/files/Poster_Tapia_2017.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster @TAPIA 2017]</a> 
+  </div>
+</div>
+
+<!-- <b style='color:#8B4513'>Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling</b> <br>
+<b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
+[[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf) -->
 
 # Papers related to High Performance Computing: 
 <!-- ## Refereed Conferences and Workshops: -->
