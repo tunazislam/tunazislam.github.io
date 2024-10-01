@@ -344,7 +344,7 @@ Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE Inte
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/tapia.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a style="color: #8B4513;"><b> Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling </b></a>
+    <b style="color: #8B4513"> Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling </b>
     <br>
     <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>
     <br>
@@ -358,10 +358,33 @@ Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE Inte
 
 # Papers related to High Performance Computing: 
 <!-- ## Refereed Conferences and Workshops: -->
-<a href="http://tunazislam.github.io/publications/PLsimulation_ML_GPU" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs </b></a>
+
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/beam_dynamics.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/PLsimulation_ML_GPU" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b>  A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs </b></a>
+    <br>
+    Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing <a href="http://www.icpp-conf.org/2017/" >(ICPP 2017)</a>, pp. 462-471.  
+    <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8025320/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> 
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/radiation.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <b style='color:#8B4513'>Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform</b> <br>
+    <br>
+    Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina Islam</b>, Desh Ranjan, Sukesh Sangam, Mohammad Zubair. 8th International Particle Accelerator Conference (IPAC'17), 2017.  
+    <br>
+    <a href="http://epaper.kek.jp/ipac2017/papers/thpab085.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster PDF in Proceedings]</a> 
+  </div>
+</div>
+
+<!-- <a href="http://tunazislam.github.io/publications/PLsimulation_ML_GPU" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs </b></a>
 <br>
 Kamesh Arumugam, Desh Ranjan, Mohammad Zubair, Balsa Terzic, Alexander Godunov, <b>Tunazzina Islam</b>. 46th International Conference on Parallel Processing ([ICPP 2017](http://www.icpp-conf.org/2017/)), pp. 462-471, doi: 10.1109/ICPP.2017.55.<br>
-[[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/)
+[[Paper link]](https://ieeexplore.ieee.org/abstract/document/8025320/) 
 
 <b style='color:#8B4513'>Simulations of Coherent Synchrotron Radiation on Parallel Hybrid GPU/CPU Platform</b> <br>
 Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina Islam</b>, Desh Ranjan, Sukesh Sangam, Mohammad Zubair. 8th International Particle Accelerator Conference (IPAC'17), May 2017, Copenhagen, Denmark.<br>
@@ -369,7 +392,7 @@ Balsa Terzić, Kamesh Arumugam, Dallan Duffin, Alexander Godunov, <b>Tunazzina I
 
 <b style='color:#8B4513'>Particle deposition in grid according to Particle-In-Cell (PIC) Scheme using Graphical Processing Unit (GPU)</b> <br>
 <b>Tunazzina Islam</b>, Mohammad Zubair. Grace Hopper Celebration of Women in Computing (GHC), October 2016, Houston, TX, USA.<br>
-[[Poster PDF @GHC 2016]](https://tunazislam.github.io/files/PDF_GHC_2016.pdf) [[Poster @GHC 2016]](https://tunazislam.github.io/files/Poster_GHC_2016.pdf)
+[[Poster PDF @GHC 2016]](https://tunazislam.github.io/files/PDF_GHC_2016.pdf) [[Poster @GHC 2016]](https://tunazislam.github.io/files/Poster_GHC_2016.pdf) -->
 
 
 
