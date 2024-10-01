@@ -1,12 +1,5 @@
 
----
-title: "" 
-permalink: /publications/ 
-author_profile: true
----
 
-Preprints, Papers Under Review: 
-======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
