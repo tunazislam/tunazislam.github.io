@@ -56,7 +56,7 @@ Preprints, Papers Under Review:
 Refereed Conferences: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/llm_in_loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/llm-in-loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
     <br>
