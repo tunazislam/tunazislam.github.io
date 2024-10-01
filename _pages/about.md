@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 My primary research interest lies in **computational social science (CSS)**, **natural language processing (NLP)**, **social
-media mining and analysis**. My research vision is to understand ***microtargeting*** and ***activity patterns*** on social media
-by developing computational approaches and frameworks blending CSS, NLP, and artificial intelligence (AI). We now live in a world where we
-can reach people directly through social media without relying on traditional media such as television and radio. On
-the other hand, social media platforms collect vast amounts of data and create very specific profiles of different users
-through targeted advertising. While effective in enhancing content relevance, *microtargeting* poses risks of manipulating user behavior, creating echo chambers, and fostering polarization. I provide computational frameworks to analyze microtargeting patterns, which will help
-policymakers make better decisions. 
+media mining and analysis**. We now live in a world where we can reach people directly through social media without relying on traditional media such as television and radio. On the other hand, social media platforms collect vast amounts of data and create very specific profiles of different users
+through targeted advertising. While effective in enhancing content relevance, *microtargeting* poses risks of manipulating user behavior, creating echo chambers, and fostering polarization. My research vision is to understand ***microtargeting*** and ***activity patterns*** on social media
+by developing computational approaches and frameworks blending CSS, NLP, and artificial intelligence (AI). 
 
 A significant challenge lies in understanding the messaging and how it changes depending on the targeted user groups. Another challenge arises when we do not know who the users are and what their motivations are for engaging with content. I address these challenges by developing computational approaches for (1) **characterizing user types and their motivations
 for engaging with content** <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM 2022]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM 2021] </a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364605" style="color: #8B4513;" > [ICSC 2021] </a> <a href="https://ieeexplore.ieee.org/document/9378461" style="color: #8B4513;" > [IEEE BigData 2020] </a>;
