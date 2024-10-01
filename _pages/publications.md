@@ -263,7 +263,7 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
   <div>
     <a href="http://tunazislam.github.io/publications/REXTAL_QUAST" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Analysis of Subtelomeric REXTAL Assemblies Using QUAST </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics <a href="https://www.computer.org/web/tcbb" >(TCBB)</a>, vol. 18, no. 1, pp. 365-372, 1 Jan.-Feb. 2021, doi: 10.1109/TCBB.2019.2913845.  
+    <b>Tunazzina Islam</b>, Desh Ranjan, Mohammad Zubair, Eleanor Young, Ming Xiao, Harold Riethman. IEEE/ACM Transactions on Computational Biology and Bioinformatics <a href="https://www.computer.org/web/tcbb" >(TCBB 2019)</a>, vol. 18, no. 1, pp. 365-372.  
     <br>
     <a href="https://ieeexplore.ieee.org/document/8703093" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://tunazislam.github.io/files/REXTAL_QUAST_TCBB2019.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[PDF]</a> 
   </div>
@@ -279,9 +279,9 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
   <div>
     <a href="http://tunazislam.github.io/publications/REXTAL" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> REXTAL: Regional Extension of Assemblies Using Linked-Reads </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications <a href="http://alan.cs.gsu.edu/isbra18/" >(ISBRA 2018)</a>, pp. 63-78, doi: 10.1007/978-3-319-94968-0_6.  
-    <br>
-    Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC), September 2018, Houston, TX, USA. <br>
+    <b>Tunazzina Islam</b>, Desh Ranjan, Eleanor Young, Ming Xiao, Mohammad Zubair, Harold Riethman. 14th International Symposium on Bioinformatics Research and Applications <a href="http://alan.cs.gsu.edu/isbra18/" >(ISBRA 2018)</a>, pp. 63-78.  
+  <br>
+    Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC), 2018. <br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-94968-0_6" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://tunazislam.github.io/files/REXTAL_ISBRA2018.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[PDF]</a> <a href="https://tunazislam.github.io/files/Poster_GHC_2018.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster @GHC 2018]</a> <a href="https://tunazislam.github.io/files/PDF_GHC_2018.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster PDF @GHC 2018]</a> 
   </div>
 </div>
@@ -297,7 +297,7 @@ Also accepted as a poster at Grace Hopper Celebration of Women in Computing (GHC
   <div>
     <a href="http://tunazislam.github.io/publications/REXTAL_nanopore" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Nanopore Guided Assembly of Segmental Duplications near Telomeres </b></a>
     <br>
-    Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering <a href="https://bibe2019.ics.forth.gr/" >(BIBE 2019)</a>, pp. 60-65, doi: 10.1109/BIBE.2019.00020.  
+    Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE International Conference on Bioinformatics and Bioengineering <a href="https://bibe2019.ics.forth.gr/" >(BIBE 2019)</a>, pp. 60-65.  
     <br>
     <a href="https://ieeexplore.ieee.org/document/8941857" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> 
   </div>
