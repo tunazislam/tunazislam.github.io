@@ -68,6 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* October 04, 2024: Became Tutorial Co-chair of [ICWSM-2025](https://www.icwsm.org/2025/organization/index.html#).
 * July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
