@@ -13,6 +13,7 @@ Preprints, Papers Under Review:
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024.
     <br>
+    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
