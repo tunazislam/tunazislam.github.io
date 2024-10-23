@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 Office:<br>
-Lawson Computer Science Building 2149 <br>
-305 N. University Street <br>
+Hall of Data Science and AI Building 3119 <br>
+475 Stadium Mall Drive <br>
 West Lafayette, IN 47907, USA <br>
 
 E-mail:<br>
