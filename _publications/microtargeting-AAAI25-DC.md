@@ -3,7 +3,7 @@ title: "Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Lo
 collection: publications
 permalink: /publications/microtargeting-AAAI25-DC
 venue: "30th AAAI/SIGAI Doctoral Consortium ([AAAI-25 Doctoral Consortium](https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/))"
-citation: '<b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium (AAAI-25 Doctoral Consortium).'
+citation: '<b>Tunazzina Islam</b>. AAAI-25 Doctoral Consortium.'
 
 ---
 
