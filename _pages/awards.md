@@ -4,6 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
+* **AAAI/SIGAI Doctoral Consortium**, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2024, 2022, 2021.
 * **ADSA Travel Award** to give tutorial and lightning talks at the Academic Data Science Alliance Annual Meeting, 2024.
 * **MSLD Travel Award** to attend and present our work at Midwest Speech and Language Days (MSLD), 2024.
