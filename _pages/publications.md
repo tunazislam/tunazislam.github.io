@@ -57,7 +57,7 @@ Preprints, Papers Under Review:
 Refereed Conferences: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/microtargeting-AAAI25-DC.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/microtargeting-AAAI25-DC.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
     <br>
