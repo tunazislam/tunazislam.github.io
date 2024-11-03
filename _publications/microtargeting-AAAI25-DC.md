@@ -3,7 +3,7 @@ title: "Understanding Microtargeting Pattern on Social Media"
 collection: publications
 permalink: /publications/microtargeting-AAAI25-DC
 venue: "30th AAAI/SIGAI Doctoral Consortium ([AAAI-25 Doctoral Consortium](https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/))"
-citation: '<b>Tunazzina Islam</b>. AAAI-25 Doctoral Consortium.'
+citation: '<b>Tunazzina Islam</b>.<span style="color:red"> AAAI-25 Doctoral Consortium</span>.'
 
 ---
 
