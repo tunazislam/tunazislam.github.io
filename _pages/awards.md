@@ -4,7 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-* **AAAI/SIGAI Doctoral Consortium**, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+* <span style="color:red">**AAAI/SIGAI Doctoral Consortium**</span>, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2024, 2022, 2021.
 * **ADSA Travel Award** to give tutorial and lightning talks at the Academic Data Science Alliance Annual Meeting, 2024.
 * **MSLD Travel Award** to attend and present our work at Midwest Speech and Language Days (MSLD), 2024.
@@ -22,7 +22,7 @@ author_profile: true
 * **Computer Science Outstanding Graduate Researcher - Fall 2017 [[Link]](https://www.odu.edu/sites/default/files/documents/nlspring2018-odu-computer-science.pdf)** at Old Dominion University, 2018.
 * **Travel award** to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/) at University of Michigan Ann Arbor, 2018.
 * **Modeling and Simulation Certificate** in Computing and Informatics from Old Dominion University, 2017.
-* **2nd prize in Tapia Student Poster Competition** in ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
+* <span style="color:red">**2nd prize in Tapia Student Poster Competition**</span> in ACM Richard Tapia Celebration of Diversity in Computing Conference 2017, Atlanta, GA, USA.
 * **ACM Richard Tapia Scholarship** for attending ACM Richard Tapia Celebration Diversity in Computing, 2016 & 2017.
 * **CAPWIC Scholarship** for attending ACM Capital Region Celebration of Women in Computing, 2017.
 * **GHC Scholarship [[Link]](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/)** for attending 2016 Grace Hopper Celebration of Women in Computing (GHC), Houston, TX, USA. 
