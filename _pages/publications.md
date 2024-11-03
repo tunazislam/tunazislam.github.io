@@ -69,7 +69,7 @@ Refereed Conferences:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm-in-loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
+    <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM-2025)</a>. (To Appear).
     <br>
