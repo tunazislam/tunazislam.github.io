@@ -1,5 +1,5 @@
 ---
-title: "Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs"
+title: "Understanding Microtargeting Pattern on Social Media"
 collection: publications
 permalink: /publications/microtargeting-AAAI25-DC
 venue: "30th AAAI/SIGAI Doctoral Consortium ([AAAI-25 Doctoral Consortium](https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/))"
