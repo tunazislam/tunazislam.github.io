@@ -57,6 +57,16 @@ Preprints, Papers Under Review:
 Refereed Conferences: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/microtargeting-AAAI25-DC.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium <a href="https://www.icwsm.org/2025/">(AAAI-25 Doctoral Consortium)</a>. (To Appear).
+    <br>
+<!--     <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> -->
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm-in-loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #8B4513;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#8B4513';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
