@@ -68,7 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* November 02, 2024: Paper accepted at [AAAI-25 Doctoral Consortium](https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/).
+* November 02, 2024: Proposal accepted at [AAAI-25 Doctoral Consortium](https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/).
 * October 29-31, 2024: Aettended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting, UMich, Ann Arbor.
 * October 04, 2024: Became Tutorial Co-chair of [ICWSM-2025](https://www.icwsm.org/2025/organization/index.html#).
 * July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
@@ -107,8 +107,8 @@ Recent News
 
 <!---
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
-* August 31, 2020 : Submitted Ph.D. Plan of Study.
-* December 17, 2019 : Passed Ph.D. qualifier.
+* August 31, 2020: Submitted Ph.D. Plan of Study.
+* December 17, 2019: Passed Ph.D. qualifier.
 * August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
 * August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchoarge, Alaska.
 * July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
