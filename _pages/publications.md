@@ -74,10 +74,10 @@ Conferences:
     <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
     <br>
     <b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(AAAI-25 Doctoral Consortium)</a>. (To Appear).
-    <br> -->
-<!--     <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> -->
+    <br> 
+   <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
-</div>
+</div> -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm-in-loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
