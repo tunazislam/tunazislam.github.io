@@ -54,15 +54,25 @@ Preprints, Papers Under Review:
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
 [[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 
-Refereed Conferences: 
+Doctoral Consortium: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/microtargeting-AAAI25-DC.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
     <br>
-    <b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(AAAI-25 Doctoral Consortium)</a>. (To Appear).
+    <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. (To Appear).
     <br>
+    
+Conferences: 
+======
+<!--  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/microtargeting-AAAI25-DC.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(AAAI-25 Doctoral Consortium)</a>. (To Appear).
+    <br> -->
 <!--     <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> -->
   </div>
 </div>
@@ -202,7 +212,7 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)), pp. 362-365. [Acceptance rate: 30%]<br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9364605) [[arXiv]](https://arxiv.org/pdf/2012.09332.pdf) [[Slide]](https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf) -->
 
-Refereed Workshops: 
+Workshops: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/interactive_HIL.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
