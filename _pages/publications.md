@@ -63,6 +63,8 @@ Doctoral Consortium:
     <br>
     <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. (To Appear).
     <br>
+    </div>
+</div>
     
 Conferences: 
 ======
