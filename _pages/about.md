@@ -69,8 +69,8 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 Recent News
 ======
 * November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
-* October 29-31, 2024: Aettended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting, UMich, Ann Arbor.
-* October 04, 2024: Became Tutorial Co-chair of [ICWSM-2025](https://www.icwsm.org/2025/organization/index.html#).
+* October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized tutorial on "analyzing microtargeting on social media"</span>.
+* October 04, 2024: <span style="color:red">Tutorial Co-Chair </span><a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">ICWSM 2025</a>.
 * July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
