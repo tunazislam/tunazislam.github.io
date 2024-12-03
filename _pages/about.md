@@ -70,7 +70,7 @@ Recent News
 ======
 * November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized Tutorial on "Analyzing Microtargeting on Social Media"</span>.
-* October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal.
+* October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
 * July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
