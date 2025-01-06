@@ -21,7 +21,7 @@ Undergraduate Courses:
 
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
-* Data Mining And Machine Learning, Fall 2022 & Fall 2024.
+* Data Mining And Machine Learning, Fall 2022, Fall 2024 & Spring 2025.
 * Foundations of Computer Science, Spring 2020 & Summer 2020.
 * Introduction to the Analysis of Algorithms, Fall 2019.
 * Data Structures and Algorithms, Summer 2019, Fall 2020, Spring 2021.
