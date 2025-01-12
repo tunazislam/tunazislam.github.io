@@ -9,6 +9,7 @@ Graduate Courses:
 ======
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
+* AI Forge (Course Development), Spring 2025.
 * Natural Language Processing, Spring (2022 - 2024).
 * Statistical Machine Learning, Fall (2021, 2023).
 
@@ -21,7 +22,7 @@ Undergraduate Courses:
 
 **Teaching Assistant, Department of Computer Science, Purdue University**
 
-* Data Mining And Machine Learning, Fall 2022, Fall 2024 & Spring 2025.
+* Data Mining And Machine Learning, Fall 2022, Fall 2024.
 * Foundations of Computer Science, Spring 2020 & Summer 2020.
 * Introduction to the Analysis of Algorithms, Fall 2019.
 * Data Structures and Algorithms, Summer 2019, Fall 2020, Spring 2021.
