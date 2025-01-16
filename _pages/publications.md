@@ -7,6 +7,15 @@ author_profile: true
 Preprints, Papers Under Review: 
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Vegan Discourse on Social Media by Leveraging LLMs </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2025.
+    <br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
