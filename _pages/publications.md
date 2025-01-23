@@ -43,16 +43,6 @@ Preprints, Papers Under Review:
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br> -->
 <!-- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/llm_tp.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
-    <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024.
-    <br>
-    <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
-  </div>
-</div>
 <!-- <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
@@ -77,16 +67,17 @@ Doctoral Consortium:
     
 Conferences: 
 ======
-<!--  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/microtargeting-AAAI25-DC.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/llm_tp.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
+    <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
     <br>
-    <b>Tunazzina Islam</b>. 30th AAAI/SIGAI Doctoral Consortium <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(AAAI-25 Doctoral Consortium)</a>. (To Appear).
-    <br> 
-   <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+    <b>Tunazzina Islam</b>, Dan Goldwasser. Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <a href="https://2025.naacl.org/">(NAACL 2025)</a>. (To Appear).
+    <br>
+    <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
-</div> -->
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm-in-loop.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
