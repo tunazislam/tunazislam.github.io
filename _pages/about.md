@@ -68,7 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* January 22, 2025: Long paper accepted to publish in [NAACL 2025](https://2025.naacl.org/).
+* January 22, 2025: Long paper accepted to publish in Findings of [NAACL 2025](https://2025.naacl.org/).
 * November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized Tutorial on "Analyzing Microtargeting on Social Media"</span>.
 * October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
