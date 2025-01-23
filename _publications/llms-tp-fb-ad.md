@@ -2,8 +2,8 @@
 title: "Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy"
 collection: publications
 permalink: /publications/llms-tp-fb-ad
-venue: "Preprint 2024"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint 2024.'
+venue: "Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025)"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025).'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf)
