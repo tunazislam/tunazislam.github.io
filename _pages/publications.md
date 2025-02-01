@@ -29,15 +29,6 @@ Preprints, Papers Under Review:
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br> -->
 <!-- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/assist_annot.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/llms-annotator-morality" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media </b></a>
-    <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024.
-    <br>
-  </div>
-</div>
 <!-- <a href="http://tunazislam.github.io/publications/llms-annotator-morality" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media. </b></a>
 <br>
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br> -->
@@ -87,6 +78,15 @@ Conferences:
     <br>
     <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/assist_annot.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/llms-annotator-morality" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>. (To Appear).
+    <br>
+  </div>
+</div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
 <br>
