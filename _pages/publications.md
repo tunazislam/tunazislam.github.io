@@ -74,7 +74,7 @@ Conferences:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM-2025)</a>. (To Appear).
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM 2025)</a>. (To Appear).
     <br>
     <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
@@ -91,21 +91,21 @@ Conferences:
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
 <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM-2025](https://www.icwsm.org/2025/)). (To Appear) <br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM 2025](https://www.icwsm.org/2025/)). (To Appear) <br>
 [[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/climate_change.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 <a href="https://www.aies-conference.com/2023/">(AIES-2023)</a>, 15–25. [Acceptance rate: 28.9%] <span style="background-color: #FFD700">Oral Presentation, top 11% </span>
+    <b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 <a href="https://www.aies-conference.com/2023/">(AIES 2023)</a>, 15–25. [Acceptance rate: 28.9%] <span style="background-color: #FFD700">Oral Presentation, top 11% </span>
     <br>
     <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2305.06174.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/climateFbAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
 <br>
-<b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES-2023](https://www.aies-conference.com/2023/)), 15–25. https://doi.org/10.1145/3600211.3604665. [Acceptance rate: 28.9%]
+<b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES 2023](https://www.aies-conference.com/2023/)), 15–25. https://doi.org/10.1145/3600211.3604665. [Acceptance rate: 28.9%]
 <br>
 <span style="background-color: #FFD700">Oral Presentation, top 11%</span>
 <br>
@@ -115,14 +115,14 @@ Conferences:
   <div>
     <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2023/index.html/" >(ICWSM-2023)</a>, 17(1), 411-422. [Acceptance rate: 20%]
+    <b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2023/index.html/" >(ICWSM 2023)</a>, 17(1), 411-422. [Acceptance rate: 20%]
     <br>
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
 <br>
-<b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM-2023](https://www.icwsm.org/2023/index.html/)), 17(1), 411-422. [Acceptance rate: 20%] <br>
+<b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM 2023](https://www.icwsm.org/2023/index.html/)), 17(1), 411-422. [Acceptance rate: 20%] <br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/interactive_concept.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
@@ -176,14 +176,14 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
   <div>
     <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2022/index.html/" >(ICWSM-2022)</a>, 16(1), 358-369. [Acceptance rate: 20%]
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2022/index.html/" >(ICWSM 2022)</a>, 16(1), 358-369. [Acceptance rate: 20%]
     <br>
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2108.08988.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured as ACM-W Scholar]</a>
   </div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
 <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM-2022](https://www.icwsm.org/2022/index.html/)), 16(1), 358-369. [Acceptance rate: 20%]<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM 2022](https://www.icwsm.org/2022/index.html/)), 16(1), 358-369. [Acceptance rate: 20%]<br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19298) [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf) [[Featured as ACM-W Scholar]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)
  -->
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -191,14 +191,14 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
   <div>
     <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2021/index.html/" >(ICWSM-2021)</a>, 15(1), 242-253. [Acceptance rate: 20%]
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2021/index.html/" >(ICWSM 2021)</a>, 15(1), 242-253. [Acceptance rate: 20%]
     <br>
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2104.03189.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Research Highlight]</a>
   </div>
 </div>
 <!-- <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
 <br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM-2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. [Acceptance rate: 20%]<br>
+<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM 2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. [Acceptance rate: 20%]<br>
 [[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/user-types.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
