@@ -3,7 +3,7 @@ title: "Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study 
 collection: publications
 permalink: /publications/llms-annotator-morality
 venue: "17th ACM Web Science Conference (WebSci 2025)"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>.'
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference (WebSci 2025)</a>.'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
