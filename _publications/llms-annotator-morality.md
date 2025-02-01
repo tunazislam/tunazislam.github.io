@@ -2,8 +2,8 @@
 title: "Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media"
 collection: publications
 permalink: /publications/llms-annotator-morality
-venue: "Preprint 2024"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint 2024.'
+venue: "17th ACM Web Science Conference (WebSci 2025)"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>.'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
