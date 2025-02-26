@@ -68,6 +68,8 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal got the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
+* February 25-March 04, 2025: Attending [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) and presenting my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
 * January 31, 2025: Long paper accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
 * January 22, 2025: Long paper accepted to publish in Findings of [NAACL 2025](https://2025.naacl.org/).
