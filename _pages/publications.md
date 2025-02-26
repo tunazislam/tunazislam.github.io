@@ -51,7 +51,7 @@ Doctoral Consortium:
   <div>
     <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
     <br>
-    <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. (To Appear).
+    <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. <span style="color:red"> Won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
     <br>
     </div>
 </div>
