@@ -4,6 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
+* <span style="color:red"> **Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>.
 * <span style="color:red">**AAAI/SIGAI Doctoral Consortium**</span>, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2024, 2022, 2021.
 * **ADSA Travel Award** to give tutorial and lightning talks at the Academic Data Science Alliance Annual Meeting, 2024.
