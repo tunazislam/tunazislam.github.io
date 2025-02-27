@@ -51,7 +51,7 @@ Doctoral Consortium:
   <div>
     <a href="http://tunazislam.github.io/publications/microtargeting-AAAI25-DC" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Microtargeting Pattern on Social Media </b></a>
     <br>
-    <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. <span style="color:red"> Won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
+    <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. <span style="color:red"> &#x1F3C6; Won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
     <br>
     </div>
 </div>
@@ -371,7 +371,7 @@ Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE Inte
   <div>
     <b style="color: #4a4a83"> Protein Secondary Structure Detection using Pattern Recognition and Geometric Modeling </b>
     <br>
-    <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>
+    <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>&#x1F3C6; Won 2nd Prize in Tapia Student Poster Competition 2017</b>
     <br>
     <a href="https://tunazislam.github.io/files/PDF_Tapia_2017.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster PDF @TAPIA 2017]</a> <a href="https://tunazislam.github.io/files/Poster_Tapia_2017.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster @TAPIA 2017]</a> 
   </div>
