@@ -68,12 +68,12 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
+* &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
 * February 25-March 04, 2025: Attending [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) and presenting my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
-* February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
+* &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
 * January 31, 2025: Long paper accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
 * January 22, 2025: Long paper accepted to publish in Findings of [NAACL 2025](https://2025.naacl.org/).
-* November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
+* &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized Tutorial on "Analyzing Microtargeting on Social Media"</span>.
 * October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
 * July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
