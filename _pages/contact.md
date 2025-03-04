@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Office:<br>
-Hall of Data Science and AI Building 3119 <br>
+Room 3130, Hall of Data Science and AI (DSAI) Building <br>
 475 Stadium Mall Drive <br>
 West Lafayette, IN 47907, USA <br>
 
