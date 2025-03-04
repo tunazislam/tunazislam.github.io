@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-I am a mom of 2 (born in 2021 & 2023), a first-generation Ph.D. student, yogi, and travel enthusiast.
+I am a mom of 2 (born in 2021 & 2023), a first-generation Ph.D., yogi, and travel enthusiast.
 
 **Countries Visited**
 
