@@ -68,7 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</span>.
+* &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the **best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>.
 * February 25-March 04, 2025: Attending [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) and presenting my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
 * January 31, 2025: Long paper accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
@@ -97,7 +97,7 @@ Recent News
 * October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 * July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
-* &#x1F3C6; May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) to attend ICWSM'22 which is a one-time award.
+* &#x1F3C6; May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) to attend ICWSM'22, a **one-time** award.
 * May 9, 2022: Received ICWSM2022 travel grant.
 * &#x1F3C6; April 11, 2022: Received Graduate School Summer Research Grant Award.
 * April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
