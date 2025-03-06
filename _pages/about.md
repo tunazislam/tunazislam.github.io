@@ -71,12 +71,12 @@ Recent News
 * &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the **best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>.
 * February 25-March 04, 2025: Attending [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) and presenting my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
-* January 31, 2025: Long paper accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
-* January 22, 2025: Long paper accepted to publish in Findings of [NAACL 2025](https://2025.naacl.org/).
+* &#x1F4DD; January 31, 2025: Long paper accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
+* &#x1F4DD; January 22, 2025: Long paper accepted to publish in Findings of [NAACL 2025](https://2025.naacl.org/).
 * &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized Tutorial on "Analyzing Microtargeting on Social Media"</span>.
 * October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
-* July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
+* &#x1F4DD; July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
 * June 12, 2024: Associate Chair (AC) of [CSCW 2025](https://cscw.acm.org/2025/).
@@ -89,24 +89,25 @@ Recent News
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
 * August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
 * June 05-08, 2023: Attended [ICWSM-2023](https://www.icwsm.org/2023/index.html/), Limassol, Cyprus.
-* May 05, 2023: Long paper accepted in [AIES-2023](https://www.aies-conference.com/2023/) as oral presentation.
-* May 02, 2023: Long paper accepted in Findings of [ACL 2023](https://2023.aclweb.org/).
+* &#x1F4DD; May 05, 2023: Long paper accepted in [AIES-2023](https://www.aies-conference.com/2023/) as oral presentation.
+* &#x1F4DD; May 02, 2023: Long paper accepted in Findings of [ACL 2023](https://2023.aclweb.org/).
 * &#x1F3C6; April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
 * December 17-20, 2022: Attended [IEEE BigData 2022](https://bigdataieee.org/BigData2022/), Osaka, Japan (Virtually).
 * December 7-11, 2022: Attended [EMNLP 2022](https://2022.emnlp.org/), Abu Dhabi, UAE (Virtually).
-* October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
-* July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
+* &#x1F4DD; October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
+* &#x1F4DD; July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
 * &#x1F3C6; May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) to attend ICWSM'22, a **one-time** award.
 * May 9, 2022: Received ICWSM2022 travel grant.
 * &#x1F3C6; April 11, 2022: Received Graduate School Summer Research Grant Award.
-* April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
-* July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
+* &#x1F4DD; April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
+* &#x1F4DD; July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
 * June 08-10, 2021: Attended [ICWSM-2021](https://www.icwsm.org/2021/index.html), Atlanta, Georgia (Virtually).
 * &#x1F3C6; March 30, 2021: Received Graduate School Summer Research Grant Award.
-* March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
+* &#x1F4DD; March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
 * January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
+* &#x1F4DD; December 06, 2020: Short paper accepted to publish in [ICSC-2021](https://www.semanticcomputing.org/).
 * August 31, 2020: Submitted Ph.D. Plan of Study.
 * December 17, 2019: Passed Ph.D. qualifier.
 
