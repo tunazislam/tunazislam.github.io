@@ -84,26 +84,26 @@ Recent News
 * May 20-21, 2024: Attended [Midwest Machine Learning Symposium (MMLS)](https://midwest-ml.org/2024/), 2024.
 * May 09, 2024: Became Ambassador for ICWSM.
 * April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/), 2024.
-* March 28, 2024: Received Graduate School Summer Research Grant Award.
+* &#x1F3C6; March 28, 2024: Received Graduate School Summer Research Grant Award.
 * February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
 * August 08-10, 2023: Attended [AIES-2023](https://www.aies-conference.com/2023/), Montreal, Canada.
 * June 05-08, 2023: Attended [ICWSM-2023](https://www.icwsm.org/2023/index.html/), Limassol, Cyprus.
 * May 05, 2023: Long paper accepted in [AIES-2023](https://www.aies-conference.com/2023/) as oral presentation.
 * May 02, 2023: Long paper accepted in Findings of [ACL 2023](https://2023.aclweb.org/).
-* April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
+* &#x1F3C6; April 14, 2023: Received Graduate Teaching Award from Purdue CS department.
 * December 17-20, 2022: Attended [IEEE BigData 2022](https://bigdataieee.org/BigData2022/), Osaka, Japan (Virtually).
 * December 7-11, 2022: Attended [EMNLP 2022](https://2022.emnlp.org/), Abu Dhabi, UAE (Virtually).
 * October 24, 2022: Regular paper accepted to publish in [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
 * July 16, 2022: Long paper accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
-* May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) for attendance at ICWSM 2022.
+* &#x1F3C6; May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) to attend ICWSM'22 which is a one-time award.
 * May 9, 2022: Received ICWSM2022 travel grant.
-* April 11, 2022: Received Graduate School Summer Research Grant Award.
+* &#x1F3C6; April 11, 2022: Received Graduate School Summer Research Grant Award.
 * April 7, 2022: Long paper accepted to publish in [NAACL 2022](https://2022.naacl.org/).
 * July 15, 2021: Long paper accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
 * June 08-10, 2021: Attended [ICWSM-2021](https://www.icwsm.org/2021/index.html), Atlanta, Georgia (Virtually).
-* March 30, 2021: Received Graduate School Summer Research Grant Award.
+* &#x1F3C6; March 30, 2021: Received Graduate School Summer Research Grant Award.
 * March 15, 2021: Long paper accepted to publish in [ICWSM-2021](https://www.icwsm.org/2021/index.html).
 * January 27-29, 2021: Attended [IEEE ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021), Irvine, California (Virtually).
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
