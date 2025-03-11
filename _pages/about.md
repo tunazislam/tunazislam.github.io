@@ -68,6 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* &#x1F4F0; March 11, 2025: My research and interview were featured in [AIhub](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
 * &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the **best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>.
 * February 25-March 04, 2025: Attending [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) and presenting my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
