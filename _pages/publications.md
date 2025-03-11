@@ -53,7 +53,7 @@ Doctoral Consortium:
     <br>
     <b>Tunazzina Islam</b>. 39th AAAI Conference on Artificial Intelligence <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">(30th AAAI-25 Doctoral Consortium)</a>. &#x1F3C6; <b style="color:red">Won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</b>.
     <br>
-    <a href="https://tunazislam.github.io/files/Final_Tunaz_Poster_AAAI_DC_2025_Microtargeting.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster]</a>
+    <a href="https://tunazislam.github.io/files/Final_Tunaz_Poster_AAAI_DC_2025_Microtargeting.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster]</a> <a href="https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured in AIhub]</a>
     </div>
 </div>
     
