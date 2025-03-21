@@ -66,7 +66,7 @@ Conferences:
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <a href="https://2025.naacl.org/">(NAACL 2025)</a>. (To Appear).
     <br>
-    <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
+    <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/LatentArgumentsLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 
