@@ -4,9 +4,11 @@ title: "Academic & Institutional Service"
 permalink: /service/
 author_profile: true
 ---
-
 **Tutorial Co-chair**
 * International AAAI Conference on Web and Social Media (**ICWSM**): 2025
+
+**Organizer & Chair**
+* Birds of a Feather (BoF) session in **NAACL**: 2025
   
 **Associate Chair (AC)**
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW**): 2024, 2025
