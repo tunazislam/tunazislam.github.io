@@ -68,6 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* March 26, 2025: <span style="color:red">Organizer and Chair</span> of the [Birds of a Feather (BoF) session](https://2025.naacl.org/calls/affinity/) in [NAACL 2025](https://2025.naacl.org/) on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Please join on May 2 (Friday) 9:00-10:30 MST, Room: 230 -Pecos, The Albuquerque Convention Center.
 * &#x1F3C6; March 19, 2025: Received NAACL 2025 Diversity and Inclusion Award (D&I Award).
 * &#x1F4F0; March 11, 2025: My research and interview were featured in [AIhub](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
 * &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the **best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>. <a href="https://tunazislam.github.io/files/AAAI 2025 DC best poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Announcement]</a> <a href="https://tunazislam.github.io/images/Best_Poster_Award_AAAI_DC_2025.jpeg" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Photo]</a>
