@@ -6,6 +6,8 @@ venue: "30th AAAI/SIGAI Doctoral Consortium ([AAAI-25 Doctoral Consortium](https
 citation: '<b>Tunazzina Islam</b>.<span style="color:red"> AAAI-25 Doctoral Consortium</span>.'
 
 ---
+&#x1F3C6; <b style="color:red">Won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium</b>
+
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/35212 " style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Proceedings]</a> <a href="https://tunazislam.github.io/files/Final_Tunaz_Poster_AAAI_DC_2025_Microtargeting.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster]</a> <a href="https://tunazislam.github.io/files/AAAI 2025 DC best poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Announcement]</a> <a href="https://tunazislam.github.io/images/Best_Poster_Award_AAAI_DC_2025.jpeg" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Photo]</a> <a href="https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured in AIhub]</a>
 
 ## Abstract
