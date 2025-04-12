@@ -6,8 +6,8 @@ author_profile: true
 ---
 * <span style="color:red"> **Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span> [[Featured in AIhub]](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
 * <span style="color:red">**AAAI/SIGAI Doctoral Consortium [[Link]](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/)**</span>, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
-* **Graduate Women in Science Program (WISP) Award**, College of Science, Purdue University, 2025.
 * **Diversity and Inclusion Award (D&I Award)**, NAACL, 2025.
+* **Graduate Women in Science Program (WISP) Award**, College of Science, Purdue University, 2025.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2024, 2022, 2021.
 * **ADSA Travel Award** to give tutorial and lightning talks at the Academic Data Science Alliance Annual Meeting, 2024.
 * **MSLD Travel Award** to attend and present our work at Midwest Speech and Language Days (MSLD), 2024.
