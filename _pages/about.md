@@ -68,6 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* April 15-16, 2025: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.nd.edu/msld25/) 2025 at the University of Notre Dame to present two posters.
 * &#x1F3C6; April 11, 2025: Received Graduate Women in Science Program (WISP) award from College of Science, Purdue University.
 * March 26, 2025: <span style="color:red">Organizer and Chair</span> of [Birds of a Feather (BoF) session](https://2025.naacl.org/calls/affinity/) in [NAACL 2025](https://2025.naacl.org/) on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Please join on May 2 (Friday), 9:00-10:30 MST, Room: 230 -Pecos, Albuquerque Convention Center.
 * &#x1F3C6; March 19, 2025: Received NAACL 2025 Diversity and Inclusion Award (D&I Award).
@@ -88,7 +89,7 @@ Recent News
 * June 9, 2024: Associate Chair (AC) of [CSCW 2024](https://cscw.acm.org/2024/).
 * May 20-21, 2024: Attended [Midwest Machine Learning Symposium (MMLS)](https://midwest-ml.org/2024/), 2024.
 * May 09, 2024: Became Ambassador for ICWSM.
-* April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/), 2024.
+* April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) 2024 at the University of Michigan, Ann Arbor to give a talk.
 * &#x1F3C6; March 28, 2024: Received Graduate School Summer Research Grant Award.
 * February 6, 2024: Guest lecture **Natural Language Processing, Purdue University**.
 * December 13, 2023: Passed prelim and became Ph.D. candidate.
