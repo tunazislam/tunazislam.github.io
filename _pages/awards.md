@@ -10,7 +10,7 @@ author_profile: true
 * **Graduate Women in Science Program (WISP) Award**, College of Science, Purdue University, 2025.
 * **Graduate School Summer Research Grant** for thesis research support, Purdue University, 2024, 2022, 2021.
 * **ADSA Travel Award** to give tutorial and lightning talks at the Academic Data Science Alliance Annual Meeting, 2024.
-* **MSLD Travel Award** to attend and present our work at Midwest Speech and Language Days (MSLD), 2024.
+* **MSLD Travel Award** to attend and present our work at Midwest Speech and Language Days (MSLD), 2024 & 2025.
 * **Graduate Teaching Award [[Link]](https://www.cs.purdue.edu/graduate/gta-award-winners.html)** CS, Purdue University, Spring 2023.
 * **ACM-W Scholarship [[Link]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)** for attendance at ICWSM 2022.
 * **ICWSM Travel Grant** to participate International AAAI Conference on Web and Social Media (ICWSM), 2021 & 2022.
