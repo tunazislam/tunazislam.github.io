@@ -64,9 +64,9 @@ Conferences:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <a href="https://2025.naacl.org/">(NAACL 2025)</a>. (To Appear).
+    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.naacl.org/">NAACL 2025</a>, pages 7397–7429. [Acceptance rate: 14.7%]
     <br>
-    <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/LatentArgumentsLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+    <a href="https://aclanthology.org/2025.findings-naacl.413/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/LatentArgumentsLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 
