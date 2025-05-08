@@ -68,7 +68,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
-* April 29-May 04, 2025: Attending [NAACL 2025](https://2025.naacl.org/) and presenting our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I am organizing BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
+* April 29-May 04, 2025: Attended [NAACL 2025](https://2025.naacl.org/) and presented our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I organized BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
 * April 15-16, 2025: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.nd.edu/msld25/) 2025 at the University of Notre Dame to present two posters.
 * &#x1F3C6; April 11, 2025: Received Graduate Women in Science Program (WISP) award from College of Science, Purdue University.
 * March 26, 2025: <span style="color:red">Organizer and Chair</span> of [Birds of a Feather (BoF) session](https://2025.naacl.org/calls/affinity/) in [NAACL 2025](https://2025.naacl.org/) on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Please join on May 2 (Friday), 9:00-10:30 MST, Room: 230 -Pecos, Albuquerque Convention Center.
