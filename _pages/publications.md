@@ -3,9 +3,21 @@ title: ""
 permalink: /publications/ 
 author_profile: true
 ---
-
-Preprints, Papers Under Review: 
+Publication Lists: 
 ======
+<b>*</b> indicates <b>equal contribution</b>. <b>⊕</b> indicates <b>Papers with students I mentored</b>.
+
+## **Preprints, Papers Under Review:**
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis.</b></a>⊕ 
+    <br>
+    Alexander Brady, <b>Tunazzina Islam</b>. Preprint, 2025.
+    <br>
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -44,8 +56,8 @@ Preprints, Papers Under Review:
 <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
 [[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 
-Doctoral Consortium: 
-======
+## **Doctoral Consortium:** 
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/microtargeting-AAAI25-DC.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -57,8 +69,8 @@ Doctoral Consortium:
     </div>
 </div>
     
-Conferences: 
-======
+## **Conferences:** 
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm_tp.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -218,8 +230,8 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
 <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)), pp. 362-365. [Acceptance rate: 30%]<br>
 [[Paper link]](https://ieeexplore.ieee.org/document/9364605) [[arXiv]](https://arxiv.org/pdf/2012.09332.pdf) [[Slide]](https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf) -->
 
-Workshops: 
-======
+## **Workshops:** 
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/interactive_HIL.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -284,7 +296,7 @@ Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwass
 <b>Tunazzina Islam</b>. 8th International Workshop on Issues of Sentiment Discovery and Opinion Mining ([WISDOM'19](https://sentic.net/wisdom/#wisdom2019)) co-located with [KDD 2019](https://www.kdd.org/kdd2019/). <br>
 [[arXiv]](https://arxiv.org/pdf/1906.07668.pdf) [[PDF]](https://sentic.net/wisdom2019islam.pdf) [[Slide]](https://tunazislam.github.io/files/WISDOM_KDD_2019_Tunaz.pdf) [[Visualization]](https://tunazislam.github.io/files/LDA_Visualization_t4.html)  -->
 
-# Papers related to Bioinformatics & Computational Biology: 
+## Papers related to Bioinformatics & Computational Biology: 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/quast.PNG" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -383,7 +395,7 @@ Eleni Adam, <b>Tunazzina Islam</b>, Desh Ranjan, Harold Riethman. 19th IEEE Inte
 <b>Tunazzina Islam</b>, Jing He. ACM Richard TAPIA Celebration of Diversity in Computing, 2017, Atlanta, GA, USA. <b style='color:red'>Won 2nd Prize in Tapia Student Poster Competition 2017</b>.<br>
 [[Poster PDF @TAPIA 2017]](https://tunazislam.github.io/files/PDF_Tapia_2017.pdf) [[Poster @TAPIA 2017]](https://tunazislam.github.io/files/Poster_Tapia_2017.pdf) -->
 
-# Papers related to High-Performance Computing: 
+## Papers related to High-Performance Computing: 
 <!-- ## Refereed Conferences and Workshops: -->
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
