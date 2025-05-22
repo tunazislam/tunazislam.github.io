@@ -1,7 +1,7 @@
 ---
 title: "Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis"
 collection: publications
-permalink: /publications/opic-synthesis-election2024-llms
+permalink: /publications/topic-synthesis-election2024-llms
 venue: "Preprint 2025"
 citation: 'Alexander Brady, <b>Tunazzina Islam</b>. Preprint 2025.'
 
