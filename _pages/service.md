@@ -4,15 +4,21 @@ title: "Academic & Institutional Service"
 permalink: /service/
 author_profile: true
 ---
+## Organizer
 **Tutorial Co-chair**
 * International AAAI Conference on Web and Social Media (**ICWSM**): 2025
-
-**Organizer & Chair**
+  
+**Chair**
 * Birds of a Feather (BoF) session in **NAACL**: 2025
+
+## Area Chair
+**Senior Program Committee (SPC)**
+* International AAAI Conference on Web and Social Media (**ICWSM**): 2026
   
 **Associate Chair (AC)**
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW**): 2024, 2025
 
+## Program Committee
 **Conference Reviewer**
 * International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * ACL Rolling Review (**ARR**): (2021-2025)
@@ -33,6 +39,10 @@ author_profile: true
 * ACL Student Research Workshop (**SRW**): 2023
 * Student Research Workshop, **NAACL**: 2022
 
+**Journal Reviewer**
+* Complementary Therapies in Clinical Practice (**CTCP**): 2021
+
+## Service
 **Conference Service**
 * ICWSM Ambassador - 2024
   
@@ -44,12 +54,12 @@ author_profile: true
 **Institutional Service**
 * Vice President, Computer Science Graduate Student Association (CSGSA), Purdue University (2022-2023)
 
+## Mentorship
 **Research Mentor**
 * Computer Science Graduate Student Association (CSGSA), Purdue University (Fall 2024)
 * Lumiere Education (May 2021 - August 2021)
 
-**Journal Reviewer**
-* Complementary Therapies in Clinical Practice (**CTCP**): 2021
+
 
 <!-- **Program Committee Member - Conference Reviewer**
 * ICWSM 2022
