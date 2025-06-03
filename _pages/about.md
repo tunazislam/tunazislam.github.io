@@ -21,7 +21,7 @@ Understanding microtargeting and activity patterns presents major technical chal
 - **Extracting deep thematic and argumentative structures** from content to reveal underlying discourse patterns. 
 <a href="https://aclanthology.org/2025.findings-naacl.413.pdf" style="color: #8B4513;" > [NAACL'25]</a> <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #8B4513;" > [ICWSM'25]</a> <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #8B4513;" > [ACL'23]</a> <a href="https://aclanthology.org/2022.dash-1.13.pdf" style="color: #8B4513;" > [DASH @EMNLP'22]</a> <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL'22]</a>
 
-### A growing focus of my research is on the role of LLMs in enabling scalable and socially responsible analysis. This includes: 
+### A growing focus of my research is on the role of LLMs in enabling scalable and socially responsible analysis. This includes (but are not limited to): 
 
 **Responsible AI Integration:** *How can LLMs function as post-hoc (third-party) tools to analyze patterns in targeted communication, especially when internal platform logic is not transparent?* While platforms have white-box access, external stakeholders (researchers, auditors, policymakers) do not. My method offers an explainable approach to reverse-engineer targeting practices and uncover potential bias or messaging disparities.  
 - Example: Post-hoc analysis of climate microtargeting. <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [Preprint 2024]</a>
