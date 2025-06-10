@@ -87,9 +87,9 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM 2025)</a>. (To Appear).
+    <b>Tunazzina Islam</b>, Dan Goldwasser. Proceedings of the 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM 2025)</a>, 19(1), 859-884.
     <br>
-    <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35850" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
 </div>
 
