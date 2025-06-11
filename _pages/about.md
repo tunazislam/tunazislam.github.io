@@ -15,7 +15,7 @@ We now live in a world where we can reach people directly through social media w
 
 Understanding microtargeting and activity patterns presents major technical challenges. Messaging strategies are dynamic, context-dependent, and often opaque. Furthermore, user identities and motivations are typically hidden or ambiguous. My work addresses these challenges through several core research directions: 
 - **Characterizing users and their motivations** for engaging with digital platforms, especially when identity signals are sparse or ambiguous. 
-<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM'22]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM'21] </a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364605" style="color: #8B4513;" > [ICSC'21] </a> <a href="https://ieeexplore.ieee.org/document/9378461" style="color: #8B4513;" > [IEEE BigData'20] </a>
+<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #8B4513;" > [ICWSM'22]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #8B4513;" > [ICWSM'21] </a> 
 - **Analyzing message content and user interaction**, capturing how individuals engage with targeted messaging across diverse contexts.
 <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #8B4513;" > [ICWSM'23]</a> <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #8B4513;" > [AIES'23]</a> <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #8B4513;" > [IEEE BigData'22] </a>
 - **Extracting deep thematic and argumentative structures** from content to reveal underlying discourse patterns. 
