@@ -23,11 +23,11 @@ author_profile: true
 * International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * ACL Rolling Review (**ARR**): (2021-2025)
 * North American Chapter of the Association for Computational Linguistics (**NAACL**): (2024-2025)
+* Empirical Methods in Natural Language Processing (**EMNLP**): (2021-2025)
 * Conference on Language Modeling (**COLM**): 2025
 * ACM TheWebConf (**WWW**): 2025
 * ACM Conference on Human Factors in Computing Systems (**CHI**): 2025
 * Computer-Supported Cooperative Work and Social Computing (**CSCW**): 2025
-* Empirical Methods in Natural Language Processing (**EMNLP**): (2021-2024)
 * Association for Computational Linguistics (**ACL**): (2021-2024)
 * International Conference on Computational Linguistics (**COLING**): 2020, 2022, 2025
 * Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**): 2024
