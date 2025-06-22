@@ -63,6 +63,7 @@ My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style=
 
 Recent News
 ======
+* June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850). 
 * May 22, 2025: Senior Program Committee (SPC) of ICWSM 2026.
 * May 20-23, 2025: Attended [WebSci'25](https://www.websci25.org/) and presented our work [Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media](https://dl.acm.org/doi/10.1145/3717867.3717902). 
 * April 29-May 04, 2025: Attended [NAACL 2025](https://2025.naacl.org/) and presented our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I organized BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
