@@ -21,7 +21,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding Vegan Discourse on Social Media by Leveraging LLMs </b></a>
+    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2025.
     <br>
