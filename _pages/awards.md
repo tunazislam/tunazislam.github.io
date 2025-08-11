@@ -4,7 +4,7 @@ title: "Awards & Scholarships"
 permalink: /awards/
 author_profile: true
 ---
-* <span style="color:red"> **Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span> [[Featured in AIhub]](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
+* <span style="color:red"> **Ph.D. thesis proposal won the best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span> [[Award]](https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/) [[Featured in AIhub]](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
 * <span style="color:red">**AAAI/SIGAI Doctoral Consortium [[Link]](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/)**</span>, 39th Annual AAAI Conference on Artificial Intelligence, 2025.
 * **Diversity and Inclusion Award (D&I Award)**, NAACL, 2025.
 * **Graduate Women in Science Program (WISP) Award**, College of Science, Purdue University, 2025.
