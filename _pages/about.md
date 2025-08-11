@@ -30,12 +30,12 @@ A growing focus of my research is on the role of LLMs in enabling scalable and s
 - Example:  Exploring how LLMs can assist human annotators in identifying morality frames within vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci 2025]</a> -->
 
 **Human‑AI collaboration:** *How can LLMs support complex human-centered tasks across diverse domains, from social and linguistic analysis to industrial training?* 
-- Exploring how LLMs can assist human annotators in identifying morality frames in vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci 2025]</a>
+- Exploring how LLMs can assist human annotators in identifying morality frames in vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci'25]</a>
 - ***ChiPT: A Human-in-the-Loop GenAI Assistant for Manufacturing Training***– Designing a domain-specific Retrieval-Augmented Generation (RAG) system with scalable human-in-the-loop feedback that assists workers with real-time training, troubleshooting, and skill development. ChiPT leverages process manuals, expert feedback, and verified responses to enhance knowledge transfer (from retiring experts to new employees) and reduce expert workload.
 
 **Unsupervised Topic Synthesis:** *How can LLMs uncover latent discourse, generate semantically rich topic labels, and serve as unsupervised annotators for large-scale social media texts?* 
-- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #8B4513;">[Preprint 2025]</a>
-- Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #8B4513;">[Preprint 2025]</a>
+- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #8B4513;">[Preprint'25]</a>
+- Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #8B4513;">[Preprint'25]</a>
 
 <!-- My primary research interest lies in **computational social science (CSS)**, **natural language processing (NLP)**, **social
 media mining and analysis**. We now live in a world where we can reach people directly through social media without relying on traditional media such as television and radio. On the other hand, social media platforms collect vast amounts of data and create very specific profiles of different users
