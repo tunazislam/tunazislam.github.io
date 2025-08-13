@@ -20,10 +20,6 @@ We now live in a world where we can reach people directly through social media w
 These contributions yield both ***CS artifacts***—*datasets*, *models*, *human-in-the-loop* & *machine-in-the-loop frameworks*—and ***empirical insights*** grounded in *real-world data*. I have applied these methods to a wide range of socially significant domains, including *election*, *climate debate*, *COVID-19 vaccine debate*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*.  My research is increasingly centered on exploring how Generative AI (GenAI) can power scalable and socially responsible insight, including (but not limited to):
 
 **Responsible AI Integration:** *How can LLMs function as post-hoc analysis tools to understand patterns in targeted communication, especially when internal platform logic is not transparent?* While platforms have white-box access, external stakeholders (researchers, auditors, policymakers) do not. My method offers an explainable approach to reverse-engineer targeting practices and uncover potential bias or messaging disparities <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [arXiv’24]</a>.  
-<!-- Post-hoc analysis of climate microtargeting. <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [arXiv’24]</a> -->
-
-<!-- **Human‑AI collaboration:** *Can LLMs support a broader range of psycholinguistic tasks across diverse domains and social issues, particularly in contexts with varying data availability and complexity?* 
-- Example:  Exploring how LLMs can assist human annotators in identifying morality frames within vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci 2025]</a> -->
 
 **Human‑AI collaboration:** *How can LLMs support complex human-centered tasks across diverse domains, from social and linguistic analysis to industrial training?* 
 - Exploring how LLMs can assist human annotators in identifying morality frames in vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci'25]</a>
@@ -39,6 +35,9 @@ These contributions yield both ***CS artifacts***—*datasets*, *models*, *human
 <a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> -->
 <!-- <a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a> -->
 
+<!-- Post-hoc analysis of climate microtargeting. <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [arXiv’24]</a> 
+**Human‑AI collaboration:** *Can LLMs support a broader range of psycholinguistic tasks across diverse domains and social issues, particularly in contexts with varying data availability and complexity?* 
+- Example:  Exploring how LLMs can assist human annotators in identifying morality frames within vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci 2025]</a> -->
 
 
 See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publications here </b> </a> 
