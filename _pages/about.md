@@ -21,6 +21,7 @@ These contributions yield both ***CS artifacts***—*datasets*, *models*, *human
 
 **Responsible AI Integration:** *How can LLMs function as post-hoc analysis tools to understand patterns in targeted communication, especially when internal platform logic is not transparent?* While platforms have white-box access, external stakeholders (researchers, auditors, policymakers) do not. My method offers an explainable approach to reverse-engineer targeting practices and uncover potential bias or messaging disparities <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [arXiv’24]</a>.  
 <!-- Post-hoc analysis of climate microtargeting. <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [arXiv’24]</a> -->
+
 <!-- **Human‑AI collaboration:** *Can LLMs support a broader range of psycholinguistic tasks across diverse domains and social issues, particularly in contexts with varying data availability and complexity?* 
 - Example:  Exploring how LLMs can assist human annotators in identifying morality frames within vaccination debates on social media. <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci 2025]</a> -->
 
