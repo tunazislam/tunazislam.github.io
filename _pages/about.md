@@ -17,16 +17,6 @@ My research interests broadly lie in **AI for Societal Impact**, at the intersec
 <br>
 </div>
 
-<!-- <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
-<a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
-<a href="https://tunazislam.github.io/files/Research_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Research Statement]</a>
-<a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> -->
-<!-- <a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a> -->
-
-<!-- See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publications here </b> </a> 
-======
-My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style="color: #8B4513;" > <b> Google Scholar </b> </a> and <a href="https://www.researchgate.net/profile/Tunazzina_Islam" style="color: #8B4513;" > <b> ResearchGate </b> </a> profile. -->
-
 Recent News
 ======
 * June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850). 
@@ -81,6 +71,16 @@ Recent News
 * &#x1F4DD; December 06, 2020: Short paper accepted to publish in [ICSC-2021](https://www.semanticcomputing.org/).
 * August 31, 2020: Submitted Ph.D. Plan of Study.
 * December 17, 2019: Passed Ph.D. qualifier.
+
+<!-- <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
+<a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
+<a href="https://tunazislam.github.io/files/Research_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Research Statement]</a>
+<a href="https://tunazislam.github.io/files/Teaching_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Teaching Statement]</a> -->
+<!-- <a href="https://tunazislam.github.io/files/Diversity_Statement_Tunazzina_Islam.pdf" style="color: blue;" > [Diversity Statement]</a> -->
+
+<!-- See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publications here </b> </a> 
+======
+My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style="color: #8B4513;" > <b> Google Scholar </b> </a> and <a href="https://www.researchgate.net/profile/Tunazzina_Islam" style="color: #8B4513;" > <b> ResearchGate </b> </a> profile. -->
 
 <!---
 * December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
