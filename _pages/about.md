@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Visiting Assistant Professor in the [Department of Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/). I earned my Ph.D. in CS from Purdue University, advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). Prior to joining ODU, I worked as a software developer on the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
+I am a Visiting Assistant Professor in the [Department of Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/). I earned my Ph.D. in CS from Purdue University, advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
+<!--- Prior to joining ODU, I worked as a software developer on the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. -->
 
 Research Overview
 ======
