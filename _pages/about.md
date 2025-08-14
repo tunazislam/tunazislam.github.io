@@ -14,6 +14,7 @@ Research Overview
 My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I design scalable, explainable, collaborative, and socially responsible AI methods to tackle challenges in ***microtargeting analysis***, ***discourse understanding***, ***responsible AI integration***, and ***human–AI collaboration***. These approaches are applied to socially significant domains, including *elections*, *climate debates*, *COVID-19 vaccine debates*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*, and *manufacturing training*. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publication lists here </b> </a>. 
 <div>
 <img src="/images/research.png" style="width: 950px; height: auto;">
+<br>
 </div>
 
 <!-- <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
