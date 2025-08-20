@@ -26,16 +26,6 @@ Publication Lists:
     <br>
   </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
-    <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024.
-    <br>
-    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
-  </div>
-</div>
 
 ## **Doctoral Consortium:** 
 
@@ -51,7 +41,16 @@ Publication Lists:
 </div>
     
 ## **Conferences:** 
-
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
+    <br>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.emnlp.org/">EMNLP 2025</a>
+    <br>
+    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
+  </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/llm_tp.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
