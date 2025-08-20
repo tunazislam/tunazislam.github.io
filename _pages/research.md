@@ -5,7 +5,7 @@ author_profile: true
 ---
 Research Overview
 ======
-My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**.
+My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. My research has been published in prominent venues such as AAAI ICWSM, NAACL, EMNLP, AAAI, ACL, AAAI/ACM AIES, ACM WebSci, IEEE Big Data. 
 <!-- My research interest lies in the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. -->
 <div>
 <img src="/images/research.png" style="width: 950px; height: auto;">
