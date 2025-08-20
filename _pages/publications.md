@@ -46,7 +46,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.emnlp.org/">EMNLP 2025</a>
+    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.emnlp.org/">EMNLP 2025</a>. [Acceptance rate: 17.35%]
     <br>
     <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
@@ -67,12 +67,11 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. Proceedings of the 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM 2025)</a>, 19(1), 859-884.
+    <b>Tunazzina Islam</b>, Dan Goldwasser. Proceedings of the 19th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2025/">(ICWSM 2025)</a>, 19(1), 859-884. [Acceptance rate: 20%]
     <br>
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35850" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2403.10707.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/LatentThemesLLMsICWSM25.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/assist_annot.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -81,13 +80,8 @@ Publication Lists:
     <b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>. [Acceptance rate: 39.6%] <span style="background-color: #FFD700">Oral Presentation</span>. 
     <br>
    <a href="https://dl.acm.org/doi/10.1145/3717867.3717902" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2502.01991" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/AnnotMoralityLLMWebSci25.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
-
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/llms-themes-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 19th International AAAI Conference on Web and Social Media ([ICWSM 2025](https://www.icwsm.org/2025/)). (To Appear) <br>
-[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/climate_change.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -98,13 +92,6 @@ Publication Lists:
     <a href="https://dl.acm.org/doi/10.1145/3600211.3604665" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2305.06174.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/climateFbAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/climate-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging </b></a>
-<br>
-<b>Tunazzina Islam</b>, Ruqi Zhang, Dan Goldwasser. 6th AAAI/ACM Conference on AI, Ethics, and Society 2023 ([AIES 2023](https://www.aies-conference.com/2023/)), 15–25. https://doi.org/10.1145/3600211.3604665. [Acceptance rate: 28.9%]
-<br>
-<span style="background-color: #FFD700">Oral Presentation, top 11%</span>
-<br>
-[[Paper link]](https://dl.acm.org/doi/10.1145/3600211.3604665) [[arXiv]](https://arxiv.org/pdf/2305.06174.pdf) [[Slide]](https://tunazislam.github.io/files/climateFbAd.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/election_2020.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -115,10 +102,6 @@ Publication Lists:
     <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22156" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2210.10669.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/politics-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Weakly Supervised Learning for Analyzing Political Campaigns on Facebook </b></a>
-<br>
-<b>Tunazzina Islam</b>, Shamik Roy, Dan Goldwasser. 17th International AAAI Conference on Web and Social Media ([ICWSM 2023](https://www.icwsm.org/2023/index.html/)), 17(1), 411-422. [Acceptance rate: 20%] <br>
-[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/22156) [[arXiv]](https://arxiv.org/pdf/2210.10669.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM2023_PoliticalFBAd.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/interactive_concept.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
