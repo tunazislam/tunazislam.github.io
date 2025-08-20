@@ -9,21 +9,20 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis.</b></a>⊕ 
-    <br>
-    Alexander Brady*, <b>Tunazzina Islam*</b>. Preprint, 2025.
-    <br>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2025.
+    <br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis.</b></a>⊕ 
+    <br>
+    Alexander Brady*, <b>Tunazzina Islam*</b>. Preprint, 2025.
     <br>
   </div>
 </div>
@@ -37,24 +36,6 @@ Publication Lists:
     <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br> -->
-<!-- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
-<!-- <a href="http://tunazislam.github.io/publications/llms-annotator-morality" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media. </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br> -->
-<!-- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
-
-<!-- <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
-[[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
-
-<!-- <a href="http://tunazislam.github.io/publications/llms-climate-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Themes of Messaging on Social Media by Integrating LLMs: A Case Study on Climate Campaigns </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint, 2024. <br>
-[[arXiv]](https://arxiv.org/pdf/2403.10707.pdf) -->
 
 ## **Doctoral Consortium:** 
 
