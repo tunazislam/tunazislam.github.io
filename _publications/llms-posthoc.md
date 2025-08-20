@@ -2,8 +2,8 @@
 title: "Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation"
 collection: publications
 permalink: /publications/llms-posthoc
-venue: "Preprint 2024"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint 2024.'
+venue: "EMNLP 2025"
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: EMNLP 2025.'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2410.05401)
