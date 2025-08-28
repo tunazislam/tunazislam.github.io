@@ -47,7 +47,7 @@ author_profile: true
 * ICWSM Ambassador - 2024
   
 **Conference Volunteer**
-* EMNLP student volunteer (Virtual) - 2022
+<!--  * EMNLP student volunteer (Virtual) - 2022 -->
 * ICWSM student volunteer - 2022
 * KDD student volunteer - 2019
 
