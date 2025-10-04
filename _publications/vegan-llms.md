@@ -3,7 +3,7 @@ title: "Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Cluster
 collection: publications
 permalink: /publications/vegan-llms
 venue: "Preprint 2025"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. Preprint 2025.'
+citation: '<b>Tunazzina Islam</b>. Preprint 2025.'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
