@@ -23,10 +23,11 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* October 01, 2025: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * &#x1F4DD; August 20, 2025: Long paper accepted to publish in Findings of [EMNLP 2025](https://2025.emnlp.org/).
 * August 13, 2025: <a style="color:red" href="https://www.icwsm.org/2026/organization.html">Tutorial Co-Chair ICWSM 2026</a>. 
 * June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850). 
-* May 22, 2025: Senior Program Committee (SPC) of ICWSM 2026.
+* May 22, 2025: **Senior Program Committee (SPC)** of ICWSM 2026.
 * May 20-23, 2025: Attended [WebSci'25](https://www.websci25.org/) and presented our work [Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media](https://dl.acm.org/doi/10.1145/3717867.3717902). 
 * April 29-May 04, 2025: Attended [NAACL 2025](https://2025.naacl.org/) and presented our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I organized BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
 * April 15-16, 2025: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.nd.edu/msld25/) 2025 at the University of Notre Dame to present two posters.
@@ -46,8 +47,8 @@ Recent News
 * &#x1F4DD; July 15, 2024: Long paper accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
 * June 14-15, 2024: Attended [2024 Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/).
-* June 12, 2024: Associate Chair (AC) of [CSCW 2025](https://cscw.acm.org/2025/).
-* June 9, 2024: Associate Chair (AC) of [CSCW 2024](https://cscw.acm.org/2024/).
+* June 12, 2024: **Associate Chair (AC)** of [CSCW 2025](https://cscw.acm.org/2025/).
+* June 9, 2024: **Associate Chair (AC)** of [CSCW 2024](https://cscw.acm.org/2024/).
 * May 20-21, 2024: Attended [Midwest Machine Learning Symposium (MMLS)](https://midwest-ml.org/2024/), 2024.
 * May 09, 2024: Became Ambassador for ICWSM.
 * April 15-16, 2024: Attended [Midwest Speech and Language Days (MSLD)](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) 2024 at the University of Michigan, Ann Arbor to give a talk.
