@@ -12,6 +12,9 @@ author_profile: true
 * Birds of a Feather (BoF) session in **NAACL**: 2025
 
 ## Area Chair
+
+* Area Chair (AC) of ACL Rolling Review (ARR): 2025
+
 **Senior Program Committee (SPC)**
 * International AAAI Conference on Web and Social Media (**ICWSM**): 2026
   
