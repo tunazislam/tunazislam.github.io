@@ -48,7 +48,7 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.emnlp.org/">EMNLP 2025</a>. [Acceptance rate: 17.35%]
     <br>
-    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a>
+    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/PosthocClimateLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
