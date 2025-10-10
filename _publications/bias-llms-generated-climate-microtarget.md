@@ -1,7 +1,7 @@
 ---
 title: "Who Gets Which Climate Message? Auditing Age and Gender Bias in LLM-Generated Microtargeted Communication"
 collection: publications
-permalink: /publications/bias-llms-generated-climate-microtarge
+permalink: /publications/bias-llms-generated-climate-microtarget
 venue: "Preprint 2025"
 citation: '<b>Tunazzina Islam</b>. Preprint 2025.'
 
