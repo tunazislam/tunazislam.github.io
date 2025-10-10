@@ -9,6 +9,18 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Climate Message? Auditing Age and Gender Bias in LLM-Generated Microtargeted Communication. </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. Preprint, 2025.
+    <br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
