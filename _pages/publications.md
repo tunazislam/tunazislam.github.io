@@ -116,7 +116,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/interactive-concept-learning" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections </b></a>
     <br>
-    Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: ACL 2023, 5059–5080. [Acceptance rate: 18.4%]
+    Maria Leonor Pacheco, <b>Tunazzina Islam</b>, Lyle Ungar, Ming Yin, Dan Goldwasser. Findings of the Association for Computational Linguistics: <a href="https://2023.aclweb.org/">(ACL 2023)</a>, 5059–5080. [Acceptance rate: 18.4%] 
     <br>
     <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2305.05094.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
