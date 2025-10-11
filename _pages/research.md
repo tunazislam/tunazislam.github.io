@@ -20,9 +20,10 @@ We now live in a world where we can reach people directly through social media w
 - **Extracting latent thematic and argumentative structures** to capture the nuances of messaging <a href="https://aclanthology.org/2025.findings-naacl.413.pdf" style="color: #8B4513;" > [NAACL'25]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35850" style="color: #8B4513;" > [ICWSM'25]</a>.
 
 ### Responsible AI Integration:
-Building on my work understanding microtargeting patterns, I have a complementary line of research that examines how AI systems can be leveraged to provide transparency into opaque platform operations.
+Building on my work understanding microtargeting patterns, I have a complementary line of research that audits both platform practices and AI-generated messaging, revealing how bias, fairness, and transparency emerge in algorithmic and AI-mediated communication.
 
 - Opaque platform practices prevent external stakeholders (researchers, auditors, policymakers) from auditing microtargeting. To bridge this gap, I developed an LLM-based post-hoc auditing framework that reverse-engineers messaging practices, explains targeting choices, and surfaces demographic disparities. This framework demonstrates how ads differentially target young adults, women, and older populations in the climate debate, while fairness analysis reveals biases in model predictions, particularly affecting senior citizens and male audiences <a href="https://arxiv.org/pdf/2410.05401" style="color: #8B4513;" > [EMNLP’25]</a>.
+- My work presents the first systematic audit of age and gender bias in LLM-generated persuasive climate messaging. Using GPT-4o, Llama-3.3, and Mistral-Large-2.1, this work contrasts intrinsic versus context-driven bias, showing how male/youth-targeted messages emphasize agency and innovation, while female/senior ones stress care and tradition. Findings highlight the need for bias-aware generation pipelines and transparent auditing in socially sensitive communication <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #8B4513;">[Preprint'25c]</a>.
 
 ### Human‑AI Collaboration:
 My research develops human–AI collaborative frameworks that position AI as partners to amplify, not replace, human expertise.
@@ -40,6 +41,6 @@ and a *concept learning* framework for theme discovery validated by experts <a h
 - Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #8B4513;">[Preprint'25a]</a>
 - Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #8B4513;">[Preprint'25b]</a>
 
-These contributions yield both ***CS artifacts***—*datasets*, *models*, *human-in-the-loop* & *machine-in-the-loop frameworks*—and ***empirical insights*** grounded in *real-world data*. I have applied these methods to a wide range of socially significant domains, including *election*, *climate debate*, *COVID-19 vaccine debate*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*.  
+These contributions yield both ***CS artifacts***—*datasets*, *models*, *human-in-the-loop*, *machine-in-the-loop*, *bias auditing (including post-hoc auditing of platform practices and GenAI bias evaluation)* frameworks—and ***empirical insights*** grounded in *real-world data*. I have applied these methods to a wide range of socially significant domains, including *election*, *climate debate*, *COVID-19 vaccine debate*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*.  
 
 
