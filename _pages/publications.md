@@ -86,7 +86,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-annotator-morality" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>. [Acceptance rate: 39.6%] <span style="background-color: #FFD700">Oral Presentation</span>. 
+    <b>Tunazzina Islam</b>, Dan Goldwasser. 17th ACM Web Science Conference <a href="https://www.websci25.org/">(WebSci 2025)</a>. [Acceptance rate: 39.6%] <span style="background-color: #FFD700">Oral Presentation</span> 
     <br>
    <a href="https://dl.acm.org/doi/10.1145/3717867.3717902" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2502.01991" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/AnnotMoralityLLMWebSci25.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
