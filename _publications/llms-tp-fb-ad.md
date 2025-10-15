@@ -3,7 +3,7 @@ title: "Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-
 collection: publications
 permalink: /publications/llms-tp-fb-ad
 venue: "Findings of 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025)"
-citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: NAACL 2025, pages 7397–7429.'
+citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025), pages 7397–7429.'
 
 ---
 [[Paper Link]](https://aclanthology.org/2025.findings-naacl.413/) [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) [[Slide]](https://tunazislam.github.io/files/LatentArgumentsLLM.pdf)
