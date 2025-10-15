@@ -55,7 +55,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-posthoc" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.emnlp.org/">EMNLP 2025</a>. [Acceptance rate: 17.35%]
+    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (<a href="https://2025.emnlp.org/">EMNLP 2025</a>). [Acceptance rate: 17.35%]
     <br>
     <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/PosthocClimateLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
@@ -65,7 +65,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/llms-tp-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy </b></a>
     <br>
-    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the Association for Computational Linguistics: <a href="https://2025.naacl.org/">NAACL 2025</a>, pages 7397–7429. [Acceptance rate: 14.7%]
+    <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (<a href="https://2025.naacl.org/">NAACL 2025</a>), pages 7397–7429. [Acceptance rate: 14.7%]
     <br>
     <a href="https://aclanthology.org/2025.findings-naacl.413/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2404.10259.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/LatentArgumentsLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
