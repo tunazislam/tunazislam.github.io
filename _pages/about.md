@@ -25,7 +25,7 @@ Recent News
 ======
 * October 01, 2025: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * &#x1F4DD; August 20, 2025: Long paper accepted to publish in Findings of [EMNLP 2025](https://2025.emnlp.org/).
-* August 13, 2025: <a style="color:red" href="https://www.icwsm.org/2026/organization.html">Tutorial Co-Chair ICWSM 2026</a>. 
+* August 13, 2025: <a style="color:red" href="https://www.icwsm.org/2026/organization.html">Tutorial Co-Chair ICWSM 2026</a>. Please submit your proposal by January 15, 2026. cfp: [https://www.icwsm.org/2026/submit.html](https://www.icwsm.org/2026/submit.html)
 * June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850). 
 * May 22, 2025: **Senior Program Committee (SPC)** of ICWSM 2026.
 * May 20-23, 2025: Attended [WebSci'25](https://www.websci25.org/) and presented our work [Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media](https://dl.acm.org/doi/10.1145/3717867.3717902). 
