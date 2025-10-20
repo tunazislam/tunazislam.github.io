@@ -33,13 +33,13 @@ and a *concept learning* framework for theme discovery validated by experts <a h
 
 - I explored how LLMs can assist human annotators in identifying morality frames in vaccination debates on social media. Findings showed that LLM-assisted workflows improve annotation quality, reduce task difficulty, lower cognitive load, and speed up the annotation process <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci'25]</a>.
   
-- ***ChiPT: A Human-in-the-Loop GenAI Assistant for Manufacturing Training***– In industry settings, I have designed a domain-specific Retrieval-Augmented Generation (RAG) system with scalable human-in-the-loop feedback that assists workers with real-time training, troubleshooting, and skill development. ChiPT leverages process manuals, expert feedback, and verified responses to enhance knowledge transfer (from retiring experts to new employees) and reduce expert workload [Preprint'25c].
+- ***ChiPT: A Human-in-the-Loop GenAI Assistant for Manufacturing Training***– In industry settings, I have designed a domain-specific Retrieval-Augmented Generation (RAG) system with scalable human-in-the-loop feedback that assists workers with real-time training, troubleshooting, and skill development. ChiPT leverages process manuals, expert feedback, and verified responses to enhance knowledge transfer (from retiring experts to new employees) and reduce expert workload [Preprint'25b].
 
 
 ### AI-Driven Discourse Analysis: 
 *How can LLMs uncover latent discourse, generate semantically rich topic labels, and serve as unsupervised annotators for large-scale social media texts?* 
 - Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #8B4513;">[Preprint'25a]</a>
-- Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #8B4513;">[Preprint'25b]</a>
+- Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
 
 These contributions yield both ***CS artifacts***—*datasets*, *models*, *human-in-the-loop*, *machine-in-the-loop*, *bias auditing (including post-hoc auditing of platform practices and GenAI bias evaluation)* frameworks—and ***empirical insights*** grounded in *real-world data*. I have applied these methods to a wide range of socially significant domains, including *election*, *climate debate*, *COVID-19 vaccine debate*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*.  
 
