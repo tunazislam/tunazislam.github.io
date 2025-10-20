@@ -31,8 +31,9 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis.</b></a>⊕ 
     <br>
-    Alexander Brady*, <b>Tunazzina Islam*</b>. Preprint, 2025.
+    Alexander Brady*, <b>Tunazzina Islam*</b>. Under Submission.
     <br>
+    <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 
