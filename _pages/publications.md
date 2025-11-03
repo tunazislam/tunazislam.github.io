@@ -22,7 +22,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Preprint, 2025.
+    <b>Tunazzina Islam</b>. Preprint, 2025. (Under Review)
     <br>
   </div>
 </div>
@@ -31,7 +31,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis.</b></a>⊕ 
     <br>
-    Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review
+    Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.
     <br>
     <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
@@ -58,7 +58,7 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (<a href="https://2025.emnlp.org/">EMNLP 2025</a>). [Acceptance rate: 17.35%]
     <br>
-    <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/PosthocClimateLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.857/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2410.05401" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/PosthocClimateLLM.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
