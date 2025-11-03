@@ -6,7 +6,7 @@ venue: "EMNLP 2025"
 citation: '<b>Tunazzina Islam</b>, Dan Goldwasser. In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025).'
 
 ---
-[[arXiv]](https://arxiv.org/pdf/2410.05401) [[Slide]](https://tunazislam.github.io/files/PosthocClimateLLM.pdf)
+[[Paper Link]](https://aclanthology.org/2025.findings-emnlp.857/) [[arXiv]](https://arxiv.org/pdf/2410.05401) [[Slide]](https://tunazislam.github.io/files/PosthocClimateLLM.pdf)
 
 
 ## Abstract
