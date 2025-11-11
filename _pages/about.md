@@ -23,12 +23,13 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
-* 🎤 November 11, 2025: Gave an invited talk at [IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/speakers/) on <span style="color:red">"Understanding Microtargeting Patterns in the Era of LLMs"</span>.
+* 🎤November 11, 2025: Gave an invited talk at [IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/speakers/) on <span style="color:red">"Understanding Microtargeting Patterns in the Era of LLMs"</span>. Thanks to [Dr. Anindya Bijoy Das](https://anindyabijoydas.github.io/portfolio/) for hosting me!
 * November 04–09, 2025: Attended [EMNLP 2025](https://2025.emnlp.org/) and presented our work [Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation](https://aclanthology.org/2025.findings-emnlp.857.pdf). 
 * October 01, 2025: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * &#x1F4DD; August 20, 2025: Long paper accepted to publish in Findings of [EMNLP 2025](https://2025.emnlp.org/).
 * August 13, 2025: <a style="color:red" href="https://www.icwsm.org/2026/organization.html">Tutorial Co-Chair ICWSM 2026</a>. Please submit your proposal by January 15, 2026. cfp: [https://www.icwsm.org/2026/submit.html](https://www.icwsm.org/2026/submit.html)
-* June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850). 
+* June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850).
+* 🎤June 12, 2025: Gave an invited talk at School of Computing Technologies, RMIT University, Melbourne, Australia, on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Thanks to [Dr. Jenny Zhang](https://xiuzhenzhang.github.io/) for hosting me!
 * May 22, 2025: **Senior Program Committee (SPC)** of ICWSM 2026.
 * May 20-23, 2025: Attended [WebSci'25](https://www.websci25.org/) and presented our work [Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media](https://dl.acm.org/doi/10.1145/3717867.3717902). 
 * April 29-May 04, 2025: Attended [NAACL 2025](https://2025.naacl.org/) and presented our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I organized BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
