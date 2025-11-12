@@ -23,7 +23,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
-* 🎤November 11, 2025: Gave an invited talk at [IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/speakers/) on <span style="color:red">"Understanding Microtargeting Patterns in the Era of LLMs"</span>. Thanks to [Dr. Anindya Bijoy Das](https://anindyabijoydas.github.io/portfolio/) for hosting me!
+* 🎤November 11, 2025: Gave an invited talk at [IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/speakers/) on <span style="color:red">"Understanding Microtargeting Patterns in the Era of LLMs"</span>. 
 * November 04–09, 2025: Attended [EMNLP 2025](https://2025.emnlp.org/) and presented our work [Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation](https://aclanthology.org/2025.findings-emnlp.857.pdf). 
 * October 01, 2025: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * &#x1F4DD; August 20, 2025: Long paper accepted to publish in Findings of [EMNLP 2025](https://2025.emnlp.org/).
