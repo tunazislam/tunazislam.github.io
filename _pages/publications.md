@@ -22,7 +22,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Preprint, 2025. (Under Review)
+    <b>Tunazzina Islam</b>. Preprint, 2025. Under Review.
     <br>
   </div>
 </div>
