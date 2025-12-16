@@ -6,10 +6,15 @@ author_profile: true
 ---
 Visiting Assistant Professor, Computer Science, Purdue University
 ======
-* AI Forge I (Basics of Large Language Models): Fall 2025.
-* AI Forge II (In-context learning and RAG): Fall 2025.
-* AI Forge III (Multi-modal generative AI models): Fall 2025.
-* Applied GenAI Research Project: Fall 2025.
+**Spring 2026**
+* AI Forge: CS 390
+* Applied GenAI Research Project: CS 490/590
+  
+**Fall 2025**
+* AI Forge I (Basics of Large Language Models): CS 390
+* AI Forge II (In-context learning and RAG): CS 390
+* AI Forge III (Multi-modal generative AI models): CS 390
+* Applied GenAI Research Project: CS 490/590
 
 Teaching Assistant, Computer Science, Purdue University
 ======
