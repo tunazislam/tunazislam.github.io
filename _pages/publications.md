@@ -11,9 +11,9 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Climate Message? Auditing Age and Gender Bias in LLM-Generated Microtargeted Communication. </b></a>
+    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text. </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Preprint, 2025.
+    <b>Tunazzina Islam</b>. Preprint, 2025. Under Review
     <br>
   </div>
 </div>
