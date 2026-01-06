@@ -27,14 +27,23 @@ Publication Lists:
   </div>
   </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/reasoning_vegan.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
+    <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs. </b></a>
     <br>
     <b>Tunazzina Islam</b>. Preprint, 2025. Under Review.
     <br>
   </div>
 </div>
+<!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <br>
+  </div>
+</div> -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
