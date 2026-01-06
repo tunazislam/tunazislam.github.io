@@ -9,6 +9,16 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse. </b></a>
+    <br>
+    Samantha Sudhoff, Pranav Perumal, Zhaoqing Wu,<b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <br>
+  </div>
+</div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text. </b></a>
@@ -16,7 +26,7 @@ Publication Lists:
     <b>Tunazzina Islam</b>. Preprint, 2025. Under Review
     <br>
   </div>
-</div>
+  </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
