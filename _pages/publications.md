@@ -17,7 +17,6 @@ Publication Lists:
     <br>
   </div>
 </div>
-</div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
