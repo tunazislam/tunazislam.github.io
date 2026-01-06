@@ -2,8 +2,8 @@
 title: "Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text"
 collection: publications
 permalink: /publications/bias-llms-generated-climate-microtarget
-venue: "Preprint 2025"
-citation: '<b>Tunazzina Islam</b>. Preprint 2025. Under Review.'
+venue: "Preprint 2026"
+citation: '<b>Tunazzina Islam</b>. Preprint 2026. Under Review.'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
