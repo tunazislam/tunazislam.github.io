@@ -3,7 +3,7 @@ title: "Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modelin
 collection: publications
 permalink: /publications/paidvspublic-climate
 venue: "Preprint 2026"
-citation: 'Samantha Sudhoff, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam</b>. Preprint 2026. Under Review.'
+citation: 'Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Preprint 2026. Under Review.'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
