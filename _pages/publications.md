@@ -13,7 +13,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse. </b></a>⊕ 
     <br>
-    Samantha Sudhoff, Pranav Perumal, Zhaoqing Wu,<b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Preprint, 2026. Under Review.
     <br>
   </div>
 </div>
