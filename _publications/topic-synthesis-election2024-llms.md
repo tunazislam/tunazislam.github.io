@@ -2,8 +2,8 @@
 title: "Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising"
 collection: publications
 permalink: /publications/topic-synthesis-election2024-llms
-venue: "Preprint 2025"
-citation: 'Alexander Brady, <b>Tunazzina Islam</b>. Under Review.'
+venue: "arXiv 2025"
+citation: 'Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2510.15125)
