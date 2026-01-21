@@ -23,9 +23,9 @@ author_profile: true
 
 ## Program Committee
 **Conference Reviewer**
-* International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
-* ACL Rolling Review (**ARR**): (2021-2025)
+* ACL Rolling Review (**ARR**): (2021-2026)
 * **AAAI** Conference on Artificial Intelligence: (2023-2026)
+* International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * North American Chapter of the Association for Computational Linguistics (**NAACL**): (2024-2025)
 * Empirical Methods in Natural Language Processing (**EMNLP**): (2021-2025)
 * Conference on Language Modeling (**COLM**): 2025
