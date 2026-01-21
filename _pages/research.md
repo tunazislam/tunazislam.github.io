@@ -49,9 +49,9 @@ Our RAG system combines a ColBERT-based retriever that enables precise evidence 
 
 ### AI-Driven Discourse Analysis: 
 *How can LLMs uncover latent discourse, generate semantically rich topic labels, and serve as unsupervised annotators for large-scale social media texts?* 
-- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #8B4513;">[Preprint'26c]</a>
+- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #8B4513;">[Preprint'26b]</a>
 - Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="https://arxiv.org/pdf/2510.15125" style="color: #8B4513;">[arXiv'25]</a>
-- Unified framework for discovering latent thematic structure of climate narratives across Meta ad texts and Bluesky posts by combining semantic embeddings, HDBSCAN clustering, and LLM-based summarization and theme generation <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #8B4513;">[Preprint'26b]</a>.
+- Unified framework for discovering latent thematic structure of climate narratives across Meta ad texts and Bluesky posts by combining semantic embeddings, HDBSCAN clustering, and LLM-based summarization and theme generation <a href="https://arxiv.org/pdf/2601.13317" style="color: #8B4513;">[arXiv'26]</a>
 
 <!-- These contributions yield both ***CS artifacts***—*datasets*, *models*, *human-in-the-loop*, *machine-in-the-loop*, *bias auditing (including post-hoc auditing of platform practices and GenAI bias evaluation)* frameworks—and ***empirical insights*** grounded in *real-world data*. I have applied these methods to a wide range of socially significant domains, including *election*, *climate debate*, *COVID-19 vaccine debate*, *lifestyle choices* (*yoga*, *keto*, *veganism*), *immigration*, *manufacturing training*, *AI Governance*.  -->
 
