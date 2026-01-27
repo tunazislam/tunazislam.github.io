@@ -5,13 +5,13 @@ author_profile: true
 ---
 Publication Lists: 
 ======
-<b>*</b> indicates <b>equal contribution</b>. <b>⊕</b> indicates <b>Papers with students I mentored</b>.
+<b>*</b> indicates <b>equal contribution</b>. <b>⚀</b> indicates <b>Papers with students I mentored</b>.
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse. </b></a>⊕ 
+    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse. </b></a>	⚀ 
     <br>
     Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Under Review.
     <br>
@@ -49,7 +49,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising.</b></a>⊕ 
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising.</b></a>⚀ 
     <br>
     Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.
     <br>
