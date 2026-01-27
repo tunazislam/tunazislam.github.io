@@ -23,8 +23,9 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text. </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Preprint, 2026. Under Review
+    <b>Tunazzina Islam</b>. Under Review
     <br>
+    <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
   </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
