@@ -49,7 +49,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising.</b></a>⚀ 
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising.</b></a> ⚀ 
     <br>
     Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.
     <br>
