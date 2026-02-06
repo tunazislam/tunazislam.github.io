@@ -161,14 +161,9 @@ Publication Lists:
     <b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data <a href="https://bigdataieee.org/BigData2022/" >(IEEE BigData 2022)</a>, pp. 585-595. [Acceptance rate: 19.2%]
     <br>
     Also accepted at NLP for Positive Impact <a href="https://sites.google.com/view/nlp4positiveimpact" >(NLP4PI 2022)</a> @EMNLP 2022 (Non-archival) <br>
-    <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster @NLP4PI 2022]</a>
+    <a href="https://ieeexplore.ieee.org/document/10021123" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2210.10031.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/Covid_FB_AD_MinimalSup" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Poster @NLP4PI 2022]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/covid-fb-ad" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Understanding COVID-19 Vaccine Campaign on Facebook using Minimal Supervision </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2022 IEEE International Conference on Big Data ([IEEE BigData 2022](https://bigdataieee.org/BigData2022/)), pp. 585-595, doi: 10.1109/BigData55660.2022.10021123. [Acceptance rate: 19.2%] <br>
-Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact)) workshop @EMNLP 2022 (Non-archival). <br>
-[[Paper link]](https://ieeexplore.ieee.org/document/10021123) [[arXiv]](https://arxiv.org/pdf/2210.10031.pdf) [[Slide]](https://tunazislam.github.io/files/IEEEBigData2022_CovidFBad.pdf) [[Poster @NLP4PI 2022]](https://tunazislam.github.io/files/NLP4PI_poster_FBad_covid_Tunaz.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/graph_embed.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -176,14 +171,9 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2022/index.html/" >(ICWSM 2022)</a>, 16(1), 358-369. [Acceptance rate: 20%]
     <br>
-    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2108.08988.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured as ACM-W Scholar]</a>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/19298" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2108.08988.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/WeakSupervised-GraphEmb-UserRep" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Featured as ACM-W Scholar]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/weakly-graphembd-yoga-keto" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Twitter User Representation Using Weakly Supervised Graph Embedding </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 16th International AAAI Conference on Web and Social Media ([ICWSM 2022](https://www.icwsm.org/2022/index.html/)), 16(1), 358-369. [Acceptance rate: 20%]<br>
-[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19298) [[arXiv]](https://arxiv.org/pdf/2108.08988.pdf) [[Slide]](https://tunazislam.github.io/files/ICWSM22_yoga_keto.pdf) [[Featured as ACM-W Scholar]](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/)
- -->
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/joint_embed.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -191,13 +181,9 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2021/index.html/" >(ICWSM 2021)</a>, 15(1), 242-253. [Acceptance rate: 20%]
     <br>
-    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2104.03189.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Research Highlight]</a>
+    <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18057" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2104.03189.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/Joint-Embedding-Model" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> <a href="https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Research Highlight]</a>
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/yoga-keto-analysis" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 15th International AAAI Conference on Web and Social Media ([ICWSM 2021](https://www.icwsm.org/2021/index.html)), 15(1), 242-253. [Acceptance rate: 20%]<br>
-[[Paper link]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) [[arXiv]](https://arxiv.org/pdf/2104.03189.pdf) [[Slide]]( https://tunazislam.github.io/files/ICWSM21_yoga_keto.pdf) [[Research Highlight]](https://tunazislam.github.io/files/ICWSM21_yoga_keto_poster.pdf) -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/user-types.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -205,13 +191,9 @@ Also accepted at NLP for Positive Impact ([NLP4PI 2022](https://sites.google.com
     <br>
     <b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing <a href="https://www.ieee-icsc.org/" >(ICSC 2021)</a>, pp. 362-365. [Acceptance rate: 30%]
     <br>
-    <a href="https://ieeexplore.ieee.org/document/9364605" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2012.09332.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> 
+    <a href="https://ieeexplore.ieee.org/document/9364605" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper link]</a> <a href="https://arxiv.org/pdf/2012.09332.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/Yoga-User-Network-YUN" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a> 
   </div>
 </div>
-<!-- <a href="http://tunazislam.github.io/publications/do-you-do-yoga" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> *Do You Do Yoga?* Understanding Twitter Users' Types and Motivations using Social and Textual Information </b></a>
-<br>
-<b>Tunazzina Islam</b>, Dan Goldwasser. 2021 IEEE 15th International Conference on Semantic Computing ([ICSC 2021](https://www.ieee-icsc.org/)), pp. 362-365. [Acceptance rate: 30%]<br>
-[[Paper link]](https://ieeexplore.ieee.org/document/9364605) [[arXiv]](https://arxiv.org/pdf/2012.09332.pdf) [[Slide]](https://tunazislam.github.io/files/IEEE_ICSC_YUN.pdf) -->
 
 ## **Workshops:** 
 
