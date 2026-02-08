@@ -11,7 +11,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse. </b></a>	⚀ 
+    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse </b></a>	⚀ 
     <br>
     Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Under Review.
     <br>
@@ -21,7 +21,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text. </b></a>
+    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text </b></a>
     <br>
     <b>Tunazzina Islam</b>. Under Review
     <br>
@@ -31,7 +31,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/reasoning_vegan.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs. </b></a>
+    <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs </b></a>
     <br>
     <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
     <br>
@@ -40,7 +40,7 @@ Publication Lists:
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering. </b></a>
+    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering </b></a>
     <br>
     <b>Tunazzina Islam</b>. Preprint, 2025. Under Review.
     <br>
@@ -49,7 +49,7 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising.</b></a> ⚀ 
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising </b></a> ⚀ 
     <br>
     Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.
     <br>
