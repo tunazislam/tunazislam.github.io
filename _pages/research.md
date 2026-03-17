@@ -35,17 +35,11 @@ Building on my work understanding microtargeting patterns, I have a complementar
 
 ### Human‑AI Collaboration:
 My research develops human–AI collaborative frameworks that position AI as partners to amplify, not replace, human expertise.
-
 - I developed a holistic framework for social media posts, integrating stance, reason, and morality frame analysis with minimal supervision. This work studies how to model the dependencies between the different levels of analysis and incorporate **human insights** into the learning process <a href="https://aclanthology.org/2022.naacl-main.427.pdf" style="color: #8B4513;" > [NAACL'22]</a>. I further advanced this with an *interactive* framework to extract nuanced arguments <a href="https://aclanthology.org/2022.dash-1.13.pdf" style="color: #8B4513;" > [DASH @EMNLP'22]</a> 
 and a *concept learning* framework for theme discovery validated by experts <a href="https://aclanthology.org/2023.findings-acl.313/" style="color: #8B4513;" > [ACL'23]</a>.
-
 - I explored how LLMs can assist human annotators in identifying morality frames in vaccination debates on social media. Findings showed that LLM-assisted workflows improve annotation quality, reduce task difficulty, lower cognitive load, and speed up the annotation process <a href="https://arxiv.org/pdf/2502.01991" style="color: #8B4513;" > [ACM WebSci'25]</a>.
-  
+- ***AI Governance and Grounded Question Answering***- I develop grounded question-answering systems for complex policy domains using retrieval-augmented generation (RAG) system over the AGORA corpus of global AI policy documents, combining dense retrieval with preference-aligned generation. In this work, we show that better retrieval does not necessarily lead to better answers—stronger retrieval can even produce more confident hallucinations when key information is missing. Through expert evaluation with policy researchers, we find that while the system captures core policy themes and cites relevant evidence, it can misinterpret regulatory details, omit critical provisions, and struggle with cross-document reasoning. This work highlights a key challenge for real-world AI systems: reliability requires more than improving individual components—it demands end-to-end grounding, human alignment, and careful evaluation in high-stakes settings like AI governance <a href="http://tunazislam.github.io/publications/RAG-DPO-AGORA" style="color: #8B4513;">[Preprint'26b]</a>.
 - ***ChiPT: A Human-in-the-Loop GenAI Assistant for Manufacturing Training***– In industry settings, we have designed a domain-specific Retrieval-Augmented Generation (RAG) system with scalable human-in-the-loop feedback that assists workers with real-time training, troubleshooting, and skill development. ChiPT leverages process manuals, expert feedback, and verified responses to enhance knowledge transfer (from retiring experts to new employees) and reduce expert workload.
-
-- ***AGORA Chatbot: A factually grounded and human-aligned RAG system for AI Governance and Policy***. AI Governance and Regulatory Archive (AGORA) dataset is a living collection of AI-relevant laws, regulations, standards, and other governance documents from the United States and around the world.
-Our RAG system combines a ColBERT-based retriever that enables precise evidence retrieval through semantically rich representations of policy texts, and LLM fine-tuned via Direct Preference Optimization (DPO) to align responses with human judgments of correctness and clarity.
-
 
 ### AI-Driven Discourse Analysis: 
 *How can LLMs uncover latent discourse, generate semantically rich topic labels, and serve as unsupervised annotators for large-scale social media texts?* 
