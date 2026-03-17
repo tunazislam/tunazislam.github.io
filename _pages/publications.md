@@ -9,6 +9,16 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/RAG_DPO_AGORA.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/RAG-DPO-AGORA" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA </b></a>	⚀ 
+    <br>
+    Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <br>
+    
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse </b></a>	⚀ 
