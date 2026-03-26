@@ -15,7 +15,7 @@ Publication Lists:
     <br>
     Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
     <br>
-    
+     <a href="https://arxiv.org/pdf/2603.24580" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
