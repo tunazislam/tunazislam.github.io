@@ -13,7 +13,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/RAG-DPO-AGORA" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA </b></a>	⚀ 
     <br>
-    Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, <b>Tunazzina Islam</b>. Under Review.
     <br>
      <a href="https://arxiv.org/pdf/2603.24580" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
