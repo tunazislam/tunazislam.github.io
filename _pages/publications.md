@@ -28,25 +28,6 @@ Publication Lists:
     <a href="https://arxiv.org/pdf/2601.13317" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text </b></a>
-    <br>
-    <b>Tunazzina Islam</b>. Under Review
-    <br>
-    <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
-  </div>
-  </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/reasoning_vegan.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs </b></a>
-    <br>
-    <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
-    <br>
-  </div>
-</div>
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
@@ -81,6 +62,25 @@ Publication Lists:
 </div>
     
 ## **Conferences:** 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>)
+    <br>
+    <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+  </div>
+  </div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/reasoning_vegan.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>).
+    <br>
+  </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/microtarget.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
