@@ -2,8 +2,8 @@
 title: "Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text"
 collection: publications
 permalink: /publications/bias-llms-generated-climate-microtarget
-venue: "arXiv 2026"
-citation: '<b>Tunazzina Islam</b>. Under Review.'
+venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+citation: '<b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2601.17172)
