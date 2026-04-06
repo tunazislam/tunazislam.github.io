@@ -2,8 +2,8 @@
 title: "Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs"
 collection: publications
 permalink: /publications/reasoning-vegan
-venue: "Preprint 2026"
-citation: '<b>Tunazzina Islam</b>. Preprint 2026. Under Review.'
+venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+citation: '<b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)'
 
 ---
 <!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
