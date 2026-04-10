@@ -67,7 +67,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/bias-llms-generated-climate-microtarget" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text </b></a>
     <br>
-    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>)
+    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>). [Acceptance rate: 18%]
     <br>
     <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
@@ -77,7 +77,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs </b></a>
     <br>
-    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>).
+    <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>). [Acceptance rate: 18%]
     <br>
     <a href="https://arxiv.org/pdf/2604.07562" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
