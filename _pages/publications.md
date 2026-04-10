@@ -79,6 +79,7 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>).
     <br>
+    <a href="https://arxiv.org/pdf/2604.07562" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
