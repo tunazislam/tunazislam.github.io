@@ -6,7 +6,7 @@ venue: "In Findings of the 64th Annual Meeting of the Association for Computatio
 citation: '<b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)'
 
 ---
-<!--- [[arXiv]](https://arxiv.org/pdf/2404.10259.pdf) -->
+[[arXiv]](https://arxiv.org/pdf/2604.07562)
 
 ## Abstract
 Unsupervised methods are widely used to induce latent semantic structure from large text collections, yet their outputs often contain incoherent, 
