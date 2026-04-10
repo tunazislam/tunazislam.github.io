@@ -25,7 +25,7 @@ We now live in a world where we can reach people directly through social media w
 - **Extracting latent thematic and argumentative structures** to capture the nuances of messaging <a href="https://aclanthology.org/2025.findings-naacl.413.pdf" style="color: #8B4513;" > [NAACL'25]</a> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35850" style="color: #8B4513;" > [ICWSM'25]</a>.
 
 ### AI-Driven Discourse Analysis: 
-- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="http://tunazislam.github.io/publications/reasoning-vegan" style="color: #8B4513;">[ACL'26]</a>
+- Integrating LLMs with advanced clustering algorithms enhances semantic coherence, supports unsupervised annotation and enables scalable analysis of vegan discourse <a href="https://arxiv.org/pdf/2604.07562" style="color: #8B4513;">[ACL'26]</a>
 - Combining clustering with prompt-based labeling, LLMs iteratively build topic taxonomies and annotate moral framing in political messaging—without seed sets or domain expertise <a href="https://arxiv.org/pdf/2510.15125" style="color: #8B4513;">[arXiv'25]</a>
 - Unified framework for discovering latent thematic structure of climate narratives across Meta ad texts and Bluesky posts by combining semantic embeddings, HDBSCAN clustering, and LLM-based summarization and theme generation <a href="https://arxiv.org/pdf/2601.13317" style="color: #8B4513;">[arXiv'26a]</a>
 
