@@ -26,6 +26,8 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* April 15-16, 2026: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.cs.illinois.edu/msld.html) 2026 at the University of Illinois at Urbana-Champaign to present two posters.
+* April 14, 2026: **Extended Abstract** accepted in [IC2S2 2026](https://ic2s2-2026.org/).
 * &#x1F4DD; April 06, 2026: **Two long papers** accepted to publish in [ACL 2026](https://2026.aclweb.org/).
 * 🎤November 11, 2025: Gave an invited talk at [IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/speakers/) on <span style="color:red">"Understanding Microtargeting Patterns in the Era of LLMs"</span>. 
 * November 04–09, 2025: Attended [EMNLP 2025](https://2025.emnlp.org/) and presented our work [Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation](https://aclanthology.org/2025.findings-emnlp.857.pdf). 
