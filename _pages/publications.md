@@ -69,6 +69,8 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>). [Acceptance rate: 18%]
     <br>
+    Also, the extended abstract has been accepted to the 12th International Conference on Computational Social Science (<a href="https://ic2s2-2026.org/">IC2S2 2026</a>).
+    <br>
     <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
   </div>
