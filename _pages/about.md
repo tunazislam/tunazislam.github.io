@@ -52,6 +52,10 @@ Recent News
 * &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
 * &#x1F4DD; January 31, 2025: **Long paper** accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
 * &#x1F4DD; January 22, 2025: **Long paper** accepted to publish in [NAACL 2025](https://2025.naacl.org/).
+
+<details>
+<summary><b>Older News (2024 and earlier)</b></summary>
+<br>
 * &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
 * October 29-31, 2024: Attended at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized Tutorial on "Analyzing Microtargeting on Social Media"</span>.
 * October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
@@ -77,7 +81,7 @@ Recent News
 * &#x1F4DD; July 16, 2022: **Long paper** accepted to publish in [ICWSM-2023](https://www.icwsm.org/2023/index.html/).
 * June 06-09, 2022: Attended [ICWSM-2022](https://www.icwsm.org/2022/index.html), Atlanta, Georgia.
 * &#x1F3C6; May 9, 2022: Received [ACM-W scholarship](https://women.acm.org/scholars/acm-w-scholars/tunazzina-islam/) to attend ICWSM'22, a **one-time** award.
-* May 9, 2022: Received ICWSM2022 travel grant.
+* &#x1F3C6; May 9, 2022: Received ICWSM2022 travel grant.
 * &#x1F3C6; April 11, 2022: Received Graduate School Summer Research Grant Award.
 * &#x1F4DD; April 7, 2022: **Long paper** accepted to publish in [NAACL 2022](https://2022.naacl.org/).
 * &#x1F4DD; July 15, 2021: **Long paper** accepted to publish in [ICWSM-2022](https://www.icwsm.org/2022/index.html/).
@@ -89,6 +93,33 @@ Recent News
 * &#x1F4DD; December 06, 2020: Short paper accepted to publish in [ICSC-2021](https://www.semanticcomputing.org/).
 * August 31, 2020: Submitted Ph.D. Plan of Study.
 * December 17, 2019: Passed Ph.D. qualifier.
+* August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
+* August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchorage, Alaska.
+* July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan. 
+* June 07, 2019: Paper accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/), Anchorage, Alaska. 
+* May 18, 2019: Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/), Macao, China. 
+* &#x1F4DD; April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
+* &#x1F3C6; April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
+* March 15, 2019: Selected to participate in the [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
+* &#x1F4DD; January 30, 2019: Paper accepted to publish in [TCBB journal](https://www.computer.org/web/tcbb).
+* January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
+* December 13-14, 2018: Attended [SCEC 2018](https://scec18.github.io/) in Delhi, India.
+* October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
+* &#x1F3C6; October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
+* September 29, 2018: Attended [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
+* September 26-28, 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) in Houston, TX to present my research Poster.
+* August 2018: Graduated with Master's degree in [Computer Science](https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
+* &#x1F3C6; July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
+* &#x1F3C6; April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
+* &#x1F4DD; March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), Beijing, China.
+* &#x1F3C6; September 22, 2017: Won **2nd prize** in [Tapia Student Poster Competition](https://twitter.com/Tunaz_Islam/status/911624351400767490) in ACM Richard Tapia Celebration of Diversity in Computing Conference, Atlanta, GA.
+* &#x1F4DD; June 16, 2017: A paper titled "Quantification of Twist from the Central Lines of β-strands" was accepted in [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview).
+* &#x1F3C6; October 19-21, 2016: Attended GHC 2016 as a [GHC Scholar](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/) in Houston, TX and presented my research Poster.
+* &#x1F3C6; September 14-17, 2016: Attended with the travel grant at ACM Richard Tapia Celebration of Diversity in Computing Conference, Austin, TX.
+* &#x1F3C6; April 15-16, 2016: Attended CRA-W Graduate Cohort Workshop, San Diego, CA.
+
+</details>
+
 
 <!-- <span style="color: red">I’m on the academic job market 2024. I welcome any potential opportunities to connect and discuss how I can be a good fit for potential roles.</span>
 <a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
@@ -100,35 +131,4 @@ Recent News
 ======
 My <a href="https://scholar.google.com/citations?user=YNChCGMAAAAJ&hl=en" style="color: #8B4513;" > <b> Google Scholar </b> </a> and <a href="https://www.researchgate.net/profile/Tunazzina_Islam" style="color: #8B4513;" > <b> ResearchGate </b> </a> profile. -->
 
-<!---
-* December 10-13, 2020: Attended [IEEE BigData 2020](https://bigdataieee.org/BigData2020/), Atlanta, Georgia (Virtually).
-* August 31, 2020: Submitted Ph.D. Plan of Study.
-* December 17, 2019: Passed Ph.D. qualifier.
-* August 10-16, 2019: Attended [IJCAI-2019](https://ijcai19.org/), Macao, China.
-* August 04-08, 2019: Attended [KDD 2019](https://www.kdd.org/kdd2019/), Anchoarge, Alaska.
-* July 07-12, 2019: Attended International HPC Summer School [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
-* January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
-* October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) beginning in Spring 2019. 
-* June 07, 2019 : Paper accepted to publish in [WISDOM'19](https://sentic.net/wisdom/#wisdom2019) co-located with [KDD'19](https://www.kdd.org/kdd2019/), Anchorage, Alaska. 
-* May 18, 2019 : Paper accepted for a presentation in [SocialNLP 2019](https://sites.google.com/site/socialnlp2019/) [@ IJCAI-2019](https://ijcai19.org/), Macao, China. 
-* April 30, 2019: [Journal paper](https://ieeexplore.ieee.org/document/8703093) named "Analysis of Subtelomeric REXTAL Assemblies Using QUAST" is available online.
-* April 12-13, 2019: Attended CRA-W Graduate Cohort Workshop, Chicago, IL.
-* March 15, 2019: Selected to participate in the [IHPCSS2019](https://ss19.ihpcss.org/), Kobe, Japan.
-* January 30, 2019: Paper accepted to publish in [TCBB journal](https://www.computer.org/web/tcbb).
-* January 7, 2019: Started Ph.D. in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University, West Lafayette](https://www.purdue.edu/).
-* December 13-14, 2018: Attended [SCEC 2018](https://scec18.github.io/) in Delhi, India.
-* October 15, 2018: Got admission offer for Ph.D. in [Computer Science](https://www.cs.purdue.edu/) from [Purdue University](https://www.purdue.edu/) with a Research Assistantship beginning in Spring 2019. 
-* October 4, 2018: Awarded travel funding to attend Second Workshop on Software Challenges to Exascale Computing [SCEC 2018](https://scec18.github.io/).
-* September 29, 2018: Attended [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
-* Sepetember 26-28, 2018: Attended [GHC 2018](https://ghc.anitab.org/2018-attend/schedule-overview/poster-session/#biotech) in Houston, TX to present my research Poster.
-* August 2018: Graduated with Master's degree in [Computer Science](https://odu.edu/compsci) from [Old Dominion University](https://www.odu.edu/#prospective), Norfolk, VA.
-* July 26, 2018: Received travel award to attend [UM Explore Graduate Studies in CSE 2018 Workshop](https://www.eecs.umich.edu/cse/Explore_Grad_Studies/).
-* April 24, 2018: Awarded as [Computer Science Outstanding Graduate Researcher](https://twitter.com/oducs/status/988885970081714176).
-* March 25, 2018: A Paper titled "REXTAL: Regional Extension of Assemblies Using Linked-Reads" was accepted in [ISBRA 2018](http://alan.cs.gsu.edu/isbra18/), Beijing, China.
-* September 22, 2017: Won **2nd prize** in [Tapia Student Poster Competition](https://twitter.com/Tunaz_Islam/status/911624351400767490) in ACM Richard Tapia Celebration of Diversity in Computing Conference, Atlanta, GA.
-* June 16, 2017: A paper titled "Quantification of Twist from the Central Lines of β-strands" was accepted in [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31/overview).
-* October 19-21, 2016: Attended GHC 2016 as a [GHC Scholar](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/) in Houston, TX and presented my research Poster.
-* September 14-17, 2016: Attended with the travel grant at ACM Richard Tapia Celebration of Diversity in Computing Conference, Austin, TX.
-* April 15-16, 2016: Attended CRA-W Graduate Cohort Workshop, San Diego, CA.
--->
 
