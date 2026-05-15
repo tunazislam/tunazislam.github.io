@@ -26,6 +26,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* &#x1F3C6; May 05, 2026: Our project titled "Enhancing Graph-Based Retrieval in Explore AGORA" was recognized as a **Presentation with Distinction** at the Purdue Undergraduate Research Conference, Spring 2026. This work was done by AI Forge students with [GRAIL](https://www.grail-lab.org/) lab. 
 * April 15-16, 2026: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.cs.illinois.edu/msld.html) 2026 at the University of Illinois at Urbana-Champaign to present two posters.
 * April 14, 2026: **Extended Abstract** accepted in [IC2S2 2026](https://ic2s2-2026.org/).
 * &#x1F4DD; April 06, 2026: **Two long papers** accepted to publish in [ACL 2026](https://2026.aclweb.org/).
