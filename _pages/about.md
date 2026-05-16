@@ -7,14 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I was a Visiting Assistant Professor in the [Department of Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) and also a Faculty Affiliate of the [Governance and Responsible AI Lab (GRAIL)](https://www.grail-lab.org/) in Purdue University’s Department of Political Science. I earned my **Ph.D. in Computer Science** from Purdue University, advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
-<!--- Prior to joining ODU, I worked as a software developer on the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. -->
-<br>
-<br>
-<a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
-
-Research Overview
-======
 My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I design scalable, explainable, collaborative, and socially responsible AI methods to tackle challenges in ***microtargeting analysis***, ***discourse understanding***, ***responsible AI integration***, and ***human–AI collaboration***. These approaches are applied to socially significant domains, including *elections*, *climate debates*, *vaccine debates*, *lifestyle choices* (*yoga*, *keto*, *veganism*), and *AI Governance*. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. 
 <br>
 My research has been published in prominent venues such as ACL, NAACL, EMNLP, ICWSM, AAAI, AAAI/ACM AIES, ACM WebSci, IEEE Big Data.
@@ -23,6 +15,23 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 <img src="/images/research.png" style="width: 950px; height: auto;">
 </div>
 <br>
+
+I am a Research Affiliate of the [Governance and Responsible AI Lab (GRAIL)](https://www.grail-lab.org/) in Purdue University’s Department of Political Science. I earned my Ph.D. in [Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I was a Visiting Assistant Professor in the Department of Computer Science at Purdue University.  I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
+<!--- Prior to joining ODU, I worked as a software developer on the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. -->
+<br>
+<a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
+<br>
+
+<!-- Research Overview
+======
+My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I design scalable, explainable, collaborative, and socially responsible AI methods to tackle challenges in ***microtargeting analysis***, ***discourse understanding***, ***responsible AI integration***, and ***human–AI collaboration***. These approaches are applied to socially significant domains, including *elections*, *climate debates*, *vaccine debates*, *lifestyle choices* (*yoga*, *keto*, *veganism*), and *AI Governance*. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. 
+<br>
+My research has been published in prominent venues such as ACL, NAACL, EMNLP, ICWSM, AAAI, AAAI/ACM AIES, ACM WebSci, IEEE Big Data.
+See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publication lists here </b> </a>. 
+<div>
+<img src="/images/research.png" style="width: 950px; height: auto;">
+</div>
+<br> -->
 
 Recent News
 ======
