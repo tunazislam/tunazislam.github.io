@@ -8,9 +8,9 @@ E-mail:<br>
 islam32@purdue.edu<br>
 tunazbuet@gmail.com
 
-<!-- Office:<br>
-Room 3130, Hall of Data Science and AI (DSAI) Building <br>
-475 Stadium Mall Drive <br>
-West Lafayette, IN 47907, USA <br> --!>
+Office:<br>
+Room 1204, Lawson Computer Science Building <br>
+305 N University St <br>
+West Lafayette, IN 47907, USA <br>
 
 
