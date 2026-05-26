@@ -9,6 +9,34 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/pareto_guided_teacher_alignment.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/pareto-teacher-alignment" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Pareto-Guided Teacher Alignment for Fair Personalized Text Generation </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/claim_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/claim-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross-Platform Analysis of Climate Discourse on Meta and Bluesky </b></a>	⚀ 
+    <br>
+    Cheng Wang, Samantha Sudhoff, Jingying Hu, Edward Wang, Zhaoqing Wu, <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme-Based Analysis of Climate Discourse </b></a>	⚀ 
+    <br>
+    Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Under Review.
+    <br>
+    <a href="https://arxiv.org/pdf/2601.13317" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/RAG_DPO_AGORA.jpg" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/RAG-DPO-AGORA" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA </b></a>	⚀ 
@@ -18,25 +46,6 @@ Publication Lists:
      <a href="https://arxiv.org/pdf/2603.24580" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/paid_public_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/paidvspublic-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse </b></a>	⚀ 
-    <br>
-    Samantha Sudhoff*, Pranav Perumal, Zhaoqing Wu, <b>Tunazzina Islam*</b>. Under Review.
-    <br>
-    <a href="https://arxiv.org/pdf/2601.13317" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
-  </div>
-</div>
-<!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/vegan_discourse.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/vegan-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross‑Platform Analysis of Vegan Discourse with LLM‑Enhanced Clustering </b></a>
-    <br>
-    <b>Tunazzina Islam</b>. Preprint, 2025. Under Review.
-    <br>
-  </div>
-</div> -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
