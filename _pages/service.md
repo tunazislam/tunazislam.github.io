@@ -26,7 +26,8 @@ author_profile: true
 * ACL Rolling Review (**ARR**): (2021-2026)
 * **AAAI** Conference on Artificial Intelligence: (2023-2026)
 * Conference on Neural Information Processing Systems (**NeurIPS**): 2026
-* AAAI/ACM Conference on AI, Ethics, and Society (**AIES**): 2026 
+* AAAI/ACM Conference on AI, Ethics, and Society (**AIES**): 2026
+* AAAI Special Track on AI for Social Impact (**AISI**): 2026
 * International AAAI Conference on Web and Social Media (**ICWSM**): (2022-2025)
 * Conference on Language Modeling (**COLM**): 2025
 * ACM TheWebConf (**WWW**): 2025
