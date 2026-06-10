@@ -2,7 +2,7 @@
 title: "Pareto-Guided Teacher Alignment for Fair Personalized Text Generation"
 collection: publications
 permalink: /publications/pareto-teacher-alignment
-venue: "Preprint 2026"
+venue: "arXiv 2026"
 citation: '<b>Tunazzina Islam</b>. Under Review.'
 
 ---
