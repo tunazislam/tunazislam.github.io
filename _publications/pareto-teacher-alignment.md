@@ -7,6 +7,8 @@ citation: '<b>Tunazzina Islam</b>. Under Review.'
 
 ---
 
+[[arXiv]](https://arxiv.org/abs/2606.10126) 
+
 ## Abstract
 
 Personalized persuasive text generation can improve relevance and engagement, but demographic conditioning may also introduce unequal framing across
