@@ -13,8 +13,9 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/pareto-teacher-alignment" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Pareto-Guided Teacher Alignment for Fair Personalized Text Generation </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <b>Tunazzina Islam</b>. Under Review. 
     <br>
+    <a href="https://arxiv.org/abs/2606.10126" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
