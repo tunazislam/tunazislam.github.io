@@ -9,6 +9,7 @@ author_profile: true
 * International AAAI Conference on Web and Social Media (**ICWSM**): 2025, 2026
   
 **Chair**
+* Birds of a Feather (BoF) session in **ACL**: 2026
 * Birds of a Feather (BoF) session in **NAACL**: 2025
 
 ## Area Chair
