@@ -36,6 +36,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* June 11, 2026: Organizer and Chair of Birds of a Feather (BoF) session in ACL 2026 on "From Text to Structure: Interpretable and Auditable Systems with Language Models". Please join on July 6 (Monday), 11:00-12:30 PST, Room: La Jolla A&B, Grand Hyatt Manchester San Diego.
 * 🎤May 12, 2026: Gave an invited talk at [Dr. Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/)'s lab, Department of Computer Science, University of California, Berkeley, on <span style="color:red">"From Text to Structure: Interpretable and Auditable Systems with Language Models"</span>. 
 * &#x1F3C6; May 05, 2026: Our project titled "Enhancing Graph-Based Retrieval in Explore AGORA" was recognized as a **Presentation with Distinction** at Purdue Undergraduate Research Conference, Spring'26. This work was done by AI Forge students with [GRAIL](https://www.grail-lab.org/) lab. 
 * April 15-16, 2026: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.cs.illinois.edu/msld.html) 2026 at the University of Illinois at Urbana-Champaign to present two posters.
