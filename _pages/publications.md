@@ -81,7 +81,7 @@ Publication Lists:
     <br>
     Also, the extended abstract has been accepted to the 12th International Conference on Computational Social Science (<a href="https://ic2s2-2026.org/">IC2S2 2026</a>).
     <br>
-    <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/Slide_Bias_ACL_2026.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+    <a href="https://arxiv.org/pdf/2601.17172" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/llms-bias-audit-microtarget-climate" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/Slide_Bias_ACL_2026.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
   </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
