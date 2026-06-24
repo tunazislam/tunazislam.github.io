@@ -91,7 +91,7 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>). [Acceptance rate: 18%]
     <br>
-    <a href="https://arxiv.org/pdf/2604.07562" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://tunazislam.github.io/files/Slide_reasoning_vegan_ACL_2026.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+    <a href="https://arxiv.org/pdf/2604.07562" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/reasoning-based-refinement-llms-vegan" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/Slide_reasoning_vegan_ACL_2026.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
