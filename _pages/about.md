@@ -67,8 +67,8 @@ Recent News
 <details>
 <summary><b>Older News (2024 and earlier)</b></summary>
   
-- &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
-- October 29-31, 2024: Attended at the [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized a Tutorial on "Analyzing Microtargeting on Social Media"</span>.
+* &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
+* October 29-31, 2024: Attended at the [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting and <span style="color:red"> organized a Tutorial on "Analyzing Microtargeting on Social Media"</span>.
 * October 04, 2024: <a style="color:red" href="https://www.icwsm.org/2025/organization/index.html#">Tutorial Co-Chair ICWSM 2025</a>. Please submit your proposal by January 15, 2025. cfp: [https://www.icwsm.org/2025/submit/index.html](https://www.icwsm.org/2025/submit/index.html)
 * &#x1F4DD; July 15, 2024: **Long paper** accepted to publish in [ICWSM-2025](https://www.icwsm.org/2025/).
 * July 7, 2024: Session proposal accepted at [2024 Academic Data Science Alliance (ADSA)](https://academicdatascience.org/adsa-meetings/2024-adsa-annual-meeting/) Annual Meeting.
@@ -128,6 +128,7 @@ Recent News
 * &#x1F3C6; October 19-21, 2016: Attended GHC 2016 as a [GHC Scholar](https://ghc.anitab.org/2016-student-academic/scholarships/2016-ghc-scholars/attachment/tunazzina-islam-1/) in Houston, TX and presented my research Poster.
 * &#x1F3C6; September 14-17, 2016: Attended with the travel grant at ACM Richard Tapia Celebration of Diversity in Computing Conference, Austin, TX.
 * &#x1F3C6; April 15-16, 2016: Attended CRA-W Graduate Cohort Workshop, San Diego, CA.
+
 </details>
 
 
