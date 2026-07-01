@@ -64,7 +64,7 @@ Recent News
 * &#x1F4DD; January 31, 2025: **Long paper** accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
 * &#x1F4DD; January 22, 2025: **Long paper** accepted to publish in [NAACL 2025](https://2025.naacl.org/).
 
-<details>
+<details markdown="1">
 <summary><b>Older News (2024 and earlier)</b></summary>
   
 * &#x1F3C6; November 02, 2024: Ph.D. Thesis Proposal accepted at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
