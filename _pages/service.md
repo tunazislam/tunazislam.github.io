@@ -22,6 +22,9 @@ author_profile: true
 **Associate Chair (AC)**
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW**): 2024, 2025
 
+**Session Chair**
+* ACL (track: LLM Efficiency): 2026
+
 ## Program Committee
 **Conference Reviewer**
 * ACL Rolling Review (**ARR**): (2021-2026)
