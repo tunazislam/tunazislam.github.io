@@ -11,6 +11,9 @@ My research interests broadly lie in **AI for Societal Impact**, at the intersec
 <br>
 My research has been published in prominent venues such as ACL, NAACL, EMNLP, ICWSM, AAAI, AAAI/ACM AIES, ACM WebSci, IEEE Big Data.
 See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publication lists here </b> </a>. 
+<br>
+<a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
+<br>
 <div>
 <img src="/images/research.png" style="width: 950px; height: auto;">
 </div>
