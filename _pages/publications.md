@@ -25,7 +25,6 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>. Under Review. 
     <br>
-    <a href="https://arxiv.org/abs/2606.10126" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
