@@ -19,6 +19,16 @@ Publication Lists:
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/posthoc_miti_transfer_eval.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/posthoc-mitigation-transfer-evaluation" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. Under Review. 
+    <br>
+    <a href="https://arxiv.org/abs/2606.10126" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/claim_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/claim-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross-Platform Analysis of Climate Discourse on Meta and Bluesky </b></a>	⚀ 
