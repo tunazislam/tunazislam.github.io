@@ -39,6 +39,8 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* 💰August 20, 2026: <span style="color:red"> Received National Artificial Intelligence Research Resource Grant: **NAIRR260365** (2000 GPU Hours) as a **PI**.</span> [[Link](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260365)]
+* 🎤August 20, 2026: Gave an invited talk at the School of Computer Science, University of Oklahoma, Norman, OK, on <span style="color:red">"From Understanding Communication to Responsible AI Intervention"</span>. 
 * July 28-31, 2026: Attending [IC2S2 2026](https://ic2s2-2026.org/) in Burlington, Vermont and presenting my work [Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text](https://aclanthology.org/2026.findings-acl.452/)
 * July 02-07, 2026: Attended [ACL 2026](https://2026.aclweb.org/) in San Diego, California and presented my **two** papers [Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text](https://aclanthology.org/2026.findings-acl.452/) and [Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs](https://aclanthology.org/2026.findings-acl.482/). Besides, I organized a **BoF** session on <span style="color:red">"From Text to Structure: Interpretable and Auditable Systems with Language Models"</span>. Also, I served as a **virtual session chair** at the _LLM Efficiency_ track.
 * &#x1F3C6; July 01, 2026: Received Postdoctoral Travel Award, Purdue University, Summer 2026 (Competitive; awarded to 22 of 58 applicants across 11 Purdue colleges).
