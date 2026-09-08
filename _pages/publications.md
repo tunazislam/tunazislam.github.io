@@ -100,7 +100,7 @@ Publication Lists:
     <br>
     Alexander Brady*, <b>Tunazzina Islam*</b>. In Findings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (<a href="https://2026.aaclnet.org/">AACL-IJCNLP 2026</a>).
     <br>
-    <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
+    <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/alexander-brady/llm-topic-synthesis" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a>
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
