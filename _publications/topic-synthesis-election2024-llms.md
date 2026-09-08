@@ -2,8 +2,8 @@
 title: "Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising"
 collection: publications
 permalink: /publications/topic-synthesis-election2024-llms
-venue: "arXiv 2025"
-citation: 'Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.'
+venue: "In Findings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2026)"
+citation: 'Alexander Brady*, <b>Tunazzina Islam*</b>. In Findings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2026).'
 
 ---
 [[arXiv]](https://arxiv.org/pdf/2510.15125)
