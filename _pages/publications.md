@@ -56,16 +56,6 @@ Publication Lists:
      <a href="https://arxiv.org/pdf/2603.24580" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising </b></a> ⚀ 
-    <br>
-    Alexander Brady*, <b>Tunazzina Islam*</b>. Under Review.
-    <br>
-    <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
-  </div>
-</div>
 
 ## **Doctoral Consortium:** 
 
@@ -101,6 +91,16 @@ Publication Lists:
     <b>Tunazzina Islam</b>. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<a href="https://2026.aclweb.org/">ACL 2026</a>). [Acceptance rate: 18%]
     <br>
     <a href="https://aclanthology.org/2026.findings-acl.482/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Paper Link]</a> <a href="https://arxiv.org/pdf/2604.07562" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> <a href="https://github.com/tunazislam/reasoning-based-refinement-llms-vegan" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Code]</a> <a href="https://tunazislam.github.io/files/Slide_reasoning_vegan_ACL_2026.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Slide]</a>
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/topic_synthesis_election2024.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/topic-synthesis-election2024-llms" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising </b></a> ⚀ 
+    <br>
+    Alexander Brady*, <b>Tunazzina Islam*</b>. In Findings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (<a href="https://2026.aaclnet.org/">AACL-IJCNLP 2026</a>).
+    <br>
+    <a href="https://arxiv.org/pdf/2510.15125" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
