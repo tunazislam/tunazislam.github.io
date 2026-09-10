@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research interests broadly lie in **AI for Societal Impact**, at the intersection of **Natural Language Processing (NLP)** and **Computational Social Science (CSS)**. I design scalable, explainable, collaborative, and socially responsible AI methods to tackle challenges in ***microtargeting analysis***, ***discourse understanding***, ***responsible AI integration***, and ***human–AI collaboration***. These approaches are applied to socially significant domains, including *elections*, *climate debates*, *vaccine debates*, *lifestyle choices* (*yoga*, *keto*, *veganism*), and *AI Governance*. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. 
+My research lies at the intersection of **Natural Language Processing (NLP)**, **Computational Social Science (CSS)**, and **Artificial Intelligence (AI)**. I develop interpretable, scalable, responsible, and human-centered computational methods for understanding communication, discourse, and decision-making in socio-technical systems. By combining NLP, large language models, data-driven methods, and human–AI collaboration, I study information ecosystems and AI-mediated communication with the goal of building transparent and trustworthy AI systems to address societal challenges. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. 
 <br>
 My research has been published in prominent venues such as ACL, NAACL, EMNLP, AACL-IJCNLP, ICWSM, AAAI, AIES, ACM WebSci, IC2S2, IEEE Big Data.
 See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publication lists here </b> </a>. 
