@@ -5,7 +5,9 @@ author_profile: true
 ---
 Publication Lists: 
 ======
-<b>*</b> indicates <b>equal contribution</b>. <b>⚀</b> indicates <b>Papers with students I mentored</b>.
+<b>*</b> indicates <b>equal contribution</b>. 
+<br>
+<b>⚀</b> indicates <b>papers co-authored with students whom I mentored</b>.
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
