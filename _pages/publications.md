@@ -30,9 +30,9 @@ Publication Lists:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/claim_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/claim-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Cross-Platform Analysis of Climate Discourse on Meta and Bluesky </b></a>	⚀ 
+    <a href="http://tunazislam.github.io/publications/claim-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Climate Claims Across Platforms: Comparing Meta Advertising and Bluesky Public Discourse </b></a>	⚀ 
     <br>
-    Cheng Wang, Samantha Sudhoff, Jingying Hu, Edward Wang, Zhaoqing Wu, <b>Tunazzina Islam</b>. Preprint, 2026. Under Review.
+    <b>Tunazzina Islam</b>, Samantha Sudhoff, Jingying Hu, Cheng Wang, Zhaoqing Wu, Edward Wang. Preprint, 2026. Under Review.
     <br>
   </div>
 </div>
