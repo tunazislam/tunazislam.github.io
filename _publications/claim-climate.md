@@ -1,5 +1,5 @@
 ---
-title: "Cross-Platform Analysis of Climate Discourse on Meta and Bluesky"
+title: "Climate Claims Across Platforms: Comparing Meta Advertising and Bluesky Public Discourse"
 collection: publications
 permalink: /publications/claim-climate
 venue: "Preprint 2026"
