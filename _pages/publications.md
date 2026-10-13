@@ -11,9 +11,9 @@ Publication Lists:
 
 ## **Preprints, Papers Under Review:**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/pareto_guided_teacher_alignment.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/PGCD_Framework.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <a href="http://tunazislam.github.io/publications/pareto-teacher-alignment" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Pareto-Guided Teacher Alignment for Fair Personalized Text Generation </b></a>
+    <a href="http://tunazislam.github.io/publications/pareto-teacher-alignment" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Pareto-Dominance Supervision for Reducing Demographic Framing Disparities </b></a>
     <br>
     <b>Tunazzina Islam</b>. Under Review. 
     <br>
