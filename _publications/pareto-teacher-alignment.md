@@ -1,5 +1,5 @@
 ---
-title: "Pareto-Guided Teacher Alignment for Fair Personalized Text Generation"
+title: "Pareto-Dominance Supervision for Reducing Demographic Framing Disparities"
 collection: publications
 permalink: /publications/pareto-teacher-alignment
 venue: "arXiv 2026"
@@ -11,15 +11,5 @@ citation: '<b>Tunazzina Islam</b>. Under Review.'
 
 ## Abstract
 
-Personalized persuasive text generation can improve relevance and engagement, but demographic conditioning may also introduce unequal framing across
-groups. We study fairness mitigation in personalized generation as a constrained multi-objective alignment problem: reduce demographic disparities 
-while preserving personalization fidelity. We propose a **Pareto-guided teacher alignment** framework that combines revision-based candidate 
-generation, pair-aware feasibility gating, Pareto-style candidate selection, and optional preference optimization through supervised fine-tuning and 
-direct preference optimization. We evaluate the framework on climate change and vaccination persuasion tasks using a controlled context-rich 
-demographic grid with matched gender and age pairs and a unified *five-audit* evaluation suite spanning persuasion bias, formality disparity, 
-emotional framing disparity, lexical association disparity, and personalization fidelity. Across both domains and cross-family transfer settings, 
-no single alignment strategy dominates all objectives simultaneously. Instead, methods occupy different regions of a fairness--personalization Pareto 
-frontier: some achieve stronger disparity reductions, while others better preserve personalization or demographic stability. Our results show that 
-fairness mitigation effects are objective-dependent and transfer inconsistently across domains and model families, motivating bounded-regression, 
-multi-audit model selection over single-metric optimization for fairness-sensitive personalized generation.
+Large language models can tailor messages to readers of different ages or genders, but may also introduce differences in tone, confidence, and how readers are addressed. We study how to reduce measured framing disparities while preserving the requested topic and context. Our approach uses a student model and a larger teacher model to generate alternative revisions of message pairs, with each model revising both demographic versions together. It evaluates revisions using multiple measures, retains feasible candidates that are not clearly outperformed, and constructs preferences only when one revision improves at least one measure beyond a specified margin without worsening the others---a relation we call *margin-based Pareto dominance*. We use these examples for supervised fine-tuning followed by preference optimization. On climate change and vaccination messaging, the primary student reduces formality and emotional-framing disparities while improving contextual fidelity relative to its unaligned baseline. Lexical outcomes differ by demographic attribute: scores decrease on the youngest-vs-oldest comparisons for both tested students, whereas gender-associated outcomes differ between them. Persuasion-bias gains also vary by domain and configuration. These findings support dominance-derived supervision while showing why aggregate scores should be accompanied by attribute-level evaluation.
 
