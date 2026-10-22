@@ -14,7 +14,7 @@ author_profile: true
 
 ## Area Chair
 
-* Area Chair (AC) of ACL Rolling Review (ARR): 2025
+* Area Chair (AC) of ACL Rolling Review (ARR): 2025, 2026
 
 **Senior Program Committee (SPC)**
 * International AAAI Conference on Web and Social Media (**ICWSM**): 2026, 2027
