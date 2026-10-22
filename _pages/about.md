@@ -19,7 +19,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 </div>
 <br>
 
-I am a Visiting Scholar in the [Department of Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) and Research Affiliate of the [Governance and Responsible AI Lab (GRAIL)](https://www.grail-lab.org/) in Purdue University’s Department of Political Science. I earned my **Ph.D. in Computer Science** at Purdue University, advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I was a Visiting Assistant Professor in the Department of Computer Science at Purdue University and a Faculty Affiliate at the GRAIL lab.  I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
+I am a Visiting Scholar in the [Department of Computer Science (CS)](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) and a Research Affiliate of the [Governance and Responsible AI Lab (GRAIL)](https://www.grail-lab.org/) in Purdue University’s Department of Political Science. I earned my **Ph.D. in Computer Science** at Purdue University, advised by [Dr. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). I was a Visiting Assistant Professor in the Department of Computer Science at Purdue University and a Faculty Affiliate at the GRAIL lab.  I obtained M.Sc. in [Computer Science (CS)](https://odu.edu/compsci) from [Old Dominion University (ODU)](https://www.odu.edu/#prospective). I completed my B.Sc in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
 <!--- Prior to joining ODU, I worked as a software developer on the R&D team of [Dohatec New Media](http://www.dohatec.com/) for two years. -->
 <br>
 <!-- <br>
@@ -39,6 +39,8 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* October 21, 2026: **Area Chair (AC)** of ACL Rolling Review (ARR).
+* 🎤 October 08, 2026: Gave an invited talk at the College of Engineering & Sciences, University of Texas Permian Basin (UTPB) on <span style="color:red">"From Text to Structure: Interpretable and Auditable AI for Communication"</span>.
 * &#x1F4DD; September 08, 2026: **Long paper** accepted to publish in [AACL-IJCNLP 2026](https://2026.aaclnet.org/).
 * 💰 August 20, 2026: <span style="color:red"> Received National Artificial Intelligence Research Resource Grant: **NAIRR260365** (2000 GPU Hours) as a **PI**.</span> [[Link](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260365)]
 * 🎤 August 20, 2026: Gave an invited talk at the School of Computer Science, University of Oklahoma, Norman, OK, on <span style="color:red">"From Understanding Communication to Responsible AI Intervention"</span>. 
