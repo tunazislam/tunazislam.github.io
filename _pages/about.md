@@ -39,6 +39,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* November 06–10, 2026: Attended [AACL-IJCNLP 2026](https://2026.aaclnet.org/) and presented our work [Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://arxiv.org/pdf/2510.15125). 
 * October 21, 2026: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * 🎤 October 08, 2026: Gave an invited talk at the College of Engineering & Sciences, University of Texas Permian Basin (UTPB) on <span style="color:red">"From Text to Structure: Interpretable and Auditable AI for Communication"</span>.
 * &#x1F4DD; September 08, 2026: **Long paper** accepted to publish in [AACL-IJCNLP 2026](https://2026.aaclnet.org/).
