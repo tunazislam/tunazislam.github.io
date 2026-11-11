@@ -39,7 +39,8 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
-* November 06–10, 2026: Attended [AACL-IJCNLP 2026](https://2026.aaclnet.org/) and presented our work [Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://arxiv.org/pdf/2510.15125). 
+* November 06–10, 2026: Attended [AACL-IJCNLP 2026](https://2026.aaclnet.org/) and presented our work [Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://arxiv.org/pdf/2510.15125).
+* 🎉 November 05, 2026: Excited to share that I will be joining the [Department of Computer Science](https://stevens-computing-ai.usc.edu/) and [Information Sciences Institute (ISI)](https://www.isi.edu/) at [University of Southern California (USC)](https://www.usc.edu/) as a **Postdoctoral Research Associate** starting in December 2026, working with [Dr. Emilio Ferrara](https://www.emilio.ferrara.name/)!
 * October 21, 2026: **Area Chair (AC)** of ACL Rolling Review (ARR).
 * 🎤 October 08, 2026: Gave an invited talk at the College of Engineering & Sciences, University of Texas Permian Basin (UTPB) on <span style="color:red">"From Text to Structure: Interpretable and Auditable AI for Communication"</span>.
 * &#x1F4DD; September 08, 2026: **Long paper** accepted to publish in [AACL-IJCNLP 2026](https://2026.aaclnet.org/).
@@ -60,18 +61,21 @@ Recent News
 * &#x1F4DD; August 20, 2025: **Long paper** accepted to publish in [EMNLP 2025](https://2025.emnlp.org/).
 * August 13, 2025: <a style="color:red" href="https://www.icwsm.org/2026/organization.html">Tutorial Co-Chair ICWSM 2026</a>. Please submit your proposal by January 15, 2026. cfp: [https://www.icwsm.org/2026/submit.html](https://www.icwsm.org/2026/submit.html)
 * June 23-26, 2025: Attended [ICWSM 2025](https://www.icwsm.org/2025/index.html) in Copenhagen, Denmark and presented our work [Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/35850).
-* 🎤 June 12, 2025: Gave an invited talk at School of Computing Technologies, RMIT University, Melbourne, Australia, on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Thanks to [Dr. Jenny Zhang](https://xiuzhenzhang.github.io/) for hosting me!
+* 🎤 June 12, 2025: Gave an invited talk at the School of Computing Technologies, RMIT University, Melbourne, Australia, on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Thanks to [Dr. Jenny Zhang](https://xiuzhenzhang.github.io/) for hosting me!
 * May 22, 2025: **Senior Program Committee (SPC)** of ICWSM 2026.
 * May 20-23, 2025: Attended [WebSci'25](https://www.websci25.org/) in New Brunswick, New Jersey and presented our work [Can LLMs Assist Annotators in Identifying Morality Frames? - Case Study on Vaccination Debate on Social Media](https://dl.acm.org/doi/10.1145/3717867.3717902). 
 * April 29-May 04, 2025: Attended [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico and presented our work [Uncovering Latent Arguments in Social Media Messaging by Employing LLMs-in-the-Loop Strategy](https://aclanthology.org/2025.findings-naacl.413/). Also, I organized BoF session on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>.
 * April 15-16, 2025: Attended [Midwest Speech and Language Days (MSLD)](https://nlp.nd.edu/msld25/) 2025 at the University of Notre Dame to present two posters.
 * &#x1F3C6; April 11, 2025: Received Graduate Women in Science Program (WISP) award from College of Science, Purdue University.
 * March 26, 2025: <span style="color:red">Organizer and Chair</span> of [Birds of a Feather (BoF) session](https://2025.naacl.org/calls/affinity/) in [NAACL 2025](https://2025.naacl.org/) on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. Please join on May 2 (Friday), 9:00-10:30 MST, Room: 230 -Pecos, Albuquerque Convention Center.
+* 🎤 March 25, 2025: Gave an invited talk in the Department of Computer Science at Georgia State University (GSU) on <span style="color:red">"Understanding and Analyzing Microtargeting Patterns on Social Media"</span>. 
 * &#x1F3C6; March 19, 2025: Received NAACL 2025 Diversity and Inclusion Award (D&I Award).
 * &#x1F4F0; March 11, 2025: My research and interview were featured in [AIhub](https://aihub.org/2025/03/11/interview-with-tunazzina-islam-understand-microtargeting-and-activity-patterns-on-social-media/).
-<!--- * March 10, 2025: Joined as AI Forge Visiting Assistant Professor at [Purdue Computer Science](https://www.cs.purdue.edu/). -->
+* 🏛️ March 10, 2025: Joined as AI Forge Visiting Assistant Professor at [Purdue Computer Science](https://www.cs.purdue.edu/). 
 * &#x1F3C6; February 26, 2025: <span style="color:red"> My Ph.D. thesis proposal won the **best poster award in 2025 AAAI/SIGAI Doctoral Consortium**</span>. <a href="https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Award]</a> <a href="https://tunazislam.github.io/files/AAAI 2025 DC best poster.pdf" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Announcement]</a> <a href="https://tunazislam.github.io/images/Best_Poster_Award_AAAI_DC_2025.jpeg" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[Photo]</a>
 * February 25-March 04, 2025: Attended [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) in Philadelphia, Pennsylvania and presented my Ph.D. Thesis Proposal at <a style="color:red" href="https://aaai.org/conference/aaai/aaai-25/doctoral-consortium-call/">AAAI-25 Doctoral Consortium</a>.
+* 🎤 February 12, 2025: Gave an invited talk in the Department of Computer Science at Florida State University (FSU) on <span style="color:red">"Understanding Microtargeting Patterns on Social Media"</span>. 
+* 🎉 February 11, 2025: Happy to share that I will be joining as a Visiting Assistant Professor at [Purdue Computer Science](https://www.cs.purdue.edu/)!
 * &#x1F393; February 07, 2025: <span style="color:red"> Defended my Ph.D. dissertation</span>.
 * &#x1F4DD; January 31, 2025: **Long paper** accepted to publish in [ACM WebSci 2025](https://www.websci25.org/).
 * &#x1F4DD; January 22, 2025: **Long paper** accepted to publish in [NAACL 2025](https://2025.naacl.org/).
