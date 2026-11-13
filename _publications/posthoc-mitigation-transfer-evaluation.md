@@ -2,8 +2,8 @@
 title: "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation"
 collection: publications
 permalink: /publications/posthoc-mitigation-transfer-evaluation
-venue: "Preprint 2026"
-citation: '<b>Tunazzina Islam</b>. Under Review.'
+venue: "20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027)"
+citation: '<b>Tunazzina Islam</b>. Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027).'
 
 ---
 
