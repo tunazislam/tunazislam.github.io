@@ -21,15 +21,6 @@ Publication Lists:
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/posthoc_miti_transfer_eval.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
-  <div>
-    <a href="http://tunazislam.github.io/publications/posthoc-mitigation-transfer-evaluation" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation </b></a>
-    <br>
-    <b>Tunazzina Islam</b>. Under Review. 
-    <br>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/claim_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="http://tunazislam.github.io/publications/claim-climate" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Climate Claims Across Platforms: Comparing Meta Advertising and Bluesky Public Discourse </b></a>	⚀ 
@@ -73,6 +64,15 @@ Publication Lists:
 </div>
     
 ## **Conferences:** 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/posthoc_miti_transfer_eval.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
+  <div>
+    <a href="http://tunazislam.github.io/publications/posthoc-mitigation-transfer-evaluation" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation </b></a>
+    <br>
+    <b>Tunazzina Islam</b>. Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (<a href="https://2027.eacl.org/">EACL 2027</a>). 
+    <br>
+  </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/bias_llm_climate.png" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
