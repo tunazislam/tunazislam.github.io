@@ -9,7 +9,7 @@ redirect_from:
 ---
 My research lies at the intersection of **Natural Language Processing (NLP)**, **Computational Social Science (CSS)**, and **Artificial Intelligence (AI)**. I develop interpretable, scalable, responsible, and human-centered computational methods for understanding communication, discourse, and decision-making in socio-technical systems. By combining NLP, large language models, data-driven methods, and human–AI collaboration, I study information ecosystems and AI-mediated communication with the goal of building transparent and trustworthy AI systems to address societal challenges. See the <a href="https://tunazislam.github.io/research/" style="color: #8B4513;" > <b>research details here</b> </a>. 
 <br>
-My research has been published in prominent venues such as ACL, NAACL, EMNLP, AACL-IJCNLP, ICWSM, AAAI, AIES, ACM WebSci, IC2S2, IEEE Big Data.
+My research has been published in prominent venues such as ACL, NAACL, EMNLP, EACL, AACL-IJCNLP, ICWSM, AAAI, AIES, ACM WebSci, IC2S2, IEEE Big Data.
 See my <a href="https://tunazislam.github.io/publications/" style="color: #8B4513;" > <b>publication lists here </b> </a>. 
 <br>
 <a href="https://tunazislam.github.io/files/CV_Tunazzina_Islam.pdf" style="color: blue;" > [CV]</a>
