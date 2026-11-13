@@ -69,7 +69,7 @@ Publication Lists:
   <div>
     <a href="http://tunazislam.github.io/publications/posthoc-mitigation-transfer-evaluation" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation </b></a>
     <br>
-    <b>Tunazzina Islam</b>. Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (<a href="https://2027.eacl.org/">EACL 2027</a>). 
+    <b>Tunazzina Islam</b>. Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (<a href="https://2027.eacl.org/">EACL 2027</a>) (main). [Acceptance rate: 13.5%] 
     <br>
   </div>
 </div>
