@@ -39,6 +39,7 @@ See my <a href="https://tunazislam.github.io/publications/" style="color: #8B451
 
 Recent News
 ======
+* &#x1F4DD; November 12, 2026: **Long paper** accepted to publish in [EACL 2027](https://2027.eacl.org/).
 * November 06–10, 2026: Attended [AACL-IJCNLP 2026](https://2026.aaclnet.org/) and presented our work [Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://aclanthology.org/2026.findings-aacl.99.pdf).
 * 🎉 November 05, 2026: Excited to share that I will be joining the [Department of Computer Science](https://stevens-computing-ai.usc.edu/) and [Information Sciences Institute (ISI)](https://www.isi.edu/) at [University of Southern California (USC)](https://www.usc.edu/) as a **Postdoctoral Research Associate** starting in December 2026, working with [Dr. Emilio Ferrara](https://www.emilio.ferrara.name/)!
 * October 21, 2026: **Area Chair (AC)** of ACL Rolling Review (ARR).
