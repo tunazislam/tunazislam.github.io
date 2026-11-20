@@ -71,6 +71,7 @@ Publication Lists:
     <br>
     <b>Tunazzina Islam</b>. Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (<a href="https://2027.eacl.org/">EACL 2027</a>) (Main Conference). [Acceptance rate: 13.5%] 
     <br>
+    <a href="https://arxiv.org/pdf/2611.25258" style="color: #5f5147;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#5f5147';">[arXiv]</a> 
   </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
